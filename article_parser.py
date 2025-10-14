@@ -1,6 +1,6 @@
 import pymupdf
 
-doc = pymupdf.open("Articles/1-s2.0-S2352513424005982-main.pdf")
+doc = pymupdf.open("Articles/52882-Article Text-61001-66764-10-20240828.pdf")
 out = open("output.txt", "wb") # create a text output
 for page in doc: # iterate the document pages
     text = page.get_text().encode("utf8") # get plain text (is in UTF-8)

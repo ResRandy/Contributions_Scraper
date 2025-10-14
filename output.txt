@@ -1,720 +1,742 @@
-The effect of the Hippocampus erectus decoction on improving osteoporosis 
-in zebrafish
-Qiuxian Chen a,*, Xuange Liu a,*, Ting Wang c,*, Chenlei Huang a, Zhilun Zhang a, Jiahui Chen a,  
-Huadong Yi a, Li Lin a, Jinhui Wu b, Guifeng Li a,*, Yong Zhang a,*
-a State Key Laboratory of Biocontrol and School of Life Sciences, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), Guangdong Provincial Key 
-Laboratory for Aquatic Economic Animals, Sun Yat-Sen University, Guangzhou 510275, China
-b Agro-Tech Extension Center of Guangdong Province, Guangzhou, Guangdong 510145, China
-c KemRocMed Co., Ltd., Guangzhou 510320, China
-A R T I C L E  I N F O
-Keywords:
-Osteoporosis
-Zebrafish larvae
-Seahorse decoction
-Prednisolone
-A B S T R A C T
-The seahorse is a traditional Chinese herbal medicine that has been utilized for the treatment of conditions such 
-as osteoporosis, nonunion fractures, knee osteoarthritis, and herniated lumbar disks.
-Zebrafish is an excellent animal model to study the effects of herbal preparations on osteogenesis and bone 
-metabolism, and bone biology is highly similar to that of mammals, so it has been used to develop multiple 
-glucocorticoid-induced osteoporosis (GIOP) models. Our study aimed to explore whether the decoction of Hip­
-pocampus erectus (DHe) administered in zebrafish larvae promotes bone health under physiological and osteo­
-porotic conditions. In zebrafish larvae, 25 µM prednisolone solution was successfully used to induce the zebrafish 
-osteoporosis model, which can significantly inhibit the mineralization area and degree of bone mineralization, 
-reduce the activity of alkaline phosphatase, and increase tartrate-resistant acid phosphatase activity. The results 
-showed that 0.3 g/L DHe had a significant improvement effect on osteoporosis in zebrafish by enhancing the 
-mineralization degree and phosphatase activity of zebrafish, while also promoting the expression of genes 
-associated with bone development. It can be considered a good candidate to develop new drugs against 
-osteoporosis.
-1. Introduction
-Osteoporosis is a metabolic bone disease, with defining features 
-including decreased bone density, heightened bone fragility, damaged 
-bone microstructure, and increased susceptibility to fractures (Anam 
-and Insogna, 2021). The increasing pace of global aging will contribute 
-to a further escalation in the prevalence of osteoporosis, accompanied by 
-the gradual worsening of symptoms. Glucocorticoids are a leading cause 
-of secondary osteoporosis, however, the current pharmacological 
-treatments for human bone diseases have some side effects, including 
-upper gastrointestinal symptoms and bowel disturbances (Tarantino 
-et al., 2017). So it is important to find innovative non-invasive natural 
-therapeutic approaches. Some traditional Chinese herbs have antioxi­
-dant and anti-inflammatory properties, which have been proven to play 
-an important role in preventing skeletal diseases (Carnovali et al., 2021, 
-2020).
-The seahorse is a valuable medicine that has been widely used for 
-centuries in traditional Chinese medicine. Studies have shown that 
-seahorses are rich in various chemical components such as amino acids, 
-fatty acids, and trace elements (Lin et al., 2008; Sanaye et al., 2014), 
-which have the properties of appetite enhancement, antioxidant, 
-anti-tumor, anti-aging, and anti-fatigue (Jianying et al., 2000; Zhang 
-et al., 2003), and have a curative role for osteoporosis, impotence, 
-infertility, kidney disorders and skin afflictions (Kumaravel et al., 2012; 
-Rosa et al., 2013; Zhang et al., 2003). The phenolic compounds, 
-extracted from the seahorses, can promote the up-regulation of osteo­
-genic marker genes, the proliferation and mineralization of osteoblasts, 
-induce the formation of bone nodules, and inhibit the activity of 
-tartrate-resistant acid phosphatase (TRAP) in osteoclasts in rats (Li et al., 
-2019; Yuan et al., 2018).
-The novel peptides isolated from the seahorses can promote the 
-differentiation of osteoblasts and chondrocytes, effectively restrain the 
-* Correspondence to: Institute of Aquatic Economic Animals, School of Life Sciences, Sun Yat-sen University, Guangzhou Higher Education Mega Center, No. 132, 
-East Outer Ring Road, Guangzhou 510006, China
-E-mail addresses: liguif@mail.sysu.edu.cn, lsszy@mail.sysu.edu.cn (G. Li). 
-Contents lists available at ScienceDirect
-Aquaculture Reports
-journal homepage: www.elsevier.com/locate/aqrep
-https://doi.org/10.1016/j.aqrep.2024.102510
-Received 5 July 2024; Received in revised form 26 September 2024; Accepted 12 November 2024  
-Aquaculture Reports 39 (2024) 102510 
-Available online 15 November 2024 
-2352-5134/© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
-nc-nd/4.0/ ). 
-increase of matrix metalloprotein, and refrain the breakdown of 
-collagen by inhibiting the NF-κB/p38 kinase pathway in a dose- 
-dependent manner (Ryu et al., 2010a,b). The chemical composition of 
-seahorses will be affected by the extraction method, and most research is 
-based on the freeze-dried powder and alcohol extract of seahorses 
-(Mundijo et al., 2022; Ryu et al., 2010b), with limited studies conducted 
-on seahorses decoctions.
-Danio rerio (zebrafish) is a representative model for translational 
-studies on human bone diseases. Particularly, the zebrafish embryo is a 
-powerful model to study developmental osteogenesis (Kimmel et al., 
-2010). Zebrafish can absorb drugs or chemicals through the skin and are 
-transparent in the embryo and young fish, which makes the internal 
-organs of zebrafish directly observable to study the morphological 
-changes (Barrett et al., 2006; Goldsmith, 2004; Kari et al., 2007; Zon and 
-Peterson, 2005).
-The ossification mechanism and bone matrix composition of zebra­
-fish are highly similar to those of mammals, and zebrafish genomes also 
-contain homologous genes to several key genes adjusting skeletal 
-development in mammals (Dietrich et al., 2021). Thus, zebrafish can be 
-used to make models of osteoporosis, osteogenesis imperfect, and 
-fibrodysplasia ossificans progressive (de Vrieze et al., 2014; Fisher et al., 
-2003; LaBonty et al., 2017). Prednisolone can induce a dose-dependent 
-loss of bone matrix (glucocorticoid-induced osteoporosis, GIOP) that can 
-be assessed in zebrafish scales through histological and biochemical 
-examinations (de Vrieze et al., 2014). Therefore, we used prednisolone 
-to construct a GIOP model in zebrafish larvae, and the purpose of this 
-study was to test the ability of seahorses decoctions to prevent the for­
-mation of the osteoporotic phenotype in the zebrafish GIOP model.
-2. Materials and methods
-2.1. Ethics statement
-This experimentation has been done in the Zebrafish Laboratory (Sun 
-Yat-sen University, guangzhou, China). All experimental protocols were 
-approved by the Institutional Animal Care and Ethics Committee of Sun 
-Yat-sen University.
-2.2. The preparation of H. erectus decoction and component detection
-Hippocampus erectus (H. erectus) were derived from HAIMAO SEED 
-TECHNOLOGY GROUP CO., TLD, Zhanjiang, which were 6 months old 
-(body length 9–11 cm and wet weight 7–9 g). The seahorses were 
-anesthetized with tricaine methanesulfonate (MS-222, 100 mg/L), and 
-then frozen with liquid nitrogen. Seahorses decoction (DHe) was made 
-by 50 g seahorses and 5 L pure water. The preparation of seahorses 
-decoction was referred to the preparation of Chinese herbal medicine 
-decoction (Song et al., 2004). The liquid in the decoction was filtered 
-through qualitative filter paper, and the volume was fixed to 5 L with 
-pure water in a volumetric flask to prepare 10 g/L DHe.
-Qualification of chemical markers of DHe were performed on a Q 
-Exactive Plus system (Thermo Fisher, America). The mixtures were 
-filtered by a 0.22 µm filter before separated by an Acquity UPLC HSS T3 
-column (1.8 µm, 2.1 mm × 100 mm). The mobile phase composed of 
-0.1 % formic acid in acetonitrile (A) and 0.1 % formic acid in water (B), 
-and the gradient program according to the Kenneth et al. method (Kwan 
-et al., 2019). The column temperature was 35 ◦C, and the injection 
-volume was 10 µl. Mass spectrometry was performed on a Q Exactive 
-Orbitrap equipped with an ESI ion source was operated in positive and 
-negative ion. The dry gas temperature was 320 ◦C, drying gas flow rate 
-was 15 L/min, and capillary voltage was 3200 V.
-2.3. Animals husbandry and experimental design
-Zebrafish larvae (D. rerio) AB strains were divided into six groups, 
-each group was soaked with different solutions for 120 h in 4 days after 
-fertilization (dpf) and set three parallels (n = 30). Control groups, larvae 
-were treated with 0.1 % dimethyl sulfoxide (DMSO). Model groups, 
-larvae were treated with 25 µM prednisone (Huo et al., 2018). Positive 
-groups, larvae were treated with 25 µM prednisone and 30 mg/L eti­
-dronate disodium (ED). Low concentration seahorses decoction group 
-(L-DHe), larvae were treated with 25 µM prednisone and 0.15 g/L DHe. 
-Medium concentration seahorses decoction group (L-DHe), larvae were 
-treated with 25 µM prednisone and 0.30 g/L DHe. High concentration 
-seahorses decoction group (L-DHe), larvae were treated with 25 µM 
-prednisone and 0.60 g/L DHe. All groups larvae were raised in closed 
-water system (1 L) under 14/10 h light/dark (L/D) cycles at 28◦C and 
-fed with paramecia, and treatment solutions were changed every 24 h. 
-Larvae were euthanized for sampling in 0.1 % 2-phenoxyethanol.
-2.4. Skeletal staining, mineralized area and mineralized intensity in 
-zebrafish larvae
-Zebrafish larvae were collected and fixed in 2 % paraformaldehyde 
-(PFA) overnight and trypsinized with 1 % trypsin in a 35 % saturated 
-sodium borate solution overnight to remove the skin and muscles. After 
-washing with 10 % glycerol/0.5 % KOH, larvae were stained with 
-0.02 % Alizarin Red stain/10 % glycerol/0.5 % KOH overnight, and then 
-washed twice with 50 % glycerol/0.1 % KOH overnight. Three zebrafish 
-larvae were selected from each group and three parallels were set. Im­
-ages were acquired with a stereomicroscope (M165FC; Leica, Frankfurt, 
-Germany). Digital image analysis was performed to quantify stained 
-area and staining density.
-Whole-mount skeletal staining of zebrafish larvae was referred to 
-Ding et al. (2021). Images were acquired with a stereomicroscope (ZEISS 
-Lumar.V12, Germany) under the bright field C4 brightness, and the 
-exposure was maintained at 280 ms to obtain the abdominal surface 
-view photos of juvenile zebrafish. Images were analyzed with Image Pro 
-Plus 6.0 to calculate the mineralized area and mineralized intensity 
-(Barrett et al., 2006).
-2.5. RNA isolation, cDNA synthesis and quantitative real-time PCR
-Total RNA was extracted from a pool of 10 larvae using Trizol 
-(Invitrogen) reagent and reverse transcribed into cDNA with Superscript 
-III Reverse Transcriptase (Invitrogen). Quantitative Real-Time PCR 
-(qRT-PCR) was performed using an Roche LightCycler 480 instrument 
-with the SYBR (TaKaRa, China) system with 40 cycles of 95 ◦C for 10 s, 
-and 58 ◦C for 30 s. Each qRT-PCR assay was conducted with three in­
-dependent biological samples and each sample was performed in trip­
-licate. All expression levels were normalized to the expression level of 
-the housekeeping gene β-actin. Relative mRNA expression levels are 
-expressed as 2ΔΔCt. Primer sequences are listed in the supplementary 
-information 1.
-2.6. ALP and TRAP assays
-Each group was set up with three replicates treatment, and 5 fish 
-were used for each treatment.
-Alkaline phosphatase (ALP) assay was done using an alkaline phos­
-phatase assay kit (Njjcbio, China). Tartrate resistant acid phosphatase 
-(TRAP) assay was performed using a tartrate-resistant acid phosphatase 
-stain kit (Njjcbio, China) following the manufacturer’s protocol.
-2.7. Statistics
-Data are presented as mean±s.d. Statistical analyses were performed 
-with either an analysis of variance (ANOVA) or an unpaired two tailed 
-Student’s t-test. All statistical analyses were performed using SPSS 21.0 
-software (IBM) and values of P <0.05 were considered statistically 
-significant.
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-2 
-3. Results
-3.1. The main active components of DHe
-There were 36 active components in DHe, and the main ingredients 
-(relative content >2 %) were shown in Table 1. The 36 active in­
-gredients contained 6 kinds of dipeptides (30.915 %), 5 kinds of amino 
-acids (23.709 %), 10 kinds of organic acids (17.639 %), 5 kinds of 
-organic acid esters (4.567 %), 2 kinds of vitamins (2.535 %), alcohol 
-(2.162 %), 2 kinds of aldehydes (1.296 %), 2 kinds of nucleosides 
-(0.439 %), ketone (0.240 %) and 2 kinds of other substances (creatinine 
-and oleamide, total relative content of 16.497 %) (supplementary in­
-formation 2).
-3.2. Effect of DHe concentration on survival rate of zebrafish
-To explore the appropriate concentration of DHe, 4dpf larva zebra­
-fish were exposed to different concentrations of DHe. The survival 
-numbers of larvae after 24 h, 48 h, 72 h, 96 h, 120 h were counted 
-(Table 2) and the median lethal concentration of DHe was obtained 
-(Table 2). The results showed that 0.01–0.3 g/L DHe had no obvious 
-lethal effect on larvae (Table 2). However, when the DHe concentration 
-exceeded 1 g/L, the mortality rate of larvae was positively correlated 
-with concentration. With the increase of time, the survival slope of larva 
-zebrafish decreased (Fig. 1 A) and the median lethal concentration of 
-DHe on larvae decreased (Table 2).
-According to the above results, we further explored the effects of 
-DHe concentrations on the mortality of larvae under the GIOP model. On 
-the fourth day, the mortality of larvae in all groups increased sharply 
-except the control groups (Fig. 1B). During the whole experiment, the 
-mortality rate of L-DHe, M-DHe and H-DHe groups were 20.8 %, 17.5 % 
-and 21.7 % respectively (Table 3), which was close to that of the model 
-groups (22.5 %). It was showed the death of larvae was mainly caused 
-by prednisolone, and 0.15 g/L, 0.3 g/L, 0.6 g/L DHe had no obvious 
-lethal effect on osteoporotic larvae.
-3.3. DHe treatment stimulates osteogenesis in zebrafish
-Staining with alizarin red was performed to evaluate the minerali­
-zation area and degree of bone mineralization, including spine, palato­
-quadratecartilage (PQ), occipital bone (OC), parasphenoid (PS), 
-branchiostegal (BS), operculum (OP), notochord (NC), ceratohyal (CH), 
-cleithrum (CL) and otolith (OT). The results showed that prednisolone 
-inhibited the degree and area of mineralization in all bones except OT 
-(Fig. 2 A)
-The results showed that prednisolone could effectively inhibit bone 
-mineralization and reduce the mineralized area of larvae. For the spine, 
-no mineralization was observed in model groups, while the minerali­
-zation was observed in positive groups, L-DHE and M-DHe groups 
-(Fig. 2B and C), indicating that 0.15 g/L and 0.30 g/L DHe could 
-improve the inhibition effect of prednisolone on the spine.
-Similarly, the mineralization degree and area of PS, BS, and OP in M- 
-DHe groups were significantly higher than those in model groups (P <
-0.05) (Fig. 2B and C), indicating that 0.15 g/L DHe could weaken the 
-inhibitory effect of prednisolone.
-The results of each group were quantitatively analyzed, and the total 
-staining area and staining integral optical density of larvae in each group 
-were calculated. ED could significantly increase the calcified area (P <
-0.001) and the degree of calcification (P < 0.05) (Fig. 2D). These results 
-indicated that the osteoporosis induced by prednisolone can be effec­
-tively improved by DHe. 0.3 g/L DHe can significantly increase the 
-Table 1 
-The main active components of DHe.
-Name
-Molecular formula
-Molecular formula（%）
-Glycylproline
-C7H12N2O3
-24.562
-Creatinine
-C4H7N3O
-12.852
-L-Phenylalanine
-C9H11NO2
-12.296
-Cholic Acid
-C24H40O5
-6.725
-L-Leucine
-C6H13NO2
-6.288
-Succinic Acid
-C4H6O4
-5.940
-Oleamide
-C18H38NO
-3.645
-Leucylproline
-C11H20N2O3
-3.029
-Taurine
-C2H7NO3S
-2.927
-Bis Sorbitol
-C24H30O6
-2.162
-Dibutyl Phthalate
-C16H22O4
-2.127
-Table 2 
-Survival number of larva zebrafish (n =90) and median lethal concentration of 
-DHe.
-Time（h）
-DHe concentration（g/L）
-LC50 (g/L)
+https://doi.org/10.11646/zootaxa.5501.2.6
+http://zoobank.org/urn:lsid:zoobank.org:pub:2DAEA60F-A0DC-47D8-B704-7F689ED9814E
+334   Accepted by G. Short: 30 Jul. 2024; published: 30 Aug. 2024
+Article
+ZOOTAXA 
+ISSN 1175-5326 (print edition)
+ISSN 1175-5334 (online edition)
+Zootaxa 5501 (2): 334–344
+https://www.mapress.com/zt/
+Copyright © 2024 Magnolia Press
+Licensed under Creative Commons Attribution-N.C. 4.0 International https://creativecommons.org/licenses/by-nc/4.0/
+A new distributional record of Hippocampus kuda Bleeker, 1852 (Teleostei, 
+Syngnathidae) from Saudi Arabia in the South-Central Red Sea 
+Santhosh Charles1, Graham Short2 & MARK DIMECH1
+1KAUST Beacon Development, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia.
+ santhosh.charles@kaust.edu.sa; 
+https://orcid.org/0000-0001-5409-838X
+ mark.dimech@kaust.edu.sa
+2Department of Ichthyology, California Academy of Sciences, 55 Music Concourse Dr, San Francisco, CA 94118, United States.
+ gshort@calacademy.org; 
+https://orcid.org/0000-0002-4691-1913
+Abstract
+The common seahorse, Hippocampus kuda, is widely distributed throughout the Indo-Pacific region, occurring from East 
+Africa to Hawaii, where it typically inhabits diverse ecosystems such as estuaries, lagoons, coastal zones, and seagrass 
+beds. Despite its extensive geographic range, reports of its occurrence in the Red Sea remains limited, primarily restricted 
+to the northern region of the Red Sea. Here, we report a new distributional record of H. kuda in Saudi Arabian waters 
+within the south-central Red Sea. A single female specimen of H. kuda was collected through trawling conducted off the 
+coast of Al Qunfudah at depths ranging from 15 to 20 meters. Morphological and molecular examination confirmed the 
+identity of the specimen as H. kuda. The new record of H. kuda represents the second occurrence of this species in south-
+central Red Sea and expands its known distribution range 367 kilometers further south than the first reported record off 
+Jeddah in 1838.
+Key words: Seahorse, Al Qunfudah, trawl bycatch, COI, Gulf of Suez, Gulf of Aqaba, Indian Ocean
+ 
+Introduction
+ 
+The seahorse genus Hippocampus Rafinesque, 1810 is represented by three species recorded in the Red Sea: H. 
+jayakari Boulenger, 1900, H. debelius Gomon & Kuiter, 2009, and H. kuda Bleeker, 1852 (GBIF 2024; iNaturalist, 
+2024). Among these, H. kuda is distinguished by its wide distribution across the Indo-Pacific, ranging from the 
+eastern coast of Africa to Hawaii. Within the Western Indian Ocean, H. kuda has been recorded along the eastern 
+African coast in South Africa, Kenya, and Madagascar, as well as in the Red Sea spanning Egypt, Israel, and 
+Saudi Arabia, and in the Persian Gulf in Iran, United Arab Emirates, and Oman (GBIF 2024; iNaturalist, 2024). 
+Hippocampus kuda is typically found in estuaries, lagoons, harbors, and coastal seagrass beds, with a tendency to 
+inhabit shallow waters not exceeding fifty-five meters in depth (Choo and Liew, 2003; Lourie et al., 2004; Lipton 
+and Thangaraj, 2013; Dody et al., 2021; Kalisiak et al., 2022).
+Despite its widespread distribution, H. kuda faces conservation challenges, leading to its classification as vulnerable 
+by the International Union for Conservation of Nature (IUCN, 2004), primarily due to threats posed by bycatch in 
+shrimp trawling, targeted capture for aquarium and traditional medicine trade, habitat degradation, and its low fecundity 
+attributed to the extensive parental brood care it undertakes. Additionally, internationally, H. kuda is listed under 
+Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES, 2003). 
+Although numerous records of H. kuda are reported in the Red Sea, they primarily occur from the northern regions, 
+specifically the Gulf of Aqaba and Gulf of Suez in Egypt and Israel, respectively (GBIF, 2024; iNaturalist, 2024). 
+The first record of H. kuda in the Red Sea was recorded in Saudi Arabian waters in 1838. However, it was 
+originally reported as the first record of the seahorse H. fuscus Rüppell, 1838, at the type locality of Jeddah. 
+Subsequent taxonomic reassessment led to the reclassification of H. fuscus as a synonym of H. kuda, as no discernible 
+morphological, genetic, or geographic disparities were found between H. fuscus and H. kuda from Southeast Asia 
+A new record of Hippocampus kuda from saudia arabia
+Zootaxa 5501 (2) © 2024 Magnolia Press  ·  335
+(Lourie et al., 2016). Despite these regional observations, records of H. kuda from the Red Sea are absent in the 
+literature, particularly in Saudi Arabia.
+In this study, we report a new distributional record of H. kuda within the south-central Red Sea, representing 
+only the second record of this species in Saudi Arabia. During trawling activities off the coast of Al Qunfudah along 
+the Southeast Red Sea Coast of Saudi Arabia in 2023, we collected a single female specimen of H. kuda at depths 
+ranging from 15 to 20 meters. Morphological and molecular analyses confirmed the specimen’s identification as H. 
+kuda. The new record expands the southern range of H. kuda within the Red Sea, extending 367 kilometers further 
+south from the first known record in Jeddah.
+ 
+Methods
+Study area and sample collection
+Trawling operations were conducted aboard a standard commercial shrimp trawler off the coastline of Al Qunfudah 
+in the Southeast Red Sea Coast of Saudi Arabia (Fig. 1). During a one-hour trawl session conducted in the early hours 
+FIGURE 1. Sampling location of the yellow sea horse H. kuda collected off Al Qunfudah.
+Charles et al.
+336  ·  Zootaxa 5501 (2) © 2024 Magnolia Press
+of August 2023 at approximately 04:10 AM, a seahorse specimen was collected from depths ranging between 15 to 
+20 meters in a heavily disturbed shrimp trawl ground consisting of seagrass beds (Sargassum sp.). Upon collection, 
+the specimen underwent photographic documentation both onboard the vessel and subsequently in the laboratory. 
+Species identification was carried out based on external morphological features following the field identification 
+guide by Lourie et al. (2004) and on meristic characters (Lourie at al., 2016). Records and observations of H. kuda in 
+the Red Sea were obtained from multiple databases including the Global Biodiversity Information Facility (GBIF), 
+Oceanic Biodiversity Information System (OBIS), and iNaturalist. Morphological and morphometric characters, 
+and genetic analyses at the COI gene, were obtained from a comprehensive examination of the specimen and used 
+to confirm the identity of the specimen as H. kuda. The specimen was accessioned in the fish collections at the 
+Australian Museum under voucher number AM I.51371-001.
+ 
+DNA extraction and genetic divergence
+ 
+DNA extraction, primers, PCR conditions, sequence alignment, and analysis of CO1 sequence data generated for 
+this study were performed following protocols described in Hamilton et al. (2017). 
+The COI sequence data generated from the collected specimen (Genbank accession number PP992517) were 
+compared with publicly available barcoding sequences from GenBank and BOLD for H. kuda species sampled from 
+the Indian Ocean. Some samples sourced from GenBank are designated as H. fuscus due to their collection predating 
+the synonymisation with H. kuda or misclassification as H. fuscus (Appendix 1). Genetic distances (uncorrected 
+p-distances) were calculated using MEGA v. 7.0.26 (Kumar et al., 2008).
+ 
+ 
+Results
+ 
+Diagnosis
+ 
+The collected specimen was identified as an adult female of H. kuda based on external morphological characters 
+following the field identification guide by Lourie et al. (2004). General body shape and size as seen in Fig 2. 
+Morphometric, meristic, and morphological characters are listed in Table 1. Distinct, angular and flat coronet; 
+dorsal fin rays sixteen; pectoral-fin rays fifteen; anal fin rays four; trunk rings eleven; dorsal fin base raised dorsally; 
+subdorsal rings four, dorsal fin base starting immediately posterior to ninth trunk ring and ending immediately 
+posterior to first tail ring; tail rings 37. Body ornamentation: spines low and rounded, small spine above eye; 
+lateral head spine ventral of coronet; small spine behind eye; double low spines below eye; cleithral spines small, 
+uppermost at gill-opening, central spine at level of last pectoral-fin ray, lowermost single and not enlarged; snout 
+spine absent; superior trunk ridge with enlarged spines on first, third, and fifth rings; superior trunk ridge on tail 
+with small spines on each ridge, becoming gradually smaller posteriorly along the length of the tail; all inferior trunk 
+ridge spines absent; caudal fin absent.
+ 
+ 
+Color
+ 
+Post collection, the fresh specimen of H. kuda exhibits yellow coloration of the body: head, trunk, and tail (Fig. 2). 
+In preservation, the specimen retains a pale yellow coloration.
+  
+Generic divergence
+ 
+Appendix 1 summarizes uncorrected p-distances at the COI gene, listing the genetic divergences between our 
+collected specimen (AM I.51371-001) and previously sequenced H. kuda specimens from the Western Indian 
+Ocean. The collected specimen diverges by 0.0% to 0.61% among Western Indian H. kuda, including South Africa, 
+Tanzania, Egypt, Israel, and Iran.
+A new record of Hippocampus kuda from saudia arabia
+Zootaxa 5501 (2) © 2024 Magnolia Press  ·  337
+FIGURE 2. Yellow sea horse H. kuda collected off Al Qunfudah.
+Table 1. Relative measurements and counts obtained for H. kuda
+Hippocampus kuda
+Voucher
+AM I.51371-001
+Trunk rings
+11
+Tail rings
+37
+Dorsal fin-rays
+16
+Pectoral fin-rays
+15
+SL (mm)
+105.2
+%SL
+Head length (HL)
+17.00
+Trunk length (TrL)
+29.40
+Tail length (TaL)
+53.60
+Trunk depth (TD4)
+6.70
+Trunk depth (TD9)
+8.80
+%HL
+Head depth (HD)
+53.97
+Snout length (SnL)
+40.74
+Post orbital (PO)
+38.10
+Coronet height (CH)
+34.92
+SnL%
+Snout depth (SnD)
+27.79
+Charles et al.
+338  ·  Zootaxa 5501 (2) © 2024 Magnolia Press
+Discussion
+ 
+Despite its extensive geographic range, reports of its occurrence in the Red Sea remains sparse, primarily restricted 
+to the northern region of Egypt and Israel in the Gulf of Aqaba and the Gulf of Suez (GBIF, 2024; iNaturalist, 2024). 
+Museum records are restricted to specimens collected in the Gulf of Suez in Egypt between 1869-1933 (MNHN IC 
+0000-5632, 1869; MNHN IC 1966-0357, 1928; MNHN IC 1966-0359, 1928; MNHN IC 1966-0358, 1929; MNHN 
+IC 1966-0360, 1933). Photographic observations of H. kuda in the Red Sea, however, are more recent, all of which 
+have been recorded in Egypt and Israel in the 2000’s on iNaturalist (Table 2).
+Table 2. iNaturalist observations of H. kuda in the Red Sea 
+Location
+Country
+iNaturalist observation
+Year
+Gulf of Aqaba
+Egypt
+110831036
+2003
+Gifton Islands
+Egypt
+1485195
+2004
+Gifton Islands
+Egypt
+1443456
+2005
+Gulf of Aqaba
+Egypt
+110831031
+2010
+Gulf of Suez
+Egypt
+126860728
+2024
+Gulf of Suez
+Egypt
+1092696
+2004
+Gulf of Aqaba
+Israel
+146471415
+2007
+Gulf of Aqaba
+Israel
+124753659
+2019
+Gulf of Aqaba
+Israel
+121227875
+2021
+The first record of H. kuda in the Red Sea was recorded in Jeddah, Saudi Arabia in 1838. This record was 
+originally based on the first description of H. fuscus (Rüppell, 1840), which was later synonymized with H. kuda due 
+to the lack of discernible morphological, genetic, or geographic differences from H. kuda (type locality Singapore) 
+in a revision of Hippocampus (Lourie et al., 2016). The holotype of H. fuscus (specimen SMF 4914) is housed in the 
+fish collections at the Senckenberg Nature Museum, Frankfurt, Germany. Therefore, we treat all previous records of 
+H. fuscus in the Red Sea as H. kuda in this study. Similarly, H. suezensis, first described by Duncker in 1940 (type 
+locality Hurghada, Egypt) is considered synonymous with H. fuscus for the scope of this study.
+Our collected specimen represents the second record of H. kuda reported in Saudi Arabia and a new distributional 
+record in the south-central Red Sea. This new record expands the southern range of H. kuda within the Red Sea, 
+extending 367 kilometers further south from the first known record in Jeddah. Mehanna and Al-Mahdawi (2006) 
+reported the first record of H. kuda from the Yemeni coast of the Red Sea, which would extend the range of the 
+species to the southern extremity of the Red Sea. However, scrutiny of their study reveals numerous instances 
+of misidentification among the seahorse species listed in their study. Furthermore, the photographic images 
+accompanying their descriptions lack clarity, posing challenges in accurately identifying the species at the species 
+level.
+Meristic, morphometric, and morphological characters documented in our collected specimen of H. kuda agree 
+with those documented for H. kuda following the field identification guide by Lourie et al. (2004) and the taxonomic 
+revision of Hippocampus (Lourie et al., 2016) for this species. The general appearance of the specimen is quite 
+distinct from the other two species of seahorses, H. jayakari and H. debelius, occurring in the Red Sea, including 
+differences in the aforementioned characters and size. 
+Genetic analysis of the COI gene, as listed in Appendix 1, indicates minimal divergence between the sequences 
+obtained from our collected specimen and H. kuda originating from the Western Indian Ocean, including the Red 
+Sea and Persian Gulf. Specifically, the genetic variation ranges from 0.00 to 0.31 when compared to sequences from 
+South Africa. In contrast, divergence ranges from 0.0 to 0.61 when compared to sequences from Egypt and Israel in 
+the Red Sea. A sequence retrieved from Saudi Arabia in the Persian Gulf (Genbank accession number KU236029) 
+exhibits a divergence of 0.74 from our specimen.
+A new record of Hippocampus kuda from saudia arabia
+Zootaxa 5501 (2) © 2024 Magnolia Press  ·  339
+Implications for conservation 
+ 
+In the Red Sea, there is currently no comprehensive data available on the trade or exploitation of seahorses. It 
+is essential to gather data on various aspects of this trade, including the species involved, trade routes, volumes 
+traded, and monetary values associated with syngnathid trade, particularly from countries bordering the Red Sea. 
+The existing records on the distribution of H. kuda in the Red Sea highlights the urgent need for further research 
+into the fishing impact on seahorses throughout the Red Sea, especially in areas like the southern Red Sea off 
+Al Qunfudah and Jizan, where shrimp trawlers operate. It is crucial to assess the effects of trawling on seahorse 
+populations and their sustainability. Efforts should be made to raise awareness among trawl fishermen about the 
+importance of conserving seahorse species. The fishermen should be educated about the significance of avoiding 
+seagrass beds during their harvesting activities, as this can significantly enhance the prospects of protecting this 
+vulnerable species in the Red Sea. Furthermore, expanding knowledge about the distribution of specific seahorse 
+species, such as H. kuda, in the Red Sea has significant conservation implications. Newly documented occurrences 
+should be considered in the formulation of conservation strategies and management efforts for seahorse populations 
+in the region.
+ 
+Acknowledgement
+The authors express their profound gratitude to the Ministry of Environment, Water and Agriculture of Saudi 
+Arabia for funding the project “Assessment and Management of Shrimp Trawl Fisheries in the Red Sea Waters 
+of the Kingdom” and for their continuous support in getting permits for surveys at sea. Thanks to Viktor Nunes 
+Peinemann (Red Sea Research Centre, KAUST), for his assistance in generating a COI sequence from the specimen. 
+Thanks to Rawiyah Alhassan for providing the sampling map. We also thank KAUST Beacon Development (KBD) 
+for providing the essential laboratory facilities, as well as the staff of the KBD Fisheries team. Fisheries Field 
+specialists Mr. Nawaf Alfaqi and Mr. Osama Alsheri, and the crew of the trawl vessel “Abu Salem 3” are gratefully 
+acknowledged for their assistance during the scientific surveys at sea. Special thanks to the staff of the Australian 
+University Museum for their assistance with logistics during the shipment of the sample.
+ 
+References
+Choo, C.K. & Liew, H.C. (2003) Spatial distribution, substrate assemblages and size composition of sea horses (Family 
+Syngnathidae) in the coastal waters of Peninsular Malaysia. Journal of the Marine Biological Association of the United 
+Kingdom, 83 (2), 271–276.
+	
+https://doi.org/10.1017/S0025315403007069h
+CITES (2003) Proposals for amendment of Appendices I and II at 12th meeting of Conference of the Parties—results. CITES 
+Secretariat, Geneva. [unknown pagination]
+Dody, S., Manuputty, G.D. & Limmon, G.V. (2021) Habitat characteristics and density of spotted seahorse Hippocampus kuda at 
+waters of Ternate Island and surroundings, Maluku Utara, Indonesia. In: IOP Conference Series: Earth and Environmental 
+Science. Vol. 805. No. 1. IOP Publishing, Bristol, 012006.
+	
+https://doi.org/10.1088/1755-1315/805/1/012006
+GBIF.org (2024) GBIF Occurrence Download. Available from: https://doi.org/10.15468/dl.w3u6c9 (accessed 8 April 2024)
+Hamilton, D.J., Wheeler, D.W., White, C.M., Rees, C.L., Komendantov, A.O., Bergamino, M. & Ascoli, G.A. (2017) Name-
+calling in the hippocampus (and beyond): coming to terms with neuron types and properties. Brain Informatics, 4 (1), 
+1–12. 
+	
+https://doi.org/10.1007/s40708-016-0053-3
+IUCN (2004) 2004 IUCN Red List of Threatened Species. The World Conservation Union, Gland. Available from: https://www.
+iucnredlist.org/ (accessed 30 July 2024) 
+iNaturalist (2024) Available from: https://www.inaturalist.org (accessed 30 April 2024)
+Kalisiak, J., Gray, I., Bruget, R. & Correia, M. (2022) The use of non-invasive sampling to estimate long-term abundance of 
+Hippocampus kuda in the Koh Sdach Archipelago, Cambodia. Cambodian Journal of Natural History, 47–58.
+Kumar, S., Nei, M., Dudley, J. & Tamura, K. (2008) MEGA: a biologist-centric software for evolutionary analysis of DNA and 
+protein sequences. Briefings in bioinformatics, 9 (4), 299–306.
+	
+https://doi.org/10.1093/bib/bbn017
+Charles et al.
+340  ·  Zootaxa 5501 (2) © 2024 Magnolia Press
+Lipton, A.P. & Thangaraj, M. (2013) Distribution pattern of seahorse species (Genus: Hippocampus) in Tamilnadu and Kerala 
+coasts of India. Notulae Scientia Biologicae, 5 (1), 20–24.
+	
+https://doi.org/10.15835/nsb518298
+Lourie, S.A., Foster, S.J., Cooper, E.W. & Vincent, A.C. (2004) A guide to the identification of seahorses. Project Seahorse and 
+TRAFFIC North America, 114 (1), 1–120.
+Lourie, S.A., Pollom, R.A. & Foster, S.J. (2016) A global revision of the seahorses Hippocampus Rafinesque 1810 (Actinopterygii: 
+Syngnathiformes): taxonomy and biogeography with recommendations for further research. Zootaxa, 4146 (1), 1–66.
+	
+https://doi.org/10.11646/zootaxa.4146.1.1
+Mehanna, S.F. & Al-Mahdawi, G.J. (2006) First record for syngnathid species (seahorses and pipefishes, Family: Syngnathidae) 
+from Yemeni coast of the Red Sea. African Journal of Biological Sciences, 2 (2), 121–128.
+Rüppell, W.P.E.S. (1840) Neue Wirbelthiere zu der Fauna von Abyssinien gehörig Fische des Rothen Meeres. S. Schmerber, 
+Frankfurt am Main, 40 pp., 14 taf, 116 pp., 42 taf, 18 pp., 6 taf, 148 pp., 33 taf.
+A new record of Hippocampus kuda from saudia arabia
+Zootaxa 5501 (2) © 2024 Magnolia Press  ·  341
+Appendix 1.
+Hippocampus_
+kuda_PP992517_
+Saudi_Arabia
+Hippocampus_
+kuda_KU236029_
+Saudi_Arabia
+Hippocampus_
+fuscus_
+KY066107_Egypt
+Hippocampus_
+kuda_
+MF123924_Isreal
+Hippocampus_
+fuscus_
+MG875005_Red_
+Sea
+Hippocampus_
+fuscus_
+MG875006_Red_
+Sea
+Hippocampus_
+fuscus_MG875007_
+Red_Sea
+Hippocampus_
+fuscus_
+MG875008_Red_
+Sea
+Hippocampus_
+fuscus_
+MG875009_Red_
+Sea
+Hippocampus_kuda_
+PP992517_Saudi_
+Arabia
+Hippocampus_kuda_
+KU236029_Saudi_
+Arabia
+0.0061
+Hippocampus_
+fuscus_KY066107_
+Egypt
+0.0032
+0.0095
+Hippocampus_kuda_
+MF123924_Isreal
 0
-0.01
-0.03
-0.1
-0.3
-1
-3
-10
-24
-90
-90
-90
-90
-90
-90
-44
+0.0061
+0.0032
+Hippocampus_
+fuscus_MG875005_
+Red_Sea
+0.0032
+0.0078
+0.0033
+0.0032
+Hippocampus_
+fuscus_MG875006_
+Red_Sea
 0
-2.990
-48
-89
-90
-90
-90
-90
-87
-42
+0.0047
+0.0033
 0
-2.881
-72
-89
-90
-90
-90
-90
-86
-41
+0.0031
+Hippocampus_
+fuscus_MG875007_
+Red_Sea
+0.0016
+0.0062
+0.0016
+0.0016
+0.0015
+0.0015
+Hippocampus_
+fuscus_MG875008_
+Red_Sea
+0.0032
+0.0078
+0.0016
+0.0032
+0.0031
+0.0031
+0.0016
+Hippocampus_
+fuscus_MG875009_
+Red_Sea
+0.0016
+0.0062
+0.0049
+0.0016
+0.0047
+0.0016
+0.0031
+0.0047
+Hippocampus_
+fuscus_MG875011_
+Red_Sea
+0.0032
+0.0078
+0.0033
+0.0032
+0.0031
+0.0031
+0.0016
+0.0031
+0.0047
+Hippocampus_
+fuscus_MG8750010_
+Red_Sea
+0.0032
+0.0094
+0.0065
+0.0032
+0.0078
+0.0047
+0.0062
+0.0078
+0.0062
+Hippocampus_kuda_
+AB983272_Iran
+0.0032
+0.0032
+0.0067
+0.0032
+0.008
+0.0048
+0.0064
+0.008
+0.0064
+......continued on the next page
+Charles et al.
+342  ·  Zootaxa 5501 (2) © 2024 Magnolia Press
+Appendix 1. (Continued)
+Hippocampus_
+kuda_PP992517_
+Saudi_Arabia
+Hippocampus_
+kuda_KU236029_
+Saudi_Arabia
+Hippocampus_
+fuscus_
+KY066107_Egypt
+Hippocampus_
+kuda_
+MF123924_Isreal
+Hippocampus_
+fuscus_
+MG875005_Red_
+Sea
+Hippocampus_
+fuscus_
+MG875006_Red_
+Sea
+Hippocampus_
+fuscus_MG875007_
+Red_Sea
+Hippocampus_
+fuscus_
+MG875008_Red_
+Sea
+Hippocampus_
+fuscus_
+MG875009_Red_
+Sea
+Hippocampus_kuda_
+ADC09-087_BOLD_
+South_Africa
+0.0031
+0.0095
+0.0063
+0.0031
+0.0065
+0.0032
+0.0048
+0.0048
+0.0048
+Hippocampus_kuda_
+GU805014_South_
+Africa
 0
-2.828
-96
-89
-90
-90
-89
-90
-85
-38
+0.0062
+0.0032
 0
-2.694
-120
-89
-90
-89
-88
-90
-84
-35
+0.0032
 0
-2.559
-Fig. 1. (A) The effect of seahorse decoction on survival rate of zebrafish larvae. 
-(B) The effect of seahorse decoction on mortality of osteoporosis zebrafish 
-larvae. L-DHe, low concentration (0.15 g/L) seahorse decoction groups. M-DHe: 
-medium concentration (0.3 g/L) seahorse decoction groups. H-DHe: high con­
-centration (0.6 g/L) seahorse decoction groups.
-Table 3 
-The total mortality of larva zebrafish in each group (n=90).
-Groups
-Control
-Model
-Positive
-L-DHe
-M-DHe
-H-DHe
-Mortality
-0.8 %
-27.5 %
-22.5 %
-20.8 %
-17.5 %
-21.7 %
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-3 
-degree of mineralization of larvae (P < 0.01), and the effect is similar to 
-that of ED.
-3.4. Expression of ALP, TRAP and bone development genes
-Comparing with the model groups, the positive groups significantly 
-increased the activity of ALP (P < 0.01) and decreased the activity of 
-TRAP (P < 0.0001) (Fig. 3 A), indicating that after treatment with 
-positive drugs, osteoblast activity increased and osteoclast activity 
-decreased, thus successfully ameliorating osteoporosis. 0.3 g/L and 
-0.6 g/L DHe significantly increased the expression activity of ALP (P <
-0.01), 0.15 g/L DHe could increase the expression activity of ALP, but 
-there was no significant difference compared with model groups (P >
-0.05). 0.15 g/L and 0.3 g/L DHe can reduce the TRAP activity of larvae 
-(P < 0.0001), but 0.6 g/L DHe had little inhibitory effect on TRAP 
-(Fig. 3 A). In conclusion, the effect of 0.3 g/L DHe on larvae osteoporosis 
-was consistent with that of ED, indicating that the concentration of DHe 
-had an improving effect on osteoporosis.
-The expressions of alp, acp5a, ocn 
-and rankl in larvae were 
-significantly reduced in model groups (Fig. 3B), indicating that 25 μM 
-prednisolone inhibited the expression of these genes. The ED promoted 
-the expression of alp and ocn
-, but the expression levels of these two 
-genes could not recover to control groups. The expression of alp and 
-ocn 
-in M-DHe groups was higher than that in L-DHe and H-DHe 
-groups, (Fig. 3B) showing that 0.3 g/L DHe had a greater promoting 
-effect on osteogenesis than 0.15 g/L and 0.6 g/L DHe.
-4. Discussion
-Seahorses are rich in amino acids, fatty acids and trace elements. The 
-phenolic compounds extracted from hippocampus can promote the 
-development of osteoblasts (Yuan et al., 2018). The alcohol extracts can 
-remove hydroxyl radical, superoxide radical and alkyl radical, inhibit 
-intracellular reactive oxygen species (Qian et al., 2008). The enzymic 
-extract can increase the time of loading exercise, reduce the production 
-of lactic acid and urea nitrogen during exercise, promote the elimination 
-of lactic acid and urea nitrogen after exercise (Guo et al., 2017). Studies 
-have shown that different dosage forms of Chinese medicine contain 
-Fig. 2. (A) The influence of seahorse decoction on alizarin red staining in osteoporosis zebrafish larvae. L-DHe, low concentration (0.15 g/L) seahorse decoction 
-groups. M-DHe: medium concentration (0.3 g/L) seahorse decoction groups. H-DHe: high concentration (0.6 g/L) seahorse decoction groups. Palatoquadratecartilage 
-(pq), occipital bone (oc), parasphenoid (ps), branchiostegal (bs), operculum (op), notochord (nc), ceratohyal (ch), cleithrum (cl) and otolith (ot). The results were 
-taken at 50× stereoscopic microscope in bright field. (B) The influence of seahorse decoction on bone mineralization area in osteoporosis zebrafish larvae of each 
-bone. Different lowercase indicates significant difference between each group (P < 0.05). (C) The influence of seahorse decoction on bone mineralization level in 
-osteoporosis zebrafish larvae of each bone. Different lowercase indicates significant difference between each group (P < 0.05). (D) The influence on bone miner­
-alization in osteoporosis zebrafish larvae of seahorse decoction. Different lowercase indicates significant difference between each group (P < 0.05).
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-4 
-Fig. 3. (A) The influence of seahorse decoction on the expression of bone-related enzyme activity in osteoporosis zebrafish larvae. L-DHe, low concentration (0.15 g/ 
-L) seahorse decoction groups. M-DHe: medium concentration (0.3 g/L) seahorse decoction groups. H-DHe: high concentration (0.6 g/L) seahorse decoction groups. i: 
-the expression of ALP; ii: the expression of TRAP. Different lowercase indicates significant difference between each group (P < 0.05). (B) The influence of seahorse 
-decoction on the expression of genes related to bone development in osteoporosis zebrafish larvae. i: the expression of alp; ii: the expression of acp5a; iii: the 
-expression of ocn
-; iv: the expression of rankl. Different lowercase indicates significant difference between each group (P < 0.05).
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-5 
-different active ingredients and content (Chen et al., 2009; Zhang et al., 
-2019). There were 6 kinds of dipeptides in DHe, the total relative con­
-tent was 30.915 %, among which glycylproline accounted for the 
-highest proportion among all active ingredients, the relative content 
-reached 24.562 %. The relative content of oleamide and ethyl docosa­
-hexaenoate was 3.645 % and 0.689 %, The relative content of was. 
-which were different from the composition of seahorse freeze-dried 
-powder (Li et al., 2022). There were many components in DHe that 
-were related to bone development, such as taurine and succinic acid 
-(Table 1). Taurine increased the ALP activity and mineralized nodules in 
-human mesenchymal stem cells induced by osteogenic induced medium, 
-and up-regulated the expression of ALP, osterix and osteopontin in a 
-dose-dependent manner (Zhou et al., 2014).
-Succinic acid may inhibit the proliferation and osteogenic differen­
-tiation of bone precursor cells in mice by inhibiting the expression of 
-Runx2 and OCN 
-(Wei et al., 2019).
-Zebrafish is an ideal model which possesses many advantages. The 
-bone elements, ossification mechanism and bone matrix components of 
-zebrafish share many common characteristics with mammals, which 
-makes zebrafish model widely used in the study of bone diseases 
-(Barbazuk et al., 2000). Importantly, 82 percent of human 
-disease-related genes can be found in zebrafish, including genes asso­
-ciated with bone development (Li et al., 2009). It has been reported that 
-there are few TRAP-positive osteoclasts observed in zebrafish larvae 
-until 20dpf, and there is few bone remodeling in zebrafish larvae (Chen 
-et al., 2014). Therefore, zebrafish larvae might be more suitable for the 
-research and development of anabolic agents for GIOP than other 
-models (Luo et al., 2016).
-High concentration of Chinese herbal medicine has certain toxicity 
-(Carnovali et al., 2021). We found the dibutyl phthalate (DBP) in DHe 
-(Table 1), which sharply increased the mortality rate of zebrafish when 
-DBP concentration was higher than 0.05 mg/L (Pu et al., 2020). 
-Different from the traditional medication mode, because zebrafish can 
-absorb the drug through the skin (Zon and Peterson, 2005), our exper­
-iment adopts the method of immersion. The results showed that the 
-medial lethal concentration (LC50) of DHe on zebrafish was not directly 
-proportional. The lethal effect of 0.01–0.3 g/L DHe on zebrafish was not 
-significant. But when the concentration of DHe exceeded 1 mg/L, the 
-survival rate of zebrafish would decline rapidly (Table 2).
-ED, as a medicine for osteoporosis, can promote the proliferation and 
-differentiation of osteoblasts (Barrett et al., 2006). acp5a encodes TRAP 
-which is commonly used as an osteoclast marker (Khrystoforova et al., 
-2022), and rankl has been confirmed to be the main regulator of oste­
-oporosis (Zhao et al., 2020). The results showed that ED could effec­
-tively alleviate the osteoporosis induced by prednisolone and promote 
-the expression of alp, ocn
-, acp5a and rankl. 0.3 g/L DHe significantly 
-increased the degree of bone mineralization in zebrafish larvae, 
-increased the expressions of ALP and acp5a, and inhibited the expression 
-of TRAP (Fig. 1D), indicating that prednisolone-induced osteoporosis 
-could be inhibited. The degree and area of M-DHE mineralization were 
-the same as those in the positive groups, and were significantly higher 
-than those in the other groups, indicating that the effects of 0.3 g/L DHe 
-and ED were similar. However, 0.15 g/L and 0.6 g/L DHe had no sig­
-nificant improvement effect on osteoporotic zebrafish larvae. There was 
-no significant difference expression of TRAP between the H-DHe groups 
-and the model groups, indicating that 0.6 g/L DHe had no inhibitory 
-effect on TRAP.
-Chinese medicine contains many components, and each component 
-is composed of multiple components. Traditional Chinese medicine has a 
-wide range of targets and cannot be evaluated by the content of one or 
-some of its components. In this study, it was found that there are many 
-active ingredients in DHe, and some of these active ingredients had 
-opposite effects. Taurine has a protective effect on bone loss and pro­
-motes collagen synthesis in rats (Park et al., 2001), but succinic acid and 
-dibutyl phthalate may cause low bone density and affect bone devel­
-opment (Pu et al., 2020). The effect of some components decreases with 
-the increase of concentration, for example, taurine can inhibit the dif­
-ferentiation of aortic valve stromal cells into osteoblasts at a dose of 
-10 μM, and 20 μM is less effective than 10 μM (Zhou et al., 2014). 
-Similarly, there are some ingredients that do not have a single effect, 
-oleamide can both inhibit the development of osteoblast and osteoclast 
-(Ciovacco et al., 2009; Ransj¨o et al., 2003; Schiller et al., 2001). All of 
-these components were found in DHe. Interestingly, the expression of 
-alp, ocn
-, acp5a and rankl in the H-DHe groups were lower than that in 
-the L-DHe, and the expression of these genes in both groups was 
-significantly lower than that in the model groups. It is speculated that 
-antagonistic substances inhibit the expression of these genes with the 
-increase of DHe concentration.
-5. Conclusions
-In this study, oleamide, docosahexaenoic acid and other new com­
-ponents were detected, which enriched the active components of sea­
-horses. Meanwhile, it was found that 0.3 g/L DHe significantly increased 
-the degree of bone mineralization, promoted the activity of ALP and 
-inhibited the activity of TRAP, promoted the expression of osteogenic 
-genes, and improved the osteoporosis of zebrafish larvae, but its mo­
-lecular mechanism needs to be further studied. Overall, this study pro­
-vides a theoretical basis for DHe treatment of osteoporosis.
-CRediT authorship contribution statement
-Jinhui Wu: Writing – original draft, Visualization, Validation. Li 
-Lin: Formal analysis, Data curation, Conceptualization. Guifeng Li: 
-Investigation, Funding acquisition, Formal analysis. Chenlei Huang: 
-Resources, Project administration, Funding acquisition. Ting Wang: 
-Methodology. Jiahui Chen: Project administration, Investigation, 
-Funding acquisition. Zhilun Zhang: Funding acquisition, Data curation, 
-Conceptualization. Yong Zhang: Writing – review & editing, Writing – 
-original draft, Visualization, Validation, Supervision, Software, Re­
-sources, Project administration, Methodology, Investigation, Funding 
-acquisition, Formal analysis, Data curation, Conceptualization. Xuange 
-Liu: Writing – review & editing, Writing – original draft, Visualization, 
-Validation, Supervision, Software, Resources, Project administration, 
-Methodology, Investigation, Funding acquisition, Formal analysis, Data 
-curation, Conceptualization. Qiuxian Chen: Writing – review & editing, 
-Writing – original draft, Visualization, Validation, Supervision, Soft­
-ware, Resources, Project administration, Methodology, Investigation, 
-Funding acquisition, Formal analysis, Data curation, Conceptualization. 
-Huadong Yi: Methodology.
-Declaration of Competing Interest
-The authors declare that they have no known competing financial 
-interests or personal relationships that could have appeared to influence 
-the work reported in this paper.
-Acknowledgments
-This research was supported by the Southern Marine Science and 
-Engineering Guangdong Laboratory (Zhuhai) (SML2023SP234), and 
-Research on Breeding Technology of Candidate Species for Guangdong 
-Modern Marine Ranching (2024-MRB-00–001).
-Appendix A. Supporting information
-Supplementary data associated with this article can be found in the 
-online version at doi:10.1016/j.aqrep.2024.102510.
-Data availability
-Data will be made available on request. 
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-6 
-References
-Anam, A.K., Insogna, K., 2021. Update on osteoporosis screening and management. Med. 
-Clin. North Am. 105, 1117–1134. https://doi.org/10.1016/j.mcna.2021.05.016.
-Barbazuk, W.B., Korf, I., Kadavi, C., Heyen, J., Tate, S., Wun, E., Bedell, J.A., 
-McPherson, J.D., Johnson, S.L., 2000. The syntenic relationship of the zebrafish and 
-human genomes. Genome Res. 10, 1351–1358. https://doi.org/10.1101/gr.144700.
-Barrett, R., Chappell, C., Quick, M., Fleming, A., 2006. A rapid, high content, in vivo 
-model of glucocorticoid-induced osteoporosis. Biotechnol. J. 1, 651–655. https:// 
-doi.org/10.1002/biot.200600043.
-Carnovali, M., Banfi, G., Mariotti, M., 2020. Liquiritigenin reduces osteoclast activity in 
-zebrafish model of glucocorticoid-induced osteoporosis. J. Pharmacol. Sci. 143, 
-300–306. https://doi.org/10.1016/j.jphs.2020.06.001.
-Carnovali, M., Ramoni, G., Banfi, G., Mariotti, M., 2021. Herbal preparation (Bromelain, 
-Papain, Curcuma, Black Pepper) enhances mineralization and reduces 
-glucocorticoid-induced osteoporosis in zebrafish. Antioxidants 10. https://doi.org/ 
-10.3390/antiox10121987.
-Chen, B., Yan, Y.-L., Liu, C., Bo, L., Li, G.-F., Wang, H., Xu, Y.-J., 2014. Therapeutic effect 
-of deferoxamine on iron overload-induced inhibition of osteogenesis in a zebrafish 
-model. Calcif. Tissue Int. 94, 353–360. https://doi.org/10.1007/s00223-013-9817- 
-4.
-Chen, L., Liu, J., Wang, Q., Chen, J., 2009. Fingerprint comparison between gegen 
-qinlian preparations of three different pharmaceutical forms including decoction, 
-dispensing granule and pill. Chromatographia 69, 123–127. https://doi.org/ 
-10.1365/s10337-008-0824-y.
-Ciovacco, W.A., Goldberg, C.G., Taylor, A.F., Lemieux, J.M., Horowitz, M.C., 
-Donahue, H.J., Kacena, M.A., 2009. The role of gap junctions in megakaryocyte- 
-mediated osteoblast proliferation and differentiation. Bone 44, 80–86. https://doi. 
-org/10.1016/j.bone.2008.08.117.
-Dietrich, K., Fiedler, I.A., Kurzyukova, A., L´opez-Delgado, A.C., McGowan, L.M., 
-Geurtzen, K., Hammond, C.L., Busse, B., Knopf, F., 2021. Skeletal biology and 
-disease modeling in zebrafish. J. Bone Miner. Res. Off. J. Am. Soc. Bone Miner. Res. 
-36, 436–458. https://doi.org/10.1002/jbmr.4256.
-Ding, J., Yan, R., Wang, L., Yang, Q., Zhang, X., Jing, N., Wei, Y., Zhang, H., An, Y., 2021. 
-Using alizarin red staining to detect chemically induced bone loss in zebrafish larvae. 
-J. Vis. Exp. https://doi.org/10.3791/63251.
-Fisher, S., Jagadeeswaran, P., Halpern, M.E., 2003. Radiographic analysis of zebrafish 
-skeletal defects. Dev. Biol. 264, 64–76. https://doi.org/10.1016/s0012-1606(03) 
-00399-3.
-Goldsmith, P., 2004. Zebrafish as a pharmacological tool: the how, why and when. Curr. 
-Opin. Pharmacol. 4, 504–512. https://doi.org/10.1016/j.coph.2004.04.005.
-Guo, Z., Lin, D., Guo, J., Zhang, Y., Zheng, B., 2017. In vitro antioxidant activity and in 
-vivo anti-fatigue effect of sea horse (Hippocampus) peptides. Molecules 22. https:// 
-doi.org/10.3390/molecules22030482.
-Huo, L., Wang, L., Yang, Z., Li, P., Geng, D., Xu, Y., 2018. Prednisolone induces 
-osteoporosis-like phenotypes via focal adhesion signaling pathway in zebrafish 
-larvae. Biol. Open 7. https://doi.org/10.1242/bio.029405.
-Jianying, H., Bafang, L., Zhijun, L., Peng, L., 2000. An experimental study on anti-fatigue 
-effects of eight marine pharmakons. Zhongguo hai yang yao wu = Chin. J. Mar. 
-Drugs 19, 56–58.
-Kari, G., Rodeck, U., Dicker, A.P., 2007. Zebrafish: an emerging model system for human 
-disease and drug discovery. Clin. Pharmacol. Ther. 82, 70–80. https://doi.org/ 
-10.1038/sj.clpt.6100223.
-Khrystoforova, I., Shochat-Carvalho, C., Harari, R., Henke, K., Woronowicz, K., 
-Harris, M.P., Karasik, D., 2022. Zebrafish mutants reveal unexpected role of Lrp5 in 
-osteoclast regulation. Front. Endocrinol. 13, 985304. https://doi.org/10.3389/ 
-fendo.2022.985304.
-Kimmel, C.B., DeLaurier, A., Ullmann, B., Dowd, J., McFadden, M., 2010. Modes of 
-developmental outgrowth and shaping of a craniofacial bone in zebrafish. PLOS One 
-5, e9475. https://doi.org/10.1371/journal.pone.0009475.
-Kumaravel, K., Ravichandran, S., Balasubramanian, T., Sonneschein, L., 2012. Seahorses 
-- a source of traditional medicine. Nat. Prod. Res. 26, 2330–2334. https://doi.org/ 
-10.1080/14786419.2012.662650.
-Kwan, K.K.L., Huang, Y., Leung, K.W., Dong, T.T.X., Tsim, K.W.K., 2019. Danggui Buxue 
-Tang, a chinese herbal decoction containing astragali radix and angelicae sinensis 
-radix, modulates mitochondrial bioenergetics in cultured cardiomyoblasts. Front. 
-Pharmacol. 10, 614. https://doi.org/10.3389/fphar.2019.00614.
-LaBonty, M., Pray, N., Yelick, P.C., 2017. A zebrafish model of human fibrodysplasia 
-ossificans progressiva. Zebrafish 14, 293–304. https://doi.org/10.1089/ 
-zeb.2016.1398.
-Li, C., Yuan, Q., He, L., Qian, Z.-J., Zhou, C., Hong, P., 2019. Effects of strontium- 
-hydroxyapatite mediated active compounds from Hippocampus kuda Bleeler (HKB) 
-on Osteogenesis. Coatings 9. https://doi.org/10.3390/coatings9020141.
-Li, N., Felber, K., Elks, P., Croucher, P., Roehl, H.H., 2009. Tracking gene expression 
-during zebrafish osteoblast differentiation. Dev. Dyn. Off. Publ. Am. Assoc. Anat. 
-238, 459–466. https://doi.org/10.1002/dvdy.21838.
-Li, X., Dong, Z., Siping, L., Tingting, L., Xin, L., 2022. A comparative analysis of 
-nutritional components and bio-functional composition in healthy and enteritis 
-diseased Hippocampus erectus. Mar. Fish. 44, 228–241. https://doi.org/10.13233/j. 
-cnki.mar.fish.20211117.001.
-Lin, Q., Lin, J., Lu, J., Li, B., 2008. Biochemical composition of six seahorse species, 
-Hippocampus sp., from the Chinese coast. J. World Aquac. Soc. 39, 225–234. 
-https://doi.org/10.1111/j.1749-7345.2008.00159.x.
-Luo, S., Yang, Y., Chen, J., Zhong, Z., Huang, H., Zhang, J., Cui, L., 2016. Tanshinol 
-stimulates bone formation and attenuates dexamethasone-induced inhibition of 
-osteogenesis in larval zebrafish. J. Orthop. Transl. 4, 35–45. https://doi.org/ 
-10.1016/j.jot.2015.07.002.
-Mundijo, T., Suyatna, F.D., Wibowo, A.E., Supriyono, A., Midoen, Y.H., 2022. 
-Characterization of seahorse (Hippocampus comes L.) extracts originating from 
-culture and nature in Pesawaran, Lampung, Indonesia. J. Adv. Vet. Anim. Res. 9, 
-610–616. https://doi.org/10.5455/javar.2022.i630.
-Park, S., Kim, H., Kim, S.J., 2001. Stimulation of ERK2 by taurine with enhanced alkaline 
-phosphatase activity and collagen synthesis in osteoblast-like UMR-106 cells. 
-Biochem. Pharmacol. 62, 1107–1111. https://doi.org/10.1016/s0006-2952(01) 
-00741-9.
-Pu, S.-Y., Hamid, N., Ren, Y.-W., Pei, D.-S., 2020. Effects of phthalate acid esters on 
-zebrafish larvae: development and skeletal morphogenesis. Chemosphere 246, 
-125808. https://doi.org/10.1016/j.chemosphere.2019.125808.
-Qian, Z.-J., Ryu, B., Kim, M.-M., Kim, S.-K., 2008. Free radical and reactive oxygen 
-species scavenging activities of the extracts from seahorse, Hippocampus kuda 
-Bleeler. Biotechnol. Bioprocess Eng. 13, 705–715. https://doi.org/10.1007/s12257- 
-008-0093-5.
-Ransj¨o, M., Sahli, J., Lie, A., 2003. Expression of connexin 43 mRNA in microisolated 
-murine osteoclasts and regulation of bone resorption in vitro by gap junction 
-inhibitors. Biochem. Biophys. Res. Commun. 303, 1179–1185. https://doi.org/ 
-10.1016/s0006-291x(03)00502-3.
-Rosa, I.L., Defavari, G.R., Alves, R.R.N., Oliveira, T.P.R., 2013. Seahorses in traditional 
-medicines: a global overview. In: Alves, R.R.N., Rosa, I.L. (Eds.), Animals in 
-Traditional Folk Medicine: Implications for Conservation. Springer Berlin 
-Heidelberg, Berlin, Heidelberg, pp. 207–240. https://doi.org/10.1007/978-3-642- 
-29026-8_10.
-Ryu, B., Qian, Z.-J., Kim, S.-K., 2010b. Purification of a peptide from seahorse, that 
-inhibits TPA-induced MMP, iNOS and COX-2 expression through MAPK and NF- 
-kappaB activation, and induces human osteoblastic and chondrocytic differentiation. 
-Chem. Biol. Interact. 184, 413–422. https://doi.org/10.1016/j.cbi.2009.12.003.
-Ryu, B., Qian, Z.-J., Kim, S.-K., 2010a. SHP-1, a novel peptide isolated from seahorse 
-inhibits collagen release through the suppression of collagenases 1 and 3, nitric oxide 
-products regulated by NF-kappaB/p38 kinase. Peptides 31, 79–87. https://doi.org/ 
-10.1016/j.peptides.2009.10.019.
-Sanaye, S.V., Pise, N.M., Pawar, A.P., Parab, P.P., Sreepada, R.A., Pawar, H.B., 
-Revankar, A.D., 2014. Evaluation of antioxidant activities in captive-bred cultured 
-yellow seahorse, Hippocampus kuda (Bleeker, 1852). Aquaculture 434, 100–107. 
-https://doi.org/10.1016/j.aquaculture.2014.08.007.
-Schiller, P.C., D’Ippolito, G., Balkan, W., Roos, B.A., Howard, G.A., 2001. Gap-junctional 
-communication is required for the maturation process of osteoblastic cells in culture. 
-Bone 28, 362–369. https://doi.org/10.1016/s8756-3282(00)00458-0.
-Song, Z.H., Ji, Z.N., Lo, C.K., Dong, T.T.X., Zhao, K.J., Li, O.T.W., Haines, C.J., Kung, S. 
-D., Tsim, K.W.K., 2004. Chemical and biological assessment of a traditional chinese 
-herbal decoction prepared from Radix Astragali and Radix Angelicae Sinensis: 
-orthogonal array design to optimize the extraction of chemical constituents. Planta 
-Med. 70, 1222–1227. https://doi.org/10.1055/s-2004-835855.
-Tarantino, U., Iolascon, G., Cianferotti, L., Masi, L., Marcucci, G., Giusti, F., Marini, F., 
-Parri, S., Feola, M., Rao, C., Piccirilli, E., Zanetti, E.B., Cittadini, N., Alvaro, R., 
-Moretti, A., Calafiore, D., Toro, G., Gimigliano, F., Resmini, G., Brandi, M.L., 2017. 
-Clinical guidelines for the prevention and treatment of osteoporosis: summary 
-statements and recommendations from the Italian society for orthopaedics and 
-traumatology. J. Orthop. Trauma. Off. J. Ital. Soc. Orthop. Trauma. 18, 3–36. 
-https://doi.org/10.1007/s10195-017-0474-7.
-de Vrieze, E., van Kessel, M.A.H.J., Peters, H.M., Spanings, F.A.T., Flik, G., Metz, J.R., 
-2014. Prednisolone induces osteoporosis-like phenotype in regenerating zebrafish 
-scales. Osteoporos. Int. a J. Establ. Result Coop. Eur. Found. Osteoporos. Natl. 
-Osteoporos. Found. USA 25, 567–578. https://doi.org/10.1007/s00198-013-2441-3.
-Yuan, Q., He, L., Qian, Z.-J., Zhou, C., Hong, P., Wang, Z., Wang, Y., Sun, S., Li, C., 2018. 
-Significantly accelerated osteoblast cell growth on TiO(2)/SrHA composite mediated 
-by phenolic compounds (BHM) from Hippocamp us kuda Bleeler. ACS Appl. Mater. 
-Interfaces 10, 30214–30226. https://doi.org/10.1021/acsami.8b12411.
-Zhang, N., Xu, B., Mou, C., Yang, W., Wei, J., Lu, L., Zhu, J., Du, J., Wu, X., Ye, L., Fu, Z., 
-Lu, Y., Lin, J., Sun, Z., Su, J., Dong, M., Xu, A., 2003. Molecular profile of the unique 
-species of traditional Chinese medicine, Chinese seahorse (Hippocampus kuda 
-Bleeker). FEBS Lett. 550, 124–134. https://doi.org/10.1016/s0014-5793(03)00855- 
-x.
-Zhang, Y., Ryu, B., Cui, Y., Li, C., Zhou, C., Hong, P., Lee, B., Qian, Z.-J., 2019. A peptide 
-isolated from Hippocampus abdominalis improves exercise performance and exerts 
-anti-fatigue effects via AMPK/PGC-1α pathway in mice. J. Funct. Foods 61, 103489. 
-https://doi.org/10.1016/j.jff.2019.103489.
-Zhao, Y., Wang, H.-L., Li, T.-T., Yang, F., Tzeng, C.-M., 2020. Baicalin ameliorates 
-dexamethasone-induced osteoporosis by regulation of the RANK/RANKL/OPG 
-signaling pathway. Drug Des. Dev. Ther. 14, 195–206. https://doi.org/10.2147/ 
-DDDT.S225516.
-Zhou, C., Zhang, X., Xu, L., Wu, T., Cui, L., Xu, D., 2014. Taurine promotes human 
-mesenchymal stem cells to differentiate into osteoblast through the ERK pathway. 
-Amino Acids 46, 1673–1680. https://doi.org/10.1007/s00726-014-1729-8.
-Zon, L.I., Peterson, R.T., 2005. In vivo drug discovery in the zebrafish. Nat. Rev. Drug 
-Discov. 4, 35–44. https://doi.org/10.1038/nrd1606.
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-7 
+0.0016
+0.0032
+0.0016
+Hippocampus_kuda_
+GU805015_South_
+Africa
+0
+0.0062
+0.0032
+0
+0.0032
+0
+0.0016
+0.0032
+0.0016
+Hippocampus_kuda_
+GU805016_South_
+Africa
+0
+0.0062
+0.0032
+0
+0.0032
+0
+0.0016
+0.0032
+0.0016
+Hippocampus_kuda_
+GU805017_South_
+Africa
+0
+0.0062
+0.0032
+0
+0.0032
+0
+0.0016
+0.0032
+0.0016
+Hippocampus_
+fuscus_GQ502132_
+Tanzania
+0.0015
+0.0077
+0.0047
+0.0015
+0.0048
+0.0016
+0.0032
+0.0048
+0.0032
+Appendix 1. (Continued)
+Hippocampus_
+fuscus_
+MG875011_Red_
+Sea
+Hippocampus_
+fuscus_
+MG8750010_Red_
+Sea
+Hippocampus_
+kuda_AB983272_
+Iran
+Hippocampus_
+kuda_ADC09-
+087_BOLD_
+South_Africa
+Hippocampus_
+kuda_GU805014_
+South_Africa
+Hippocampus_
+kuda_GU805015_
+South_Africa
+Hippocampus_
+kuda_GU805016_
+South_Africa
+Hippocampus_
+kuda_GU805017_
+South_Africa
+Hippocampus_
+fuscus_
+GQ502132_
+Tanzania
+Hippocampus_kuda_
+PP992517_Saudi_
+Arabia
+Hippocampus_kuda_
+KU236029_Saudi_
+Arabia
+Hippocampus_
+fuscus_KY066107_
+Egypt
+Hippocampus_kuda_
+MF123924_Isreal
+......continued on the next page
+A new record of Hippocampus kuda from saudia arabia
+Zootaxa 5501 (2) © 2024 Magnolia Press  ·  343
+Appendix 1. (Continued)
+Hippocampus_
+fuscus_
+MG875011_Red_
+Sea
+Hippocampus_
+fuscus_
+MG8750010_Red_
+Sea
+Hippocampus_
+kuda_AB983272_
+Iran
+Hippocampus_
+kuda_ADC09-
+087_BOLD_
+South_Africa
+Hippocampus_
+kuda_GU805014_
+South_Africa
+Hippocampus_
+kuda_GU805015_
+South_Africa
+Hippocampus_
+kuda_GU805016_
+South_Africa
+Hippocampus_
+kuda_GU805017_
+South_Africa
+Hippocampus_
+fuscus_
+GQ502132_
+Tanzania
+Hippocampus_
+fuscus_MG875005_
+Red_Sea
+Hippocampus_
+fuscus_MG875006_
+Red_Sea
+Hippocampus_
+fuscus_MG875007_
+Red_Sea
+Hippocampus_
+fuscus_MG875008_
+Red_Sea
+Hippocampus_
+fuscus_MG875009_
+Red_Sea
+Hippocampus_
+fuscus_MG875011_
+Red_Sea
+Hippocampus_
+fuscus_MG8750010_
+Red_Sea
+0.0078
+Hippocampus_kuda_
+AB983272_Iran
+0.008
+0.0096
+Hippocampus_kuda_
+ADC09-087_BOLD_
+South_Africa
+0.0065
+0.0065
+0.0067
+Hippocampus_kuda_
+GU805014_South_
+Africa
+0.0032
+0.0032
+0.0033
+0.0031
+Hippocampus_kuda_
+GU805015_South_
+Africa
+0.0032
+0.0032
+0.0033
+0.0031
+0
+Hippocampus_kuda_
+GU805016_South_
+Africa
+0.0032
+0.0032
+0.0033
+0.0031
+0
+0
+......continued on the next page
+Charles et al.
+344  ·  Zootaxa 5501 (2) © 2024 Magnolia Press
+Appendix 1. (Continued)
+Hippocampus_
+fuscus_
+MG875011_Red_
+Sea
+Hippocampus_
+fuscus_
+MG8750010_Red_
+Sea
+Hippocampus_
+kuda_AB983272_
+Iran
+Hippocampus_
+kuda_ADC09-
+087_BOLD_
+South_Africa
+Hippocampus_
+kuda_GU805014_
+South_Africa
+Hippocampus_
+kuda_GU805015_
+South_Africa
+Hippocampus_
+kuda_GU805016_
+South_Africa
+Hippocampus_
+kuda_GU805017_
+South_Africa
+Hippocampus_
+fuscus_
+GQ502132_
+Tanzania
+Hippocampus_kuda_
+GU805017_South_
+Africa
+0.0032
+0.0032
+0.0033
+0.0031
+0
+0
+0
+Hippocampus_
+fuscus_GQ502132_
+Tanzania
+0.0048
+0.0048
+0.0049
+0.0047
+0.0015
+0.0015
+0.0015
+0.0015
 

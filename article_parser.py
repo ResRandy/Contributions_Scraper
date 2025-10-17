@@ -7,3 +7,5 @@ for page in doc: # iterate the document pages
     out.write(text) # write text of page
     out.write(bytes((12,))) # write page delimiter (form feed 0x0C)
 out.close()
+
+

@@ -1,720 +1,1300 @@
-The effect of the Hippocampus erectus decoction on improving osteoporosis 
-in zebrafish
-Qiuxian Chen a,*, Xuange Liu a,*, Ting Wang c,*, Chenlei Huang a, Zhilun Zhang a, Jiahui Chen a,  
-Huadong Yi a, Li Lin a, Jinhui Wu b, Guifeng Li a,*, Yong Zhang a,*
-a State Key Laboratory of Biocontrol and School of Life Sciences, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), Guangdong Provincial Key 
-Laboratory for Aquatic Economic Animals, Sun Yat-Sen University, Guangzhou 510275, China
-b Agro-Tech Extension Center of Guangdong Province, Guangzhou, Guangdong 510145, China
-c KemRocMed Co., Ltd., Guangzhou 510320, China
-A R T I C L E  I N F O
-Keywords:
-Osteoporosis
-Zebrafish larvae
-Seahorse decoction
-Prednisolone
-A B S T R A C T
-The seahorse is a traditional Chinese herbal medicine that has been utilized for the treatment of conditions such 
-as osteoporosis, nonunion fractures, knee osteoarthritis, and herniated lumbar disks.
-Zebrafish is an excellent animal model to study the effects of herbal preparations on osteogenesis and bone 
-metabolism, and bone biology is highly similar to that of mammals, so it has been used to develop multiple 
-glucocorticoid-induced osteoporosis (GIOP) models. Our study aimed to explore whether the decoction of Hip­
-pocampus erectus (DHe) administered in zebrafish larvae promotes bone health under physiological and osteo­
-porotic conditions. In zebrafish larvae, 25 µM prednisolone solution was successfully used to induce the zebrafish 
-osteoporosis model, which can significantly inhibit the mineralization area and degree of bone mineralization, 
-reduce the activity of alkaline phosphatase, and increase tartrate-resistant acid phosphatase activity. The results 
-showed that 0.3 g/L DHe had a significant improvement effect on osteoporosis in zebrafish by enhancing the 
-mineralization degree and phosphatase activity of zebrafish, while also promoting the expression of genes 
-associated with bone development. It can be considered a good candidate to develop new drugs against 
-osteoporosis.
-1. Introduction
-Osteoporosis is a metabolic bone disease, with defining features 
-including decreased bone density, heightened bone fragility, damaged 
-bone microstructure, and increased susceptibility to fractures (Anam 
-and Insogna, 2021). The increasing pace of global aging will contribute 
-to a further escalation in the prevalence of osteoporosis, accompanied by 
-the gradual worsening of symptoms. Glucocorticoids are a leading cause 
-of secondary osteoporosis, however, the current pharmacological 
-treatments for human bone diseases have some side effects, including 
-upper gastrointestinal symptoms and bowel disturbances (Tarantino 
-et al., 2017). So it is important to find innovative non-invasive natural 
-therapeutic approaches. Some traditional Chinese herbs have antioxi­
-dant and anti-inflammatory properties, which have been proven to play 
-an important role in preventing skeletal diseases (Carnovali et al., 2021, 
-2020).
-The seahorse is a valuable medicine that has been widely used for 
-centuries in traditional Chinese medicine. Studies have shown that 
-seahorses are rich in various chemical components such as amino acids, 
-fatty acids, and trace elements (Lin et al., 2008; Sanaye et al., 2014), 
-which have the properties of appetite enhancement, antioxidant, 
-anti-tumor, anti-aging, and anti-fatigue (Jianying et al., 2000; Zhang 
-et al., 2003), and have a curative role for osteoporosis, impotence, 
-infertility, kidney disorders and skin afflictions (Kumaravel et al., 2012; 
-Rosa et al., 2013; Zhang et al., 2003). The phenolic compounds, 
-extracted from the seahorses, can promote the up-regulation of osteo­
-genic marker genes, the proliferation and mineralization of osteoblasts, 
-induce the formation of bone nodules, and inhibit the activity of 
-tartrate-resistant acid phosphatase (TRAP) in osteoclasts in rats (Li et al., 
-2019; Yuan et al., 2018).
-The novel peptides isolated from the seahorses can promote the 
-differentiation of osteoblasts and chondrocytes, effectively restrain the 
-* Correspondence to: Institute of Aquatic Economic Animals, School of Life Sciences, Sun Yat-sen University, Guangzhou Higher Education Mega Center, No. 132, 
-East Outer Ring Road, Guangzhou 510006, China
-E-mail addresses: liguif@mail.sysu.edu.cn, lsszy@mail.sysu.edu.cn (G. Li). 
-Contents lists available at ScienceDirect
-Aquaculture Reports
-journal homepage: www.elsevier.com/locate/aqrep
-https://doi.org/10.1016/j.aqrep.2024.102510
-Received 5 July 2024; Received in revised form 26 September 2024; Accepted 12 November 2024  
-Aquaculture Reports 39 (2024) 102510 
-Available online 15 November 2024 
-2352-5134/© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
-nc-nd/4.0/ ). 
-increase of matrix metalloprotein, and refrain the breakdown of 
-collagen by inhibiting the NF-κB/p38 kinase pathway in a dose- 
-dependent manner (Ryu et al., 2010a,b). The chemical composition of 
-seahorses will be affected by the extraction method, and most research is 
-based on the freeze-dried powder and alcohol extract of seahorses 
-(Mundijo et al., 2022; Ryu et al., 2010b), with limited studies conducted 
-on seahorses decoctions.
-Danio rerio (zebrafish) is a representative model for translational 
-studies on human bone diseases. Particularly, the zebrafish embryo is a 
-powerful model to study developmental osteogenesis (Kimmel et al., 
-2010). Zebrafish can absorb drugs or chemicals through the skin and are 
-transparent in the embryo and young fish, which makes the internal 
-organs of zebrafish directly observable to study the morphological 
-changes (Barrett et al., 2006; Goldsmith, 2004; Kari et al., 2007; Zon and 
-Peterson, 2005).
-The ossification mechanism and bone matrix composition of zebra­
-fish are highly similar to those of mammals, and zebrafish genomes also 
-contain homologous genes to several key genes adjusting skeletal 
-development in mammals (Dietrich et al., 2021). Thus, zebrafish can be 
-used to make models of osteoporosis, osteogenesis imperfect, and 
-fibrodysplasia ossificans progressive (de Vrieze et al., 2014; Fisher et al., 
-2003; LaBonty et al., 2017). Prednisolone can induce a dose-dependent 
-loss of bone matrix (glucocorticoid-induced osteoporosis, GIOP) that can 
-be assessed in zebrafish scales through histological and biochemical 
-examinations (de Vrieze et al., 2014). Therefore, we used prednisolone 
-to construct a GIOP model in zebrafish larvae, and the purpose of this 
-study was to test the ability of seahorses decoctions to prevent the for­
-mation of the osteoporotic phenotype in the zebrafish GIOP model.
-2. Materials and methods
-2.1. Ethics statement
-This experimentation has been done in the Zebrafish Laboratory (Sun 
-Yat-sen University, guangzhou, China). All experimental protocols were 
-approved by the Institutional Animal Care and Ethics Committee of Sun 
-Yat-sen University.
-2.2. The preparation of H. erectus decoction and component detection
-Hippocampus erectus (H. erectus) were derived from HAIMAO SEED 
-TECHNOLOGY GROUP CO., TLD, Zhanjiang, which were 6 months old 
-(body length 9–11 cm and wet weight 7–9 g). The seahorses were 
-anesthetized with tricaine methanesulfonate (MS-222, 100 mg/L), and 
-then frozen with liquid nitrogen. Seahorses decoction (DHe) was made 
-by 50 g seahorses and 5 L pure water. The preparation of seahorses 
-decoction was referred to the preparation of Chinese herbal medicine 
-decoction (Song et al., 2004). The liquid in the decoction was filtered 
-through qualitative filter paper, and the volume was fixed to 5 L with 
-pure water in a volumetric flask to prepare 10 g/L DHe.
-Qualification of chemical markers of DHe were performed on a Q 
-Exactive Plus system (Thermo Fisher, America). The mixtures were 
-filtered by a 0.22 µm filter before separated by an Acquity UPLC HSS T3 
-column (1.8 µm, 2.1 mm × 100 mm). The mobile phase composed of 
-0.1 % formic acid in acetonitrile (A) and 0.1 % formic acid in water (B), 
-and the gradient program according to the Kenneth et al. method (Kwan 
-et al., 2019). The column temperature was 35 ◦C, and the injection 
-volume was 10 µl. Mass spectrometry was performed on a Q Exactive 
-Orbitrap equipped with an ESI ion source was operated in positive and 
-negative ion. The dry gas temperature was 320 ◦C, drying gas flow rate 
-was 15 L/min, and capillary voltage was 3200 V.
-2.3. Animals husbandry and experimental design
-Zebrafish larvae (D. rerio) AB strains were divided into six groups, 
-each group was soaked with different solutions for 120 h in 4 days after 
-fertilization (dpf) and set three parallels (n = 30). Control groups, larvae 
-were treated with 0.1 % dimethyl sulfoxide (DMSO). Model groups, 
-larvae were treated with 25 µM prednisone (Huo et al., 2018). Positive 
-groups, larvae were treated with 25 µM prednisone and 30 mg/L eti­
-dronate disodium (ED). Low concentration seahorses decoction group 
-(L-DHe), larvae were treated with 25 µM prednisone and 0.15 g/L DHe. 
-Medium concentration seahorses decoction group (L-DHe), larvae were 
-treated with 25 µM prednisone and 0.30 g/L DHe. High concentration 
-seahorses decoction group (L-DHe), larvae were treated with 25 µM 
-prednisone and 0.60 g/L DHe. All groups larvae were raised in closed 
-water system (1 L) under 14/10 h light/dark (L/D) cycles at 28◦C and 
-fed with paramecia, and treatment solutions were changed every 24 h. 
-Larvae were euthanized for sampling in 0.1 % 2-phenoxyethanol.
-2.4. Skeletal staining, mineralized area and mineralized intensity in 
-zebrafish larvae
-Zebrafish larvae were collected and fixed in 2 % paraformaldehyde 
-(PFA) overnight and trypsinized with 1 % trypsin in a 35 % saturated 
-sodium borate solution overnight to remove the skin and muscles. After 
-washing with 10 % glycerol/0.5 % KOH, larvae were stained with 
-0.02 % Alizarin Red stain/10 % glycerol/0.5 % KOH overnight, and then 
-washed twice with 50 % glycerol/0.1 % KOH overnight. Three zebrafish 
-larvae were selected from each group and three parallels were set. Im­
-ages were acquired with a stereomicroscope (M165FC; Leica, Frankfurt, 
-Germany). Digital image analysis was performed to quantify stained 
-area and staining density.
-Whole-mount skeletal staining of zebrafish larvae was referred to 
-Ding et al. (2021). Images were acquired with a stereomicroscope (ZEISS 
-Lumar.V12, Germany) under the bright field C4 brightness, and the 
-exposure was maintained at 280 ms to obtain the abdominal surface 
-view photos of juvenile zebrafish. Images were analyzed with Image Pro 
-Plus 6.0 to calculate the mineralized area and mineralized intensity 
-(Barrett et al., 2006).
-2.5. RNA isolation, cDNA synthesis and quantitative real-time PCR
-Total RNA was extracted from a pool of 10 larvae using Trizol 
-(Invitrogen) reagent and reverse transcribed into cDNA with Superscript 
-III Reverse Transcriptase (Invitrogen). Quantitative Real-Time PCR 
-(qRT-PCR) was performed using an Roche LightCycler 480 instrument 
-with the SYBR (TaKaRa, China) system with 40 cycles of 95 ◦C for 10 s, 
-and 58 ◦C for 30 s. Each qRT-PCR assay was conducted with three in­
-dependent biological samples and each sample was performed in trip­
-licate. All expression levels were normalized to the expression level of 
-the housekeeping gene β-actin. Relative mRNA expression levels are 
-expressed as 2ΔΔCt. Primer sequences are listed in the supplementary 
-information 1.
-2.6. ALP and TRAP assays
-Each group was set up with three replicates treatment, and 5 fish 
-were used for each treatment.
-Alkaline phosphatase (ALP) assay was done using an alkaline phos­
-phatase assay kit (Njjcbio, China). Tartrate resistant acid phosphatase 
-(TRAP) assay was performed using a tartrate-resistant acid phosphatase 
-stain kit (Njjcbio, China) following the manufacturer’s protocol.
-2.7. Statistics
-Data are presented as mean±s.d. Statistical analyses were performed 
-with either an analysis of variance (ANOVA) or an unpaired two tailed 
-Student’s t-test. All statistical analyses were performed using SPSS 21.0 
-software (IBM) and values of P <0.05 were considered statistically 
-significant.
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-2 
-3. Results
-3.1. The main active components of DHe
-There were 36 active components in DHe, and the main ingredients 
-(relative content >2 %) were shown in Table 1. The 36 active in­
-gredients contained 6 kinds of dipeptides (30.915 %), 5 kinds of amino 
-acids (23.709 %), 10 kinds of organic acids (17.639 %), 5 kinds of 
-organic acid esters (4.567 %), 2 kinds of vitamins (2.535 %), alcohol 
-(2.162 %), 2 kinds of aldehydes (1.296 %), 2 kinds of nucleosides 
-(0.439 %), ketone (0.240 %) and 2 kinds of other substances (creatinine 
-and oleamide, total relative content of 16.497 %) (supplementary in­
-formation 2).
-3.2. Effect of DHe concentration on survival rate of zebrafish
-To explore the appropriate concentration of DHe, 4dpf larva zebra­
-fish were exposed to different concentrations of DHe. The survival 
-numbers of larvae after 24 h, 48 h, 72 h, 96 h, 120 h were counted 
-(Table 2) and the median lethal concentration of DHe was obtained 
-(Table 2). The results showed that 0.01–0.3 g/L DHe had no obvious 
-lethal effect on larvae (Table 2). However, when the DHe concentration 
-exceeded 1 g/L, the mortality rate of larvae was positively correlated 
-with concentration. With the increase of time, the survival slope of larva 
-zebrafish decreased (Fig. 1 A) and the median lethal concentration of 
-DHe on larvae decreased (Table 2).
-According to the above results, we further explored the effects of 
-DHe concentrations on the mortality of larvae under the GIOP model. On 
-the fourth day, the mortality of larvae in all groups increased sharply 
-except the control groups (Fig. 1B). During the whole experiment, the 
-mortality rate of L-DHe, M-DHe and H-DHe groups were 20.8 %, 17.5 % 
-and 21.7 % respectively (Table 3), which was close to that of the model 
-groups (22.5 %). It was showed the death of larvae was mainly caused 
-by prednisolone, and 0.15 g/L, 0.3 g/L, 0.6 g/L DHe had no obvious 
-lethal effect on osteoporotic larvae.
-3.3. DHe treatment stimulates osteogenesis in zebrafish
-Staining with alizarin red was performed to evaluate the minerali­
-zation area and degree of bone mineralization, including spine, palato­
-quadratecartilage (PQ), occipital bone (OC), parasphenoid (PS), 
-branchiostegal (BS), operculum (OP), notochord (NC), ceratohyal (CH), 
-cleithrum (CL) and otolith (OT). The results showed that prednisolone 
-inhibited the degree and area of mineralization in all bones except OT 
-(Fig. 2 A)
-The results showed that prednisolone could effectively inhibit bone 
-mineralization and reduce the mineralized area of larvae. For the spine, 
-no mineralization was observed in model groups, while the minerali­
-zation was observed in positive groups, L-DHE and M-DHe groups 
-(Fig. 2B and C), indicating that 0.15 g/L and 0.30 g/L DHe could 
-improve the inhibition effect of prednisolone on the spine.
-Similarly, the mineralization degree and area of PS, BS, and OP in M- 
-DHe groups were significantly higher than those in model groups (P <
-0.05) (Fig. 2B and C), indicating that 0.15 g/L DHe could weaken the 
-inhibitory effect of prednisolone.
-The results of each group were quantitatively analyzed, and the total 
-staining area and staining integral optical density of larvae in each group 
-were calculated. ED could significantly increase the calcified area (P <
-0.001) and the degree of calcification (P < 0.05) (Fig. 2D). These results 
-indicated that the osteoporosis induced by prednisolone can be effec­
-tively improved by DHe. 0.3 g/L DHe can significantly increase the 
-Table 1 
-The main active components of DHe.
-Name
-Molecular formula
-Molecular formula（%）
-Glycylproline
-C7H12N2O3
-24.562
-Creatinine
-C4H7N3O
-12.852
-L-Phenylalanine
-C9H11NO2
-12.296
-Cholic Acid
-C24H40O5
-6.725
-L-Leucine
-C6H13NO2
-6.288
-Succinic Acid
-C4H6O4
-5.940
-Oleamide
-C18H38NO
-3.645
-Leucylproline
-C11H20N2O3
-3.029
-Taurine
-C2H7NO3S
-2.927
-Bis Sorbitol
-C24H30O6
-2.162
-Dibutyl Phthalate
-C16H22O4
-2.127
-Table 2 
-Survival number of larva zebrafish (n =90) and median lethal concentration of 
-DHe.
-Time（h）
-DHe concentration（g/L）
-LC50 (g/L)
-0
-0.01
-0.03
-0.1
-0.3
+ORIGINAL
+ARTICLE
+Marine dispersal and barriers drive
+Atlantic seahorse diversiﬁcation
+J. T. Boehm1,2*, Lucy Woodall3, Peter R. Teske4, Sara A. Lourie5,
+Carole Baldwin6, John Waldman2,7 and Mike Hickerson1,2
+1Biology Department, City College of New
+York, New York, NY, 10031, USA, 2The
+Graduate Center, City University of New
+York, New York, NY, 10016, USA,
+3Department of Zoology, Natural History
+Museum, London, SW7 5BD, UK, 4Molecular
+Ecology Lab, School of Biological Sciences,
+Flinders University, Adelaide, SA, 5001,
+Australia, 5Redpath Museum, McGill
+University, Montreal, H3A 2K6, Canada,
+6National Museum of Natural History,
+Smithsonian Institution, Washington, D.C.,
+USA, 7Biology Department, Queens College,
+City University of New York, Flushing, NY,
+11367, USA
+*Correspondence: J. T. Boehm, Biology
+Department, Marshak Science Building, J-526,
+160 Convent Avenue, New York, NY 10031,
+USA.
+E-mail: jtboehmjr@gmail.com
+ABSTRACT
+Aim To investigate how marine barriers shaped the demographic history of
+Atlantic seahorses (Syngnathidae: Hippocampus).
+Location Atlantic Ocean.
+Methods Range-wide sampling (n = 390) at mitochondrial and up to ﬁve
+nuclear DNA loci was carried out across the Hippocampus erectus species com-
+plex (H. erectus from the Caribbean/North America, H. patagonicus from South
+America and H. hippocampus from Europe and West Africa). Multi-species
+coalescent and approximate Bayesian computation (ABC) frameworks were
+used to estimate support of competing biogeographical hypotheses and demo-
+graphic parameters, including lineage divergence times, effective population
+sizes and magnitudes of population size change.
+Results We identiﬁed four distinct lineages within the H. erectus complex. A
+posterior probability of 0.626 and corresponding Bayes factors ranging from
+3.68 to 11.38 gave moderate to strong support for a basal divergence between
+South American populations of H. patagonicus and Caribbean/North American
+populations of H. erectus coincident with the inter-regional freshwater outﬂow
+of the Amazon River Barrier (ARB). Estimates of historical effective population
+sizes and divergence times indicate that European and West African popula-
+tions of H. hippocampus expanded after colonization from a more demographi-
+cally stable Caribbean/North American H. erectus.
+Main conclusions Our ﬁndings of trans-Atlantic colonization followed by
+isolation across a deep oceanic divide, and isolation across a freshwater barrier,
+may demonstrate a contrast in marine divide permeability for this group of
+rafters. Demographic inference supports the establishment of an ancestral pop-
+ulation of the H. erectus complex in the Americas, followed by the ARB split-
+ting it into Caribbean/North and South American lineages at a time of
+increased sedimentation and outﬂow. Our estimates suggest that following this
+split, colonization occurred across the Atlantic via the Gulf Stream currents
+with subsequent trans-Atlantic isolation. These results illustrate that rafting can
+be a means of range expansion over large distances, but may be insufﬁcient for
+sustaining genetic connectivity across major barriers, thereby resulting in line-
+age divergence.
+Keywords
+Atlantic Ocean, coalescent, demographic history, Hippocampus, marine barri-
+ers, ocean currents, rafting, seahorse, Syngnathidae.
+ª 2013 John Wiley & Sons Ltd
+http://wileyonlinelibrary.com/journal/jbi
 1
+doi:10.1111/jbi.12127
+Journal of Biogeography (J. Biogeogr.) (2013)
+INTRODUCTION
+For marine taxa with freely mobile adults or larvae, mount-
+ing genetic evidence demonstrates that mechanisms other
+than strict vicariant speciation may drive diversiﬁcation,
+including soft vicariance, parapatric speciation, ecological
+speciation and founder colonization (Rocha et al., 2005;
+Lessios & Robertson, 2006; Hickerson & Meyer, 2008; Rocha
+& Bowen, 2008; Luiz et al., 2012). These processes are
+undoubtedly affected by the permeability of marine divides,
+which are proposed to serve as ‘biogeographical ﬁlters’ rather
+than strict barriers (Vermeij, 1978; Floeter et al., 2008).
+Hence, the interplay between ocean currents, the emergence
+of oceanic barriers, organismal dispersal potential and organ-
+ismal environmental tolerances all contribute to patterns of
+diversiﬁcation in the oceans (Joyeux et al., 2001; Muss et al.,
+2001; Floeter et al., 2008; Rocha et al., 2008; Hellberg, 2009).
+Seahorses (Syngnathidae: Hippocampus; nomenclature fol-
+lows Lourie et al., 1999; Piacentino & Luzzatto, 2004) are
+presumed to have a low dispersal potential because they are
+poor swimmers and lack a pelagic larval phase, yet many
+species have vast distributions (thousands of kilometres) with
+variable genetic connectivity, which suggests moderate to
+high long-distance dispersal capabilities (Lourie et al., 2004,
+2005; Teske et al., 2005; Woodall et al., 2011). This apparent
+paradox probably arises from the ability to raft on ﬂoating
+mats of Sargassum and other macroalgae (G€unther, 1870;
+Casazza & Ross, 2008; Woodall et al., 2009), a mode of dis-
+persal utilized by many ﬁshes (Casazza & Ross, 2008; Luiz
+et al., 2012) and invertebrates (Ingolfsson, 1995; Theil & Gu-
+tow, 2005; Fraser et al., 2011). Rafting has been shown to be
+a strong general predictor of colonization for coral reef ﬁshes
+across the deep oceanic barrier of the equatorial mid-Atlantic
+(Luiz et al., 2012). Consistent with this trend, recent studies
+have concluded that diversiﬁcation in Hippocampus may be
+driven by rafting-mediated founder colonization followed by
+levels of gene ﬂow insufﬁcient for maintaining genetic con-
+nectivity with the original population (Lourie et al., 2005;
+Teske et al., 2005, 2007). Therefore, rafting-mediated dis-
+persal can be differentiated into two general scales: (1) regio-
+nal gene ﬂow that links demes by recruitment between
+spatially distinct populations; and (2) large-scale colonization
+that results in range expansion across marine barriers, fol-
+lowed by divergence when subsequent dispersal events are
+too rare to prevent isolation (i.e. < 1 migrating individual
+per generation) (Slatkin, 1985; Paulay & Meyer, 2002).
+Here, we use population-level sampling to test four com-
+peting historical biogeographical hypotheses that involve
+divergences across oceanic divides and a major freshwater
+outﬂow in three widespread sibling species of seahorses:
+H. erectus from Caribbean/North America, H. hippocampus
+from Europe and West Africa, and H. patagonicus from
+South America (hereafter the H. erectus complex). The distri-
+bution of the H. erectus complex encompasses most of the
+tropical and warm-temperate coasts of the Atlantic (Fig. 1a),
+allowing us to study the impact of two types of major
+marine barriers on the diversiﬁcation of this species complex:
+(1) the deep oceanic divides of the mid-northern and equa-
+torial Atlantic; and (2) the Amazon River Barrier (ARB), the
+largest freshwater outﬂow in the world (Briggs, 1995; Rocha,
+Max
+Min
+North Atlantic 
+Gyre
+Amazon 
+River 
+Basin
+Isthmus
+of 
+Panama
+The Gulf 
+Stream
+Equatorial Current
+Brazil Current
+Caribbean Current
+Canary 
+Current
+(a)
+(b)
+Figure 1 Atlantic seahorse distributions and major ocean
+currents. (a) Distributions modiﬁed from Teske et al. (2007) to
+include Hippocampus patagonicus. Small boxes 1–15 represent
+the collection locations of the Hippocampus erectus complex
+used in this study: (1) Hudson River Estuary and southern Long
+Island, New York (n = 31), Tuckerton and Little Bay, New
+Jersey (n = 13); (2) Chesapeake Bay (n = 22); (3) Atlantic Coast
+(Indian River and Jacksonville, Florida; n = 10); (4) Gulf Coast
+(Tampa Bay, south-east peninsula, offshore trawls; n = 28);
+(5) Caribbean Sea (n = 10); (6) Brazil (n = 7); (7) Argentina
+(Argentine Sea, San Antonio Bay and Mar de Plata; n = 14);
+(8) West Africa (Senegal; n = 26); (9) Canary and Porto Santo
+Islands (n = 44); (10) UK and Channel Islands (n = 39);
+(11) Bay of Biscay (n = 32); (12) South Iberia (n = 31);
+(13) southern coast, Spain (n = 18); (14) western Mediterranean
+(n = 44); and (15) eastern Mediterranean (n = 44). (b) Major
+ocean currents of North and South Atlantic gyre systems. The
+ocean environmental data layer is a ﬁve-year mean (1993–1997)
+of absolute velocity maximum (AVISO Remote Satellite data)
+transformed using Marine Geospatial Ecology Tools (mget)
+0.7 (Roberts et al., 2010) and visualized in ArcGIS 9.3 (ESRI,
+Redlands, CA). Blue colours represent current maxima, with
+arrows showing direction.
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+2
+J. T. Boehm et al.
+2003). Both barrier types are permeable, but to cross them
+poses considerable challenges, and may affect rafting dispers-
+ers in different ways. For oceanic crossing, currents can pro-
+vide directionality to patterns of colonization from source
+regions (Gillespie et al., 2012), and rafting vectors are pre-
+dicted to disperse primarily with the prevailing asymmetrical
+clockwise surface currents of the North Atlantic Gyre system
+(Fig. 1b). For freshwater outﬂows, the extreme environmen-
+tal shift created by the ARB acts as a break between some
+Caribbean and Brazilian faunas, while others show evidence
+of genetic connectivity (Joyeux et al., 2001; Rocha et al.,
+2002, 2005).
+In order to investigate how these two types of barriers
+shaped diversiﬁcation in Hippocampus, we use coalescent
+methods with multi-locus population genetic data (mito-
+chondrial DNA and up to ﬁve nuclear DNA loci, from 390
+individuals throughout the H. erectus complex range) to
+obtain the relative probabilities of the following four com-
+peting hypotheses whose branching order is depicted in
+Fig. 2.
+1. HEAO – western Atlantic lineages were the product of
+equatorial current dispersal from a basal north-eastern Atlan-
+tic population followed by ARB isolation between Caribbean/
+North American and South American lineages.
+2. HWAO – north-eastern Atlantic lineages were the product
+of Gulf Stream dispersal from the Caribbean/North American
+lineage subsequent to the ARB isolating Caribbean/North
+American and South American lineages.
+3. HCLK – north-eastern Atlantic lineages were the product
+of Gulf Stream dispersal from a basal Caribbean/North
+American lineage prior to a colonization of South American
+lineages from the north-eastern Atlantic.
+4. HMETA – a large connected metapopulation spanning the
+Americas and the north-eastern Atlantic became isolated to
+form all contemporary H. erectus complex lineages.
+To estimate the statistical support for each of the four
+hypotheses, we use an approximate Bayesian computation
+(ABC) framework. Importantly, this approach yields relative
+timeframe estimates for the corresponding demographic
+events, and patterns of population stability and instability
+within each modelled hypothesis. To put the inferences in a
+larger context, we also reconstruct the species tree for all
+Atlantic seahorse species. The majority of Atlantic Hippocam-
+pus species remain ‘data deﬁcient’ under IUCN Red List
+evaluations (IUCN, 2012), and our study is therefore well
+timed to help inform conservation management, while pro-
+viding insight into ecological and evolutionary processes that
+drive diversiﬁcation of Atlantic ﬁshes.
+MATERIALS AND METHODS
+Taxonomic background of study taxa and sampling
+Many Hippocampus species have a high degree of intraspe-
+ciﬁc morphological plasticity linked to environmental gradi-
+ents and habitats resulting in historical taxonomic confusion
+(Ginsburg, 1937; Lourie et al., 2004). Lourie et al. (2004)
+resolved many of these taxonomic issues and recognized
+seven species of Atlantic seahorses. Hippocampus erectus was
+consolidated into a single species with a conﬁrmed distribu-
+tion along the coastal western Atlantic from Venezuela to
+Canada (Lourie et al., 2004), with individuals as far south as
+Argentina tentatively included. Limited genetic data sug-
+gested that specimens from Argentina and Brazil appear dis-
+tinct from north Atlantic specimens (Casey et al., 2004;
+Lourie et al., 2004; Luzzatto et al., 2012). In addition, our
+ﬁndings of evolutionary lineage independence (Moritz, 2002)
+and morphological evidence further support the distribution
+of a second species named H. patagonicus (Piacentino &
+Luzzatto, 2004) and we treat the lineage south of the ARB
+as H. patagonicus throughout this study (Fig. 1b).
+Individuals were sampled throughout the range of the
+H. erectus complex (390 samples; listed in Appendix S1 in
+Supporting Information). In addition, specimens of H. cap-
+ensis (n = 2), H. reidi (n = 4), H. zosterae (n = 3), H. guttul-
+atus (n = 3), H. algiricus (n = 2) and non-Atlantic H. ingens
+(eastern Paciﬁc, n = 4) and H. kelloggi (Indo-Paciﬁc, n = 4)
+were included in species tree (*beast) estimates (Heled &
+Drummond, 2010). Sequence divergence between samples of
+the transisthmian geminate species H. ingens and H. reidi
+were used to estimate nuclear DNA (nDNA) and mitochon-
+drial DNA (mtDNA) mutation rates. These species are
+assumed to have separated during the ﬁnal rise of the Isth-
+mus of Panama (3.2 Ma) (Coates et al., 1992; Teske et al.,
+2007), with genetic divergence occurring earlier (Hickerson
+et al., 2006), thereby yielding a range of upper and lower
+bound temporal rate estimates. Data for all species were
+combined
+from
+direct
+sequencing
+and
+NCBI
+database
+Figure 2 Four possible hypotheses explaining the branching
+history of the Hippocampus erectus complex: HEAO, eastern
+Atlantic origin hypothesis; HWAO, western Atlantic origin
+hypothesis; HCLK, clockwise colonization hypothesis; HMETA,
+metapopulation divergence hypothesis. C/NA, Caribbean/North
+America; SA, South America; WA, West Africa; EUR, Europe.
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
 3
+Inferring the demographic history of Atlantic seahorses
+specimens (Appendix S1). When possible, non-invasive sam-
+pling was conducted by removing a ﬁn clip from the lower
+dorsal ﬁn. In total, sequence data from 412 individuals were
+included in this study. Newly generated sequences were
+deposited in GenBank (Appendix S1).
+Coalescent-based reconstruction of species trees and
+demographic history
+Phylogenetic relationships among Atlantic seahorses were
+reconstructed in *beast 1.53 using a multispecies coalescent
+approach that co-estimates multiple gene trees embedded in
+a shared species tree, while accounting for the stochastic gene
+tree/species tree incongruence expected with genetic drift
+(Edwards, 2009; Heled & Drummond, 2010). Our aligned
+data set was 3840 bp from three partial mtDNA gene regions
+[cytochrome b (cytb): 696 bp; cytochrome c oxidase subunit
+I: 652 bp; and control region: 371 bp] as well as ﬁve nuclear
+loci (aldolase: 186 bp; myh6: 711 bp; rhodopsin: 438 bp;
+Tmo4c4: 464 bp; and a partial S7 intron: 322 bp). For details
+of PCR and sequencing methods, see Appendix S1.
+*beast accounts for the independent coalescent histories
+of each sampled locus, with the mtDNA genes being treated
+as a single non-recombining locus. The number of gene cop-
+ies per locus per population averaged 4.8, and each nDNA
+locus was assumed to be unlinked. All loci were partitioned
+using the closest models selected by the Akaike information
+criterion (AIC) in jModelTest 2 (Darriba et al., 2012).
+*beast was run using a Yule prior with a strict molecular
+clock (estimated across loci) consisting of two independent
+chains each of 108 iterations and parameters logged every
+10,000 samples. After discarding the ﬁrst 2 9 107 iterations
+as burn-in, a 50% majority clade tree was obtained in
+TreeAnnotator 1.6.1 and visualized in FigTree 1.3.1
+(Rambaut, 2012). Convergence was assessed with effective
+sample size (ESS) values (all values > 200) in Tracer 1.5
+(Rambaut & Drummond, 2007). In addition, the ﬁnal log ﬁle
+of the 335 most probable species trees after burn-in was visu-
+alized in DensiTree 1.45 (Bouckaert, 2010) to illustrate the
+statistical uncertainty associated with our species-tree esti-
+mate (Fig. 3). For independent gene trees, see Appendix S2.
+In order to assess the relative probability of each of the
+four historical hypotheses for the H. erectus complex out-
+lined in the Introduction (Fig. 2), we used an approximate
+Bayesian computation (ABC) approach deployed in the pro-
+gram diyabc (Cornuet et al., 2008, 2010). This approach
+compresses the molecular data into informative summary
+statistics that are then compared to simulated data under
+our modelled hypotheses. Following simulation, Euclidean
+distances between the observed and simulated data set were
+computed using a local linear or polychotomous regression,
+and the closest 2% of the simulated data to the observed
+data were retained to estimate the posterior distributions
+(Beaumont et al., 2002; Cornuet et al., 2008). This allows for
+the ranking of modelled hypotheses based on approximate
+marginal likelihoods that were statistically compared using
+0.991
+0.303
+0.734
+1.0
+1.0
+H. erectus
+   H. hippocampus
+0.823
+H. patagonicus 
+H. zosterae
+H. erectus complex 
+H. guttulatus
+H. reidi
+H. algiricus
+H. capensis
+H. ingens
+1.0
+1.0
+0.832
+0.605
+C1
+C2
+0.0010
+H. hippocampus
+(West Africa)
+substitutions/site
+Figure 3 Species tree of the Hippocampus erectus complex and other Atlantic seahorses. Left: 50% majority-rule tree representing the
+probability of a given gene tree evolving within the branches of a species tree, generated in *beast. Right: 335 most probable topologies
+visualized in DensiTree 1.45 to illustrate the statistical uncertainty of our species tree estimation. Greater topological agreement is
+visualized by a higher density of trees, whereas uncertainty in the height and distribution of nodes are represented by increased
+transparency.
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+4
+J. T. Boehm et al.
+Bayes factors (Jeffreys, 1961) to classify the best-ﬁt model.
+Following this step, Monte Carlo validation was used to
+demonstrate accuracy and precision in the model choice pro-
+cedure (Robert et al., 2011).
+Within the ABC framework, four alternative hypotheses
+based on different species tree topologies (Fig. 2) were jointly
+simulated with population genetic parameters. These include:
+effective population sizes, divergence times and the timing
+and magnitude of changes in historical population size.
+Using sample sizes identical to those of the observed data,
+we generated 1 million simulations under each modelled
+hypothesis. Based on intraspeciﬁc analyses across all sampled
+populations
+(Appendix
+S3),
+Caribbean/North
+American
+H. erectus and South American H. patagonicus samples were
+considered independent evolutionary panmictic populations
+(Moritz, 2002), whereas eastern Atlantic H. hippocampus
+samples were regionally subdivided and constrained to be
+sister populations (West African and Europe). In all four his-
+torical scenarios, we explored three possible three-taxon pop-
+ulation topologies plus a polytomy, each involving the split
+of an ancestral population into the three regional lineages
+with a subsequent split of the north-eastern Atlantic popula-
+tion into West African and European populations (Fig. 2).
+As a preliminary check, we evaluated whether our models
+together with the chosen prior distributions were able to
+generate a subset of statistics close to our observed summary
+statistics. This was carried out by locating the observed value
+of each summary statistic within a principal components
+analysis (PCA) plane of 50,000 simulated data sets (Cornuet
+et al., 2010) (Appendix S2). All summary statistics used in
+our ﬁnal analysis showed a good ﬁt across models, and we
+kept the following global summary statistics for downstream
+analyses: (1) number of segregating sites and (2) mean pair-
+wise differences, which are well established as being jointly
+informative about past growth rates in the populations
+(Beaumont, 2010). Standard measures of allelic diversity
+included (3) the number of private segregating sites, and (4)
+the number of distinct haplotypes (mtDNA only). For pair-
+wise interpopulation summary statistics, we included the
+mean of between-sample pairwise differences and the FST
+value between two samples (Appendix S3).
+From the mtDNA locus, 390 individuals from the H. erec-
+tus complex were included (partial cytb – 391 bp) in the
+ABC analysis (Fig. 1a and Appendix S1). At the ﬁve autoso-
+mal loci, all sequences were phased probabilistically using the
+program phase in DnaSP 5 (Librado & Rozas, 2009). phase
+was run for 10,000 iterations, retaining results with a proba-
+bility of > 95%. All base calls were unambiguously recovered,
+and ﬁnal data sets included both phased gene copies from
+each sequenced individual (H. erectus, n = 8–46; H. patago-
+nicus, n = 6–18; H. hippocampus West Africa, n = 6; and
+H. hippocampus Europe, n = 6–36). Genetic data under each
+of the four hypotheses were simulated under the exact num-
+ber of gene copies per locus per population sample, which
+includes
+independent
+observed
+data
+sets
+for
+haploid
+(mtDNA) and diploid (nDNA) loci (Appendix S3). For the
+ﬁnal analysis, we used uniform priors with a lower and an
+upper bound for population size of 10 to 2 9 106, and
+divergence times of 1 9 103 to 4 9 106 generations in the
+past for t1 and t2, and 1 9 103 to 7.25 9 106 generations
+in the past for t3. Generation time was assumed to be one
+year for all species, and all populations were allowed to vary
+to include a discrete size-change event. The mutation rate
+of each nuclear locus was drawn from a gamma distribution
+with 95% quantiles encompassing 1.6 9 109 to 1.6 9 1010
+(in units of mutations per site per generation/lineage), while
+the mtDNA mutation rate was drawn from a uniform
+distribution with 95% quantiles encompassing 5.5 9 109 to
+7.5 9 109 (in units of mutations per site per generation/
+lineage). Because there is great uncertainty in assumed
+mutation rates (Ho et al., 2011), we emphasize relative time
+estimates.
+We computed the posterior probability of each hypothesis
+by performing a weighted polychotomous logistic regression
+on 2% of simulated data sets closest to the observed data
+(Cornuet et al., 2008, 2010). Subsequently, we used a local
+linear regression on 1% of the accepted closest simulated
+data sets conditional on the most likely hypothesis to esti-
+mate the posterior distributions of parameters. Due to the
+potential biases arising when using Bayes factors to conduct
+ABC model discrimination among non-nested models (Rob-
+ert et al., 2011), we evaluated the power and accuracy of our
+ABC model selection using simulation validation techniques
+(Cornuet et al., 2008, 2010). Speciﬁcally, we simulated 100
+test data sets (i.e. PODS; pseudo-observed data sets) under
+each of the four competing hypotheses and calculated the
+probability of type I and type II errors using the criteria of
+Cornuet et al. (2010), with conditions (i.e. tolerance, sum-
+mary statistics and number of random prior iterations) and
+sample sizes identical to our empirically-based estimates and
+hypothesis choice.
+RESULTS
+Phylogenetic relationships of Atlantic seahorses
+The *beast species tree recovered two well-supported clades
+(C1 and C2) (Fig. 3; posterior probability = 1.0), both of
+which are associated with trans-Atlantic biogeographical dis-
+tributions, and bifurcations appear to follow major direc-
+tional ocean currents (Fig. 1b) from basal to terminal species
+throughout Atlantic seahorse diversiﬁcation (Fig. 3). The
+focal lineages in this study, H. erectus, H. hippocampus and
+H. patagonicus (C2), form a monophyletic group (posterior
+probability 1.0) (Fig. 3), clearly placing H. patagonicus within
+the H. erectus complex, with a within-clade posterior proba-
+bility of 0.823. Atlantic Hippocampus is most likely to have
+originated from Indo-Paciﬁc lineages roughly 15 Ma, coinci-
+dent with an ancient split at the closure of the Tethyan
+Seaway, followed by trans-Atlantic expansion (Teske et al.,
+2007). The oldest bifurcation between the north-eastern
+Atlantic
+H. guttulatus
+(Europe)
+and
+the
+north-western
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+5
+Inferring the demographic history of Atlantic seahorses
+H. zosterae (Florida, USA) lacks support (posterior probabil-
+ity 0.303) and additional loci may be required to resolve this
+divergence.
+Consistent with Teske et al. (2007), C1 contains a trans-
+Atlantic sister-species relationship between H. algiricus and
+H. reidi across the equatorial mid-Atlantic, with a basal
+placement of H. capensis (posterior probability 1.0) and is
+linked to an ancestral Indo-Paciﬁc lineage (Fig. 3) (Teske
+et al., 2007). This topology is consistent with a ‘colonization
+pathway’ of dispersal around the southern tip of Africa that
+has been found for other species of Atlantic ﬁshes with
+ancestral origins in the Indian Ocean (Bowen et al., 2006).
+C1
+also
+includes
+the
+transisthmian
+geminate
+species
+H. ingens that is believed to have separated from H. reidi
+after the ﬁnal rise of the Isthmus of Panama (Teske et al.,
+2007).
+Demographic history inference and species tree
+concordance of the Hippocampus erectus complex
+Both coalescent-based methods suggest the western Atlantic
+origin hypothesis (HWAO; Fig. 2) for the H. erectus complex,
+in preference to the three other hypotheses. Posterior proba-
+bility of support for HWAO was 0.626 using diyabc (model
+probabilities: HEAO, 0.170; HCLK, 0.055; HMETA, 0.149), with
+corresponding Bayes factors ranging from 3.68 to 11.38 giv-
+ing moderate to strong support for HWAO over the three
+hypotheses (Appendix S2). Additionally, model choice vali-
+dation using PODS indicate that adequate power exists for
+selecting the true hypothesis among competing hypotheses
+(Cornuet et al., 2010) with an acceptable type I error rate
+(28%) and low type II error rate (8%).
+Conditional on HWAO, the ancestral population of the
+H. erectus complex was ﬁrst isolated in the western Atlantic,
+supporting a divergence between South American popula-
+tions (H. patagonicus) and Caribbean/North American popu-
+lations (H. erectus) approximately 5.27 Ma [95% credibility
+intervals (CI): 2.74–7.25 Ma] (Table 1, Fig. 4). Subsequent
+to this isolation event, the European and West African popu-
+lations (H. hippocampus) became isolated from Caribbean/
+North American populations around 3.35 Ma (95% CI:
+1.98–5.73 Ma). This second isolation event probably involved
+a substantial reduction in population size with the founding
+of the eastern Atlantic region, the effective population size
+(Ne) being 54,300 individuals (95% CI: 38,000–1,610,000)
+before the split into West African and European populations
+484 ka (95% CI: 268 ka to 1.39 Ma). Following this split,
+subsequent population expansions occurred in Europe with
+an Ne of 1.7 million individuals (95% CI: 1,470,000–
+1,940,000) and a West African Ne of 829,000 individuals
+(95% CI: 404,000–1,680,000). In both eastern Atlantic popu-
+lations, the posterior probabilities support the timings of
+major expansions to be recent and substantial. In contrast,
+the
+Ne
+of
+the
+Caribbean/North
+American
+population
+(H. erectus) of 1.92 million individuals (95% CI: 1,730,000–
+1,980,000) is inferred to be more stable throughout the
+various spitting events with some expansion. In addition, the
+Ne of the Caribbean/North American population (H. erectus)
+is roughly 10 times larger than the South American popula-
+tion
+(H. patagonicus)
+of
+191,000
+individuals
+(95%
+CI:
+86,000–691,000).
+DISCUSSION
+We detected two features that drove diversiﬁcation in the
+Atlantic H. erectus complex: (1) a vicariant breakup of an
+ancestral population into relatively stable Caribbean/North
+American and South American lineages; and (2) a founder
+colonization of the north-eastern Atlantic from Caribbean/
+North America via the Gulf Stream. The timing of the ﬁrst
+event (5.27 Ma; 95% CI: 2.74–7.25 Ma) coincided with a
+sustained period of increasing Amazon River sediment depo-
+sition approximately 2.6–6.4 Ma (Figueiredo et al., 2009)
+and geological estimates of maximum freshwater outﬂow
+(Rocha, 2003) that isolated the regions of the Caribbean and
+Brazil
+(Fig. 4). The
+second
+set
+of events
+includes
+the
+trans-Atlantic dispersal and subsequent trans-Atlantic isola-
+tion (3.35 Ma; 95% CI: 1.98–5.73 Ma) consistent with an
+Table 1 Parameter estimates based on posterior probabilities of
+the western Atlantic origin hypothesis (HWAO) for the
+Hippocampus erectus complex.
+Parameter
+Mode
+Quantiles 5%–95%
+Modern Ne
+C/NA
+1.92 9 106
+1.73 9 106 to 1.98 9 106
+SA
+1.91 9 105
+8.62 9 104 to 6.91 9 105
+EU
+1.79 9 106
+1.47 9 106 to 1.94 9 106
+WA
+8.29 9 105
+4.04 9 105 to 1.68 9 106
+Ancestral Ne at time of size change
+EUWAt1sc
+NC
+EUt1sc
+3.39 9 105
+1.01 9 105 to 1.79 9 106
+EUAnt2sc
+5.43 9 104
+3.78 9 104 to 1.61 9 106
+SAsc
+NC
+C/NAsc
+8.18 9 105
+2.10 9 105 to 1.88 9 106
+Ancestral populations
+A2sc
+1.39 9 106
+1.53 9 105 to 1.90 9 106
+A1sc
+2.28 9 105
+5.19 9 104 to 1.64 9 106
+Divergence times
+t1
+4.84 9 105
+2.76 9 105 to 1.43 9 106
+t2
+3.35 9 106
+1.98 9 106 to 5.73 9 106
+t3
+5.27 9 106
+2.74 9 106 to 7.25 9 106
+Time of size change
+t2NA
+1.25 9 106
+1.24 9 105 to 4.37 9 106
+t1EU
+5.88 9 104
+2.65 9 104 to 1.07 9 106
+t1EUWA
+6.80 9 104
+3.55 9 104 to 1.36 9 106
+t3SA
+NC
+C/NA, H. erectus; SA, H. patagonicus; EU, H. hippocampus (Europe);
+WA, H. hippocampus (West Africa); EUAnt2, H. hippocampus effec-
+tive population size (Ne) after t2 divergence; EUWAt1, H. hippocam-
+pus (West Africa) Ne after t1 divergence; EU t1, H. hippocampus
+(Europe) Ne after t1 divergence; SAsc, H. patagonicus Ne after t3
+divergence; C/NAsc, H. erectus Ne after t2 divergence; A2sc, ancestral
+Ne of H. erectus and H. hippocampus; A1sc, ancestral Ne to all lineages.
+NC, posterior probability curves were non-informative (uniform).
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+6
+J. T. Boehm et al.
+acceleration and reorganization of circulation patterns and
+Gulf Stream currents starting roughly 4.6 Ma (Haug &
+Tiedemann, 1998), coincident with the rising of the Isthmus
+of Panama (Coates et al., 1992; Muss et al., 2001; Teske
+et al., 2007; Lessios, 2008).
+Allopatric divergence in the western Atlantic
+All three species in the H. erectus complex appear to share
+similar widespread latitudinal distributions and tolerance
+across tropical to warm-temperate climate gradients, with
+limited genetic structuring within regions (Appendix S3).
+Our ﬁndings of relatively widespread gene ﬂow within spe-
+cies (Caribbean to North America in H. erectus, and Brazil
+to Argentina in H. patagonicus) are in stark contrast to the
+ancient divergence between South American and Caribbean/
+North
+American
+populations
+(5.27 Ma;
+95%
+CI:
+2.74–
+7.25 Ma) coincident with the outﬂow of the Amazon River
+Barrier (ARB). The ARB accounts for over 2300 km of
+muddy coastline between the Amazon (Brazil) and Orinoco
+(Venezuela) rivers. The dramatic shift in substrate and
+oceanographical conditions coincides with the boundary
+between the Brazilian and the Caribbean biogeographical
+provinces (Collette & R€utzler, 1977; Rocha et al., 2005). The
+divergence between H. erectus and H. patagonicus is a com-
+mon distribution pattern shared with many western Atlantic
+taxa, including numerous Brazilian ﬁshes isolated from their
+Caribbean sister species (Joyeux et al., 2001; Rocha, 2003;
+Briggs & Bowen, 2012). Although the soft sponge habitat
+below the ARB freshwater surface plume allows for connec-
+tivity in some ﬁsh species (Rocha et al., 2002), the diver-
+gence we ﬁnd in seahorses is consistent with their absence in
+marine surveys, suggesting that syngnathids may not utilize
+this passage to maintain trans-barrier connectivity (Collette
+& R€utzler, 1977).
+Geological estimates of the age of the ARB range from
+roughly 11.8 to 1.6 Ma (Rocha, 2003), with the earliest
+proposed date representing the initial presence of a large late
+Miocene submarine fan due to the Andean uplift (Hoorn
+et al., 1995). However, recent evidence supports the idea that
+the ARB reached its present form in the late Pliocene, with
+three clear stages of advancement: an initial stage of low sed-
+imentation rates from 11.8 to 6.8 Ma; an increase in sedi-
+mentation from 6.8 to 2.4 Ma; and very high sedimentation
+rates from 2.4 Ma to the present (Figueiredo et al., 2009).
+Our divergence time estimates most closely align with the
+increase
+in ARB
+sediment deposition
+occurring
+2.6 to
+6.4 Ma, but it is likely that multiple determinants underlie
+the isolation of these lineages. These include the rise and fall
+of sea levels (Robertson et al., 2006), and fast-ﬂowing ocean
+currents that may further prevent rafting organisms from
+crossing the ARB. As westward-ﬂowing equatorial currents
+meet eastern Brazil, the currents split into the north-west-
+ward-ﬂowing Caribbean current and the southward-ﬂowing
+Brazilian current (Fig. 1b). For seahorses, which are incapa-
+ble of active long-distance migration, and are presumed to
+passively migrate by rafting, ocean current directionality may
+be particularly inﬂuential because Brazilian individuals would
+have to travel against the current before migrating westwards
+to bypass the ARB.
+Founder colonization of the north-eastern Atlantic
+Teske et al. (2007), provided strong phylogenetic evidence
+that rejected the hypothesis of trans-Atlantic vicariance from
+continental breakup 84 Ma for Atlantic species of Hippocam-
+pus, and instead proposed that trans-Atlantic sister species
+were the result of long-distance founder dispersal, following
+the ﬁnal rise of the Isthmus of Panama. The closing of this
+land bridge isolated the western Atlantic from the eastern
+Paciﬁc, contributing to a profound reorganization of ocean
+circulation and stability starting around 4.6 Ma (Haug &
+Tiedemann, 1998). Since closure, the North Atlantic Gyre’s
+191k
+South 
+America
+H. patagonicus
+Caribbean/
+North America
+H. erectus
+West Africa
+Europe
+1.92M
+829k
+1.79M
+Ne 
+Divergence 
+time 3:
+5.27 Ma
+Divergence
+time 2: 
+3.35 Ma
+Divergence
+time 1:
+484 ka
+H. hippocampus
+Founder 
+colonization
+3.35 Ma
+Barrier to gene 
+H. patagonicus
+H. erectus
+H. hippocampus
+Divergence
+484 ka
+(a)
+(b)
+Figure 4 Most probable hypothesis (HWAO) representing the
+demographic history of the Hippocampus erectus complex. (a)
+Tree illustration reconstructed from parameter values based on
+the mode of the posterior probabilities estimated from 1 million
+simulated data sets. Numerical values of effective population size
+(Ne) correspond to thousands (k) or millions (M) of individuals
+per population. (b) Visual representation of demographic
+inference.
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+7
+Inferring the demographic history of Atlantic seahorses
+relatively stable currents have predominantly moved in an
+asymmetrical clockwise pattern (Fig. 1b), but with strong
+evidence of dynamic accelerations and decelerations, and lati-
+tudinal shifts that coincide with Pleistocene glacial and inter-
+glacial cycles (Kaneps, 1979; Keffer et al., 1988; Haug &
+Tiedemann, 1998). Accelerations could facilitate long-dis-
+tance dispersal, whereas decelerations and latitude shifts
+could have isolated migrants at a time period consistent with
+our ﬁndings of trans-Atlantic divergence between H. erectus
+and
+H. hippocampus
+populations
+(3.35 Ma;
+95%
+CI:
+1.98–5.73 Ma).
+Counter
+to
+the
+typical
+east–west
+pattern
+of
+post-
+Pleistocene colonization found in temperate North Atlantic
+invertebrates (Wares & Cunningham, 2001; Ilves et al., 2010;
+Waltari & Hickerson, 2012), Briggs (1995) suggested that
+most trans-Atlantic species originated from west-to-east dis-
+persal-driven diversiﬁcation, although evidence supports the
+western Atlantic as an area of both origin and accumulation
+of biodiversity (Floeter et al., 2008; Rocha et al., 2008). For
+the H. erectus complex, whose distribution is associated with
+tropical to warm-temperate waters, the circularity of the
+North Atlantic Gyre system could have allowed dispersal to
+occur both westwards and eastwards across the Atlantic, pre-
+senting a possibility for multi-directional exchange that com-
+plicates
+the
+inference
+of
+ancestral
+source
+populations.
+However, we ﬁnd the highest probability of support for
+western Atlantic origins (HWAO; Figs 2 & 4). Under this
+scenario, historical population size estimates suggest an east-
+ward founder colonization of the eastern Atlantic H. hippo-
+campus, which expanded into present-day European and
+West African populations subsequent to isolation from the
+more demographically stable western Atlantic H. erectus pop-
+ulations. Our estimates of a much smaller founder popula-
+tion in the eastern Atlantic supports typical patterns of
+source-to-recipient dispersal dynamics, and although a large
+amount of inherent uncertainty exists when using ancestral
+area inference with phylogenetic results, our historical demo-
+graphic parameter estimates add additional support for east-
+ward expansion and founder colonization.
+An alternative interpretation may also explain the inferred
+patterns of dispersal under the western Atlantic origin
+hypothesis. Rather than suggesting ARB vicariance followed
+by trans-Atlantic colonization of Europe/West Africa (Fig. 4),
+this history could have been characterized by widespread or
+intermittent ancestral connectivity (by way of circular belt-
+like dispersal; Fig. 1b), followed by isolation of eastern Atlan-
+tic populations and a recovery from an ancestral population
+crash. Although this history is consistent with a population
+polytomy (HMETA), it would also be consistent with HWAO if
+isolation events were temporally staggered.
+Regardless of which nuanced interpretation is correct, the
+fast-ﬂowing Gulf Stream is likely to have been a major force
+in the diversiﬁcation of the Atlantic H. erectus complex, and
+acts as a transporter of both early life history stages (i.e. lar-
+vae and young) and abundant aggregations of marine organ-
+isms associated with Sargassum rafts (Casazza & Ross, 2008)
+that can survive for generations as free-ﬂoating habitats
+(Theil & Gutow, 2005). The Gulf Stream has been proposed
+as the primary source of the ichthyofauna of Bermuda
+(Smith-Vaniz et al., 1999), the Caribbean mesopelagic fauna
+in the northern Sargasso Sea (Jahn, 1976) and some western
+Atlantic groups in the eastern Atlantic Azores archipelago
+(Avila et al., 2009). In addition, the Gulf Stream shapes the
+contemporary dispersal of numerous species, including sea
+turtles (Blumenthal et al., 2009) and American and European
+eels (Kleckner & McCleave, 1982), and may be responsible
+for the dispersal of the western Atlantic H. erectus, which
+was recently found in the Azores (Woodall et al., 2009).
+Regarding European and West African populations, our
+ﬁndings indicate that these H. hippocampus populations
+diverged around 484 ka (95% CI: 268 ka to 1.39 Ma). Esti-
+mates of Ne of these descendant populations suggest that both
+contemporary populations are large and have undergone sig-
+niﬁcant expansions since the original founder colonization
+(Fig. 4, Table 1). These ﬁndings are consistent with Woodall
+et al. (2011), who concluded that these expansions were prob-
+ably affected by interglacial cycles in the late Pleistocene (190
+to 21 ka). In addition, the Cape Verde frontal zone, where the
+southward-ﬂowing Canary Current begins to shift westwards,
+has been observed as a barrier to gene ﬂow in several eastern
+Atlantic species, and may have contributed to the observed
+divergence (Vangriesheim et al., 2003; Woodall et al., 2011).
+Our estimates of trans-Atlantic and European/West Afri-
+can divergence times will be biased downwards if gene ﬂow
+occurred after more ancient isolation events, a condition that
+is common in trans-Paciﬁc ichthyofauna (Lessios & Robert-
+son, 2006). Indeed, given the strong possibility that the Gulf
+Stream currents involved cyclical acceleration and decelera-
+tion, a more complex history involving demographic booms
+and busts and episodic periods of high gene ﬂow should be
+considered an alternative hypothesis to be tested with popu-
+lation genomic-scale sampling. However, this sort of complex
+scenario is still consistent with isolation after trans-Atlantic
+dispersal.
+Geographical patterns of Atlantic seahorse diversity
+As the ﬁrst reported study to include population-level sam-
+pling throughout the range of H. erectus and H. patagonicus,
+our reconstruction of species trees shows a clear monophy-
+letic placement of H. patagonicus within the H. erectus com-
+plex and lineage independence from H. erectus (Figs 3 & 4).
+These results support the range restriction of H. erectus to an
+area north of the Orinoco outﬂow, and indicate that the spe-
+cies description of H. patagonicus (Argentina) (Piacentino &
+Luzzatto, 2004) may need to be extended to Brazilian popu-
+lations.
+Although both species have been shown to be under con-
+siderable ﬁshing pressure (Dias et al., 2002; Vincent et al.,
+2011),
+our
+estimates
+of
+long-term
+effective
+population
+sizes indicate that H. erectus was historically around 10
+times more numerous than the South American species
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+8
+J. T. Boehm et al.
+H. patagonicus. Currently, millions of seahorses are traded
+globally each year. Being Brazil’s sixth most economically
+important ornamental export (Vincent et al., 2011), the
+demographic and evolutionary independence of H. patagoni-
+cus should qualify it as a unique genetic unit in need of fur-
+ther study and protection (Moritz, 2002). In addition, our
+results also support those of Woodall et al. (2011), who con-
+cluded that the West African population of H. hippocampus
+is genetically distinct from the European population. Like
+H. patagonicus, the West African population of H. hippocam-
+pus should also be considered a priority for conservation.
+ACKNOWLEDGEMENTS
+We thank the Sackler Institute for Comparative Genomics
+(AMNH) and R. DeSalle for providing laboratory space,
+support, assistance and the collection of sequence data; the
+National Science Foundation (40C33-00-01) for supporting
+the dissertational research of J.T.B.; D. Luzzatto for data and
+discussion on H. patagonicus; N. Dunham (Florida Fish and
+Wildlife Conservation Commission), T. Tuckey (Virginia
+Institute of Marine Science), T. Gardner (Atlantis Aquar-
+ium), The River Project (Pier 40, Manhattan) and T. M.
+Grothues (Rutgers University) for help with ﬁsh collections
+and for providing samples. Lastly, we thank T. Demos, K. Il-
+ves, L. Rocha and three anonymous referees for providing
+valuable feedback that improved the manuscript.
+REFERENCES
+Avila, S.P., Marques da Silva, C., Schiebel, R., Cecca, F., Back-
+eljau, T. & de Frias Martins, A.M. (2009) How did they get
+here? The biogeography of the marine molluscs of the Azores.
+Bulletin de la Societe Geologique de France, 180, 295–307.
+Beaumont, M.A. (2010) Approximate Bayesian computation
+in evolution and ecology. Annual Review of Ecology,
+Evolution, and Systematics, 41, 379–406.
+Beaumont, M.A., Zhang, W. & Balding, D.J. (2002) Approxi-
+mate
+Bayesian
+computation
+in
+population
+genetics.
+Genetics, 162, 2025–2035.
+Blumenthal, J.M., Abreu-Grobois, F.A., Austin, T.J., Broderick,
+A.C., Bruford, M.W., Coyne, M.S., Ebanks-Petrie, G., For-
+mia, A., Meylan, P.A., Meylan, A.B. & Godley, B.J. (2009)
+Turtle groups or turtle soup: dispersal patterns of hawksbill
+turtles in the Caribbean. Molecular Ecology, 18, 4841–4853.
+Bouckaert, R.R. (2010) DensiTree: making sense of sets of
+phylogenetic trees. Bioinformatics, 26, 1372–1373.
+Bowen, B.W., Muss, A., Rocha, L.A. & Grant, W.S. (2006)
+Shallow mtDNA coalescence in Atlantic pygmy angelﬁshes
+(genus Centropyge) indicates a recent invasion from the
+Indian Ocean. Journal of Heredity, 97, 1–12.
+Briggs, J.C. (1995) Global biogeography. Elsevier Science,
+Amsterdam.
+Briggs, J.C. & Bowen, B.W. (2012) A realignment of marine
+biogeographic provinces with particular reference to ﬁsh
+distributions. Journal of Biogeography, 39, 12–30.
+Casazza, T.L. & Ross, S.W. (2008) Fishes associated with
+pelagic Sargassum and open water lacking Sargassum in
+the Gulf Stream off North Carolina. Fishery Bulletin, 106,
+348–363.
+Casey, S.P., Hall, H.J., Stanley, H.F. & Vincent, A.C.J. (2004)
+The origin and evolution of seahorses (genus Hippocam-
+pus): a phylogenetic study using the cytochrome b gene of
+mitochondrial DNA. Molecular Phylogenetics and Evolution,
+30, 261–272.
+Coates, A.G., Jackson, J.B.C., Collins, L.S., Cronin, T.M.,
+Dowsett, H.J., Bybell, L.M., Jung, P. & Obando, J.A.
+(1992) Closure of the Isthmus of Panama: the near-shore
+marine record of Costa Rica and western Panama. Geologi-
+cal Society of America Bulletin, 104, 814–828.
+Collette, B.B. & R€utzler, K. (1977) Reef ﬁshes over sponge
+bottoms off the mouth of the Amazon River. Proceedings
+of the Third International Coral Reef Symposium, Vol. 1,
+Biology (ed. by D.L. Taylor), pp. 305–310. Rosenstiel
+School of Marine and Atmospheric Science, Miami, FL.
+Cornuet, J.-M., Santos, F., Beaumont, M.A., Robert, C.P.,
+Marin, J.-M., Balding, D.J., Guillemaud, T. & Estoup, A.
+(2008) Inferring population history with DIY ABC: a user-
+friendly approach to approximate Bayesian computation.
+Bioinformatics, 24, 2713–2719.
+Cornuet, J.-M., Ravigne, V. & Estoup, A. (2010) Inference
+on population history and model checking using DNA
+sequence
+and
+microsatellite
+data
+with
+the
+software
+DIYABC (v1.0). BMC Bioinformatics, 11, 401.
+Darriba, D., Taboada, G.L., Doallo, R. & Posada, D. (2012)
+jModelTest 2: more models, new heuristics and parallel
+computing. Nature Methods, 9, 772.
+Dias, T.L., Rosa, I.L. & Baum, J.K. (2002) Threatened ﬁshes
+of the world: Hippocampus erectus Perry, 1810 (Syngnathi-
+dae). Environmental Biology of Fishes, 65, 326.
+Edwards, S.V. (2009) Is a new and general theory of molecu-
+lar systematics emerging? Evolution, 63, 1–19.
+Figueiredo, J., Hoorn, C., van der Ven, P. & Soares, E.
+(2009) Late Miocene onset of the Amazon River and the
+Amazon deep-sea fan: evidence from the Foz do Amazonas
+Basin. Geology, 37, 619–622.
+Floeter, S.R., Rocha, L.A., Robertson, D.R., Joyeux, J.C.,
+Smith-Vaniz, W.F., Wirtz, P., Edwards, A.J., Barreiros, J.P.,
+Ferreira, C.E.L., Gasparini, J.L., Brito, A., Falcon, J.M.,
+Bowen, B.W. & Bernardi, G. (2008) Atlantic reef ﬁsh bioge-
+ography and evolution. Journal of Biogeography, 35, 22–47.
+Fraser, C.I., Nikula, R. & Waters, J.M. (2011) Oceanic rafting
+by a coastal community. Proceedings of the Royal Society B:
+Biological Sciences, 278, 649–655.
+Gillespie, R.G., Baldwin, B.G., Waters, J.M., Fraser, C.I., Nik-
+ula, R. & Roderick, G.K. (2012) Long-distance dispersal: a
+framework for hypothesis testing. Trends in Ecology and
+Evolution, 27, 47–56.
+Ginsburg, I. (1937) Review of the seahorses (Hippocampus)
+found on the coasts of the American continents and of
+Europe. Proceedings of the United States National Museum,
+83, 497–594.
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+9
+Inferring the demographic history of Atlantic seahorses
+G€unther, A. (1870) Catalogue of the ﬁshes in the British
+Museum, Vol. 8h. British Museum, London.
+Haug, G.H. & Tiedemann, R. (1998) Effect of the formation
+of the Isthmus of Panama on Atlantic Ocean thermohaline
+circulation. Nature, 393, 673–676.
+Heled, J. & Drummond, A.J. (2010) Bayesian inference of
+species trees from multilocus data. Molecular Biology and
+Evolution, 27, 570–580.
+Hellberg, M.E. (2009) Gene ﬂow and isolation among
+populations of marine animals. Annual Review of Ecology,
+Evolution, and Systematics, 40, 291–310.
+Hickerson, M.J. & Meyer, C.P. (2008) Testing comparative
+phylogeographic models of marine vicariance and dispersal
+using a hierarchical Bayesian approach. BMC Evolutionary
+Biology, 8, 1–18.
+Hickerson, M.J., Stahl, E.A. & Lessios, H.A. (2006) Test for
+simultaneous divergence using approximate Bayesian com-
+putation. Evolution, 60, 2435–2453.
+Ho, S.Y.W., Lanfear, R., Bromham, L., Phillips, M.J., Soubri-
+er, J., Rodrigo, A.G. & Cooper, A. (2011) Time-dependent
+rates of molecular evolution. Molecular Ecology, 20, 3087–
+3101.
+Hoorn, C., Guerrero, J., Sarmiento, G.A. & Lorente, M.A.
+(1995) Andean tectonics as a cause for changing drainage
+patterns in Miocene northern South America. Geology, 23,
+237–240.
+Ilves, K.L., Huang, W., Wares, J.P. & Hickerson, M.J. (2010)
+Colonization and/or mitochondrial selective sweeps across
+the
+North
+Atlantic
+intertidal
+assemblage
+revealed
+by
+multi-taxa approximate Bayesian computation. Molecular
+Ecology, 19, 4505–4519.
+Ingolfsson, A. (1995) Floating clumps of seaweed around Ice-
+land: natural microcosms and a means of dispersal for
+shore fauna. Marine Biology, 122, 13–21.
+IUCN (2012) IUCN Red List of threatened species. IUCN,
+Gland, Switzerland. Available at: http://www.iucnredlist.
+org/.
+Jahn, A.E. (1976) On the midwater ﬁsh faunas of Gulf Stream
+rings with respect to habitat differences between slope water
+and northern Sargasso Sea. PhD Thesis, Woods Hole
+Oceanographic Institution, Woods Hole, MA.
+Jeffreys, H. (1961) Theory of probability. Oxford University
+Press, Oxford.
+Joyeux, J.-C., Floeter, S.R., Ferreira, C.E.L. & Gasparini, J.L.
+(2001) Biogeography of tropical reef ﬁshes: the South Atlan-
+tic puzzle. Journal of Biogeography, 28, 831–841.
+Kaneps,
+A.G.
+(1979)
+Gulf
+Stream:
+velocity
+ﬂuctuations
+during the late Cenozoic. Science, 204, 297–301.
+Keffer, T., Martinson, D.G. & Corliss, B.H. (1988) The
+position of the Gulf Stream during Quaternary glaciations.
+Science, 241, 440–442.
+Kleckner, R.C. & McCleave, J.D. (1982) Entry of migrating
+American eel leptocephali into the Gulf Stream system.
+Helgol€ander Meeresuntersuchungen, 35, 329–339.
+Lessios, H.A. (2008) The great American schism: divergence
+of marine organisms after the rise of the Central American
+Isthmus. Annual Review of Ecology, Evolution, and System-
+atics, 39, 63–91.
+Lessios, H.A. & Robertson, D.R. (2006) Crossing the impass-
+able: genetic connections in 20 reef ﬁshes across the east-
+ern Paciﬁc barrier. Proceedings of the Royal Society B:
+Biological Sciences, 273, 2201–2208.
+Librado, P. & Rozas, J. (2009) DnaSP v5: a software for
+comprehensive
+analysis
+of
+DNA
+polymorphism
+data.
+Bioinformatics, 25, 1451–1452.
+Lourie, S.A., Vincent, A.C.J. & Hall, H.J. (1999) Seahorses: an
+identiﬁcation guide to the world’s species and their conserva-
+tion. Project Seahorse, London.
+Lourie, S.A., Foster, S.J., Cooper, E.W.T. & Vincent, A.C.J.
+(2004) A guide to the identiﬁcation of seahorses. University
+of British Columbia and World Wildlife Fund, Project
+Seahorse and TRAFFIC North America, Washington DC.
+Lourie, S.A., Green, D.M. & Vincent, A.C.J. (2005) Dispersal,
+habitat differences, and comparative phylogeography of
+Southeast Asian seahorses (Syngnathidae: Hippocampus).
+Molecular Ecology, 14, 1073–1094.
+Luiz, O.J., Madin, J.S., Robertson, D.R., Rocha, L.A., Wirtz,
+P. & Floeter, S.R. (2012) Ecological traits inﬂuencing range
+expansion across large oceanic dispersal barriers: insights
+from tropical Atlantic reef ﬁshes. Proceedings of the Royal
+Society B: Biological Sciences, 279, 1033–1040.
+Luzzatto, D.C., Sieira, R., Pujol, M.G. & Dıaz de Astarloa,
+J.M. (2012) The presence of the seahorse Hippocampus
+patagonicus in the Argentine Sea based on the cytochrome
+b sequence of mitochondrial DNA. Cybium, 36, 329–333.
+Moritz, C. (2002) Strategies to protect biological diversity
+and the evolutionary processes that sustain it. Systematic
+Biology, 51, 238–254.
+Muss, A., Robertson, D.R., Stepien, C.A., Wirtz, P. & Bowen,
+B.W. (2001) Phylogeography of Ophioblennius: the role of
+ocean currents and geography in reef ﬁsh evolution. Evolu-
+tion, 55, 561–572.
+Paulay, G. & Meyer, C. (2002) Diversiﬁcation in the tropical
+Paciﬁc: comparisons between marine and terrestrial sys-
+tems and the importance of founder speciation. Integrative
+and Comparative Biology, 42, 922–934.
+Piacentino, G.L.M. & Luzzatto, D.C. (2004) Hippocampus
+patagonicus sp. nov., nuevo caballito de mar para la Argen-
+tina (Pisces, Syngnathiformes). Revista del Museo Argentino
+de Ciencas Naturales, n.s., 6, 339–349.
+Rambaut, A. (2012) FigTree v1.4. University of Edinburgh,
+Edinburgh,
+UK.
+Available
+at:
+http://tree.bio.ed.ac.uk/
+software/ﬁgtree/.
+Rambaut, A. & Drummond, A.J. (2007) Tracer v1.4. Univer-
+sity of Edinburgh, Edinburgh, UK. Available at: http:
+//tree.bio.ed.ac.uk/software/tracer/.
+Robert, C.P., Cornuet, J.-M., Marin, J.-M. & Pillai, N.S.
+(2011)
+Lack
+of
+conﬁdence
+in
+approximate
+Bayesian
+computation model choice. Proceedings of the National
+Academy of Sciences USA, 108, 15112–15117.
+Roberts, J.J., Best, B.D., Dunn, D.C., Treml, E.A. & Halpin,
+P.N.
+(2010)
+Marine
+Geospatial
+Ecology
+Tools:
+an
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
 10
-24
-90
-90
-90
-90
-90
-90
-44
-0
-2.990
-48
-89
-90
-90
-90
-90
-87
-42
-0
-2.881
-72
-89
-90
-90
-90
-90
-86
-41
-0
-2.828
-96
-89
-90
-90
-89
-90
-85
-38
-0
-2.694
-120
-89
-90
-89
-88
-90
-84
-35
-0
-2.559
-Fig. 1. (A) The effect of seahorse decoction on survival rate of zebrafish larvae. 
-(B) The effect of seahorse decoction on mortality of osteoporosis zebrafish 
-larvae. L-DHe, low concentration (0.15 g/L) seahorse decoction groups. M-DHe: 
-medium concentration (0.3 g/L) seahorse decoction groups. H-DHe: high con­
-centration (0.6 g/L) seahorse decoction groups.
-Table 3 
-The total mortality of larva zebrafish in each group (n=90).
-Groups
-Control
-Model
-Positive
-L-DHe
-M-DHe
-H-DHe
-Mortality
-0.8 %
-27.5 %
-22.5 %
-20.8 %
-17.5 %
-21.7 %
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-3 
-degree of mineralization of larvae (P < 0.01), and the effect is similar to 
-that of ED.
-3.4. Expression of ALP, TRAP and bone development genes
-Comparing with the model groups, the positive groups significantly 
-increased the activity of ALP (P < 0.01) and decreased the activity of 
-TRAP (P < 0.0001) (Fig. 3 A), indicating that after treatment with 
-positive drugs, osteoblast activity increased and osteoclast activity 
-decreased, thus successfully ameliorating osteoporosis. 0.3 g/L and 
-0.6 g/L DHe significantly increased the expression activity of ALP (P <
-0.01), 0.15 g/L DHe could increase the expression activity of ALP, but 
-there was no significant difference compared with model groups (P >
-0.05). 0.15 g/L and 0.3 g/L DHe can reduce the TRAP activity of larvae 
-(P < 0.0001), but 0.6 g/L DHe had little inhibitory effect on TRAP 
-(Fig. 3 A). In conclusion, the effect of 0.3 g/L DHe on larvae osteoporosis 
-was consistent with that of ED, indicating that the concentration of DHe 
-had an improving effect on osteoporosis.
-The expressions of alp, acp5a, ocn 
-and rankl in larvae were 
-significantly reduced in model groups (Fig. 3B), indicating that 25 μM 
-prednisolone inhibited the expression of these genes. The ED promoted 
-the expression of alp and ocn
-, but the expression levels of these two 
-genes could not recover to control groups. The expression of alp and 
-ocn 
-in M-DHe groups was higher than that in L-DHe and H-DHe 
-groups, (Fig. 3B) showing that 0.3 g/L DHe had a greater promoting 
-effect on osteogenesis than 0.15 g/L and 0.6 g/L DHe.
-4. Discussion
-Seahorses are rich in amino acids, fatty acids and trace elements. The 
-phenolic compounds extracted from hippocampus can promote the 
-development of osteoblasts (Yuan et al., 2018). The alcohol extracts can 
-remove hydroxyl radical, superoxide radical and alkyl radical, inhibit 
-intracellular reactive oxygen species (Qian et al., 2008). The enzymic 
-extract can increase the time of loading exercise, reduce the production 
-of lactic acid and urea nitrogen during exercise, promote the elimination 
-of lactic acid and urea nitrogen after exercise (Guo et al., 2017). Studies 
-have shown that different dosage forms of Chinese medicine contain 
-Fig. 2. (A) The influence of seahorse decoction on alizarin red staining in osteoporosis zebrafish larvae. L-DHe, low concentration (0.15 g/L) seahorse decoction 
-groups. M-DHe: medium concentration (0.3 g/L) seahorse decoction groups. H-DHe: high concentration (0.6 g/L) seahorse decoction groups. Palatoquadratecartilage 
-(pq), occipital bone (oc), parasphenoid (ps), branchiostegal (bs), operculum (op), notochord (nc), ceratohyal (ch), cleithrum (cl) and otolith (ot). The results were 
-taken at 50× stereoscopic microscope in bright field. (B) The influence of seahorse decoction on bone mineralization area in osteoporosis zebrafish larvae of each 
-bone. Different lowercase indicates significant difference between each group (P < 0.05). (C) The influence of seahorse decoction on bone mineralization level in 
-osteoporosis zebrafish larvae of each bone. Different lowercase indicates significant difference between each group (P < 0.05). (D) The influence on bone miner­
-alization in osteoporosis zebrafish larvae of seahorse decoction. Different lowercase indicates significant difference between each group (P < 0.05).
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-4 
-Fig. 3. (A) The influence of seahorse decoction on the expression of bone-related enzyme activity in osteoporosis zebrafish larvae. L-DHe, low concentration (0.15 g/ 
-L) seahorse decoction groups. M-DHe: medium concentration (0.3 g/L) seahorse decoction groups. H-DHe: high concentration (0.6 g/L) seahorse decoction groups. i: 
-the expression of ALP; ii: the expression of TRAP. Different lowercase indicates significant difference between each group (P < 0.05). (B) The influence of seahorse 
-decoction on the expression of genes related to bone development in osteoporosis zebrafish larvae. i: the expression of alp; ii: the expression of acp5a; iii: the 
-expression of ocn
-; iv: the expression of rankl. Different lowercase indicates significant difference between each group (P < 0.05).
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-5 
-different active ingredients and content (Chen et al., 2009; Zhang et al., 
-2019). There were 6 kinds of dipeptides in DHe, the total relative con­
-tent was 30.915 %, among which glycylproline accounted for the 
-highest proportion among all active ingredients, the relative content 
-reached 24.562 %. The relative content of oleamide and ethyl docosa­
-hexaenoate was 3.645 % and 0.689 %, The relative content of was. 
-which were different from the composition of seahorse freeze-dried 
-powder (Li et al., 2022). There were many components in DHe that 
-were related to bone development, such as taurine and succinic acid 
-(Table 1). Taurine increased the ALP activity and mineralized nodules in 
-human mesenchymal stem cells induced by osteogenic induced medium, 
-and up-regulated the expression of ALP, osterix and osteopontin in a 
-dose-dependent manner (Zhou et al., 2014).
-Succinic acid may inhibit the proliferation and osteogenic differen­
-tiation of bone precursor cells in mice by inhibiting the expression of 
-Runx2 and OCN 
-(Wei et al., 2019).
-Zebrafish is an ideal model which possesses many advantages. The 
-bone elements, ossification mechanism and bone matrix components of 
-zebrafish share many common characteristics with mammals, which 
-makes zebrafish model widely used in the study of bone diseases 
-(Barbazuk et al., 2000). Importantly, 82 percent of human 
-disease-related genes can be found in zebrafish, including genes asso­
-ciated with bone development (Li et al., 2009). It has been reported that 
-there are few TRAP-positive osteoclasts observed in zebrafish larvae 
-until 20dpf, and there is few bone remodeling in zebrafish larvae (Chen 
-et al., 2014). Therefore, zebrafish larvae might be more suitable for the 
-research and development of anabolic agents for GIOP than other 
-models (Luo et al., 2016).
-High concentration of Chinese herbal medicine has certain toxicity 
-(Carnovali et al., 2021). We found the dibutyl phthalate (DBP) in DHe 
-(Table 1), which sharply increased the mortality rate of zebrafish when 
-DBP concentration was higher than 0.05 mg/L (Pu et al., 2020). 
-Different from the traditional medication mode, because zebrafish can 
-absorb the drug through the skin (Zon and Peterson, 2005), our exper­
-iment adopts the method of immersion. The results showed that the 
-medial lethal concentration (LC50) of DHe on zebrafish was not directly 
-proportional. The lethal effect of 0.01–0.3 g/L DHe on zebrafish was not 
-significant. But when the concentration of DHe exceeded 1 mg/L, the 
-survival rate of zebrafish would decline rapidly (Table 2).
-ED, as a medicine for osteoporosis, can promote the proliferation and 
-differentiation of osteoblasts (Barrett et al., 2006). acp5a encodes TRAP 
-which is commonly used as an osteoclast marker (Khrystoforova et al., 
-2022), and rankl has been confirmed to be the main regulator of oste­
-oporosis (Zhao et al., 2020). The results showed that ED could effec­
-tively alleviate the osteoporosis induced by prednisolone and promote 
-the expression of alp, ocn
-, acp5a and rankl. 0.3 g/L DHe significantly 
-increased the degree of bone mineralization in zebrafish larvae, 
-increased the expressions of ALP and acp5a, and inhibited the expression 
-of TRAP (Fig. 1D), indicating that prednisolone-induced osteoporosis 
-could be inhibited. The degree and area of M-DHE mineralization were 
-the same as those in the positive groups, and were significantly higher 
-than those in the other groups, indicating that the effects of 0.3 g/L DHe 
-and ED were similar. However, 0.15 g/L and 0.6 g/L DHe had no sig­
-nificant improvement effect on osteoporotic zebrafish larvae. There was 
-no significant difference expression of TRAP between the H-DHe groups 
-and the model groups, indicating that 0.6 g/L DHe had no inhibitory 
-effect on TRAP.
-Chinese medicine contains many components, and each component 
-is composed of multiple components. Traditional Chinese medicine has a 
-wide range of targets and cannot be evaluated by the content of one or 
-some of its components. In this study, it was found that there are many 
-active ingredients in DHe, and some of these active ingredients had 
-opposite effects. Taurine has a protective effect on bone loss and pro­
-motes collagen synthesis in rats (Park et al., 2001), but succinic acid and 
-dibutyl phthalate may cause low bone density and affect bone devel­
-opment (Pu et al., 2020). The effect of some components decreases with 
-the increase of concentration, for example, taurine can inhibit the dif­
-ferentiation of aortic valve stromal cells into osteoblasts at a dose of 
-10 μM, and 20 μM is less effective than 10 μM (Zhou et al., 2014). 
-Similarly, there are some ingredients that do not have a single effect, 
-oleamide can both inhibit the development of osteoblast and osteoclast 
-(Ciovacco et al., 2009; Ransj¨o et al., 2003; Schiller et al., 2001). All of 
-these components were found in DHe. Interestingly, the expression of 
-alp, ocn
-, acp5a and rankl in the H-DHe groups were lower than that in 
-the L-DHe, and the expression of these genes in both groups was 
-significantly lower than that in the model groups. It is speculated that 
-antagonistic substances inhibit the expression of these genes with the 
-increase of DHe concentration.
-5. Conclusions
-In this study, oleamide, docosahexaenoic acid and other new com­
-ponents were detected, which enriched the active components of sea­
-horses. Meanwhile, it was found that 0.3 g/L DHe significantly increased 
-the degree of bone mineralization, promoted the activity of ALP and 
-inhibited the activity of TRAP, promoted the expression of osteogenic 
-genes, and improved the osteoporosis of zebrafish larvae, but its mo­
-lecular mechanism needs to be further studied. Overall, this study pro­
-vides a theoretical basis for DHe treatment of osteoporosis.
-CRediT authorship contribution statement
-Jinhui Wu: Writing – original draft, Visualization, Validation. Li 
-Lin: Formal analysis, Data curation, Conceptualization. Guifeng Li: 
-Investigation, Funding acquisition, Formal analysis. Chenlei Huang: 
-Resources, Project administration, Funding acquisition. Ting Wang: 
-Methodology. Jiahui Chen: Project administration, Investigation, 
-Funding acquisition. Zhilun Zhang: Funding acquisition, Data curation, 
-Conceptualization. Yong Zhang: Writing – review & editing, Writing – 
-original draft, Visualization, Validation, Supervision, Software, Re­
-sources, Project administration, Methodology, Investigation, Funding 
-acquisition, Formal analysis, Data curation, Conceptualization. Xuange 
-Liu: Writing – review & editing, Writing – original draft, Visualization, 
-Validation, Supervision, Software, Resources, Project administration, 
-Methodology, Investigation, Funding acquisition, Formal analysis, Data 
-curation, Conceptualization. Qiuxian Chen: Writing – review & editing, 
-Writing – original draft, Visualization, Validation, Supervision, Soft­
-ware, Resources, Project administration, Methodology, Investigation, 
-Funding acquisition, Formal analysis, Data curation, Conceptualization. 
-Huadong Yi: Methodology.
-Declaration of Competing Interest
-The authors declare that they have no known competing financial 
-interests or personal relationships that could have appeared to influence 
-the work reported in this paper.
-Acknowledgments
-This research was supported by the Southern Marine Science and 
-Engineering Guangdong Laboratory (Zhuhai) (SML2023SP234), and 
-Research on Breeding Technology of Candidate Species for Guangdong 
-Modern Marine Ranching (2024-MRB-00–001).
-Appendix A. Supporting information
-Supplementary data associated with this article can be found in the 
-online version at doi:10.1016/j.aqrep.2024.102510.
-Data availability
-Data will be made available on request. 
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-6 
-References
-Anam, A.K., Insogna, K., 2021. Update on osteoporosis screening and management. Med. 
-Clin. North Am. 105, 1117–1134. https://doi.org/10.1016/j.mcna.2021.05.016.
-Barbazuk, W.B., Korf, I., Kadavi, C., Heyen, J., Tate, S., Wun, E., Bedell, J.A., 
-McPherson, J.D., Johnson, S.L., 2000. The syntenic relationship of the zebrafish and 
-human genomes. Genome Res. 10, 1351–1358. https://doi.org/10.1101/gr.144700.
-Barrett, R., Chappell, C., Quick, M., Fleming, A., 2006. A rapid, high content, in vivo 
-model of glucocorticoid-induced osteoporosis. Biotechnol. J. 1, 651–655. https:// 
-doi.org/10.1002/biot.200600043.
-Carnovali, M., Banfi, G., Mariotti, M., 2020. Liquiritigenin reduces osteoclast activity in 
-zebrafish model of glucocorticoid-induced osteoporosis. J. Pharmacol. Sci. 143, 
-300–306. https://doi.org/10.1016/j.jphs.2020.06.001.
-Carnovali, M., Ramoni, G., Banfi, G., Mariotti, M., 2021. Herbal preparation (Bromelain, 
-Papain, Curcuma, Black Pepper) enhances mineralization and reduces 
-glucocorticoid-induced osteoporosis in zebrafish. Antioxidants 10. https://doi.org/ 
-10.3390/antiox10121987.
-Chen, B., Yan, Y.-L., Liu, C., Bo, L., Li, G.-F., Wang, H., Xu, Y.-J., 2014. Therapeutic effect 
-of deferoxamine on iron overload-induced inhibition of osteogenesis in a zebrafish 
-model. Calcif. Tissue Int. 94, 353–360. https://doi.org/10.1007/s00223-013-9817- 
-4.
-Chen, L., Liu, J., Wang, Q., Chen, J., 2009. Fingerprint comparison between gegen 
-qinlian preparations of three different pharmaceutical forms including decoction, 
-dispensing granule and pill. Chromatographia 69, 123–127. https://doi.org/ 
-10.1365/s10337-008-0824-y.
-Ciovacco, W.A., Goldberg, C.G., Taylor, A.F., Lemieux, J.M., Horowitz, M.C., 
-Donahue, H.J., Kacena, M.A., 2009. The role of gap junctions in megakaryocyte- 
-mediated osteoblast proliferation and differentiation. Bone 44, 80–86. https://doi. 
-org/10.1016/j.bone.2008.08.117.
-Dietrich, K., Fiedler, I.A., Kurzyukova, A., L´opez-Delgado, A.C., McGowan, L.M., 
-Geurtzen, K., Hammond, C.L., Busse, B., Knopf, F., 2021. Skeletal biology and 
-disease modeling in zebrafish. J. Bone Miner. Res. Off. J. Am. Soc. Bone Miner. Res. 
-36, 436–458. https://doi.org/10.1002/jbmr.4256.
-Ding, J., Yan, R., Wang, L., Yang, Q., Zhang, X., Jing, N., Wei, Y., Zhang, H., An, Y., 2021. 
-Using alizarin red staining to detect chemically induced bone loss in zebrafish larvae. 
-J. Vis. Exp. https://doi.org/10.3791/63251.
-Fisher, S., Jagadeeswaran, P., Halpern, M.E., 2003. Radiographic analysis of zebrafish 
-skeletal defects. Dev. Biol. 264, 64–76. https://doi.org/10.1016/s0012-1606(03) 
-00399-3.
-Goldsmith, P., 2004. Zebrafish as a pharmacological tool: the how, why and when. Curr. 
-Opin. Pharmacol. 4, 504–512. https://doi.org/10.1016/j.coph.2004.04.005.
-Guo, Z., Lin, D., Guo, J., Zhang, Y., Zheng, B., 2017. In vitro antioxidant activity and in 
-vivo anti-fatigue effect of sea horse (Hippocampus) peptides. Molecules 22. https:// 
-doi.org/10.3390/molecules22030482.
-Huo, L., Wang, L., Yang, Z., Li, P., Geng, D., Xu, Y., 2018. Prednisolone induces 
-osteoporosis-like phenotypes via focal adhesion signaling pathway in zebrafish 
-larvae. Biol. Open 7. https://doi.org/10.1242/bio.029405.
-Jianying, H., Bafang, L., Zhijun, L., Peng, L., 2000. An experimental study on anti-fatigue 
-effects of eight marine pharmakons. Zhongguo hai yang yao wu = Chin. J. Mar. 
-Drugs 19, 56–58.
-Kari, G., Rodeck, U., Dicker, A.P., 2007. Zebrafish: an emerging model system for human 
-disease and drug discovery. Clin. Pharmacol. Ther. 82, 70–80. https://doi.org/ 
-10.1038/sj.clpt.6100223.
-Khrystoforova, I., Shochat-Carvalho, C., Harari, R., Henke, K., Woronowicz, K., 
-Harris, M.P., Karasik, D., 2022. Zebrafish mutants reveal unexpected role of Lrp5 in 
-osteoclast regulation. Front. Endocrinol. 13, 985304. https://doi.org/10.3389/ 
-fendo.2022.985304.
-Kimmel, C.B., DeLaurier, A., Ullmann, B., Dowd, J., McFadden, M., 2010. Modes of 
-developmental outgrowth and shaping of a craniofacial bone in zebrafish. PLOS One 
-5, e9475. https://doi.org/10.1371/journal.pone.0009475.
-Kumaravel, K., Ravichandran, S., Balasubramanian, T., Sonneschein, L., 2012. Seahorses 
-- a source of traditional medicine. Nat. Prod. Res. 26, 2330–2334. https://doi.org/ 
-10.1080/14786419.2012.662650.
-Kwan, K.K.L., Huang, Y., Leung, K.W., Dong, T.T.X., Tsim, K.W.K., 2019. Danggui Buxue 
-Tang, a chinese herbal decoction containing astragali radix and angelicae sinensis 
-radix, modulates mitochondrial bioenergetics in cultured cardiomyoblasts. Front. 
-Pharmacol. 10, 614. https://doi.org/10.3389/fphar.2019.00614.
-LaBonty, M., Pray, N., Yelick, P.C., 2017. A zebrafish model of human fibrodysplasia 
-ossificans progressiva. Zebrafish 14, 293–304. https://doi.org/10.1089/ 
-zeb.2016.1398.
-Li, C., Yuan, Q., He, L., Qian, Z.-J., Zhou, C., Hong, P., 2019. Effects of strontium- 
-hydroxyapatite mediated active compounds from Hippocampus kuda Bleeler (HKB) 
-on Osteogenesis. Coatings 9. https://doi.org/10.3390/coatings9020141.
-Li, N., Felber, K., Elks, P., Croucher, P., Roehl, H.H., 2009. Tracking gene expression 
-during zebrafish osteoblast differentiation. Dev. Dyn. Off. Publ. Am. Assoc. Anat. 
-238, 459–466. https://doi.org/10.1002/dvdy.21838.
-Li, X., Dong, Z., Siping, L., Tingting, L., Xin, L., 2022. A comparative analysis of 
-nutritional components and bio-functional composition in healthy and enteritis 
-diseased Hippocampus erectus. Mar. Fish. 44, 228–241. https://doi.org/10.13233/j. 
-cnki.mar.fish.20211117.001.
-Lin, Q., Lin, J., Lu, J., Li, B., 2008. Biochemical composition of six seahorse species, 
-Hippocampus sp., from the Chinese coast. J. World Aquac. Soc. 39, 225–234. 
-https://doi.org/10.1111/j.1749-7345.2008.00159.x.
-Luo, S., Yang, Y., Chen, J., Zhong, Z., Huang, H., Zhang, J., Cui, L., 2016. Tanshinol 
-stimulates bone formation and attenuates dexamethasone-induced inhibition of 
-osteogenesis in larval zebrafish. J. Orthop. Transl. 4, 35–45. https://doi.org/ 
-10.1016/j.jot.2015.07.002.
-Mundijo, T., Suyatna, F.D., Wibowo, A.E., Supriyono, A., Midoen, Y.H., 2022. 
-Characterization of seahorse (Hippocampus comes L.) extracts originating from 
-culture and nature in Pesawaran, Lampung, Indonesia. J. Adv. Vet. Anim. Res. 9, 
-610–616. https://doi.org/10.5455/javar.2022.i630.
-Park, S., Kim, H., Kim, S.J., 2001. Stimulation of ERK2 by taurine with enhanced alkaline 
-phosphatase activity and collagen synthesis in osteoblast-like UMR-106 cells. 
-Biochem. Pharmacol. 62, 1107–1111. https://doi.org/10.1016/s0006-2952(01) 
-00741-9.
-Pu, S.-Y., Hamid, N., Ren, Y.-W., Pei, D.-S., 2020. Effects of phthalate acid esters on 
-zebrafish larvae: development and skeletal morphogenesis. Chemosphere 246, 
-125808. https://doi.org/10.1016/j.chemosphere.2019.125808.
-Qian, Z.-J., Ryu, B., Kim, M.-M., Kim, S.-K., 2008. Free radical and reactive oxygen 
-species scavenging activities of the extracts from seahorse, Hippocampus kuda 
-Bleeler. Biotechnol. Bioprocess Eng. 13, 705–715. https://doi.org/10.1007/s12257- 
-008-0093-5.
-Ransj¨o, M., Sahli, J., Lie, A., 2003. Expression of connexin 43 mRNA in microisolated 
-murine osteoclasts and regulation of bone resorption in vitro by gap junction 
-inhibitors. Biochem. Biophys. Res. Commun. 303, 1179–1185. https://doi.org/ 
-10.1016/s0006-291x(03)00502-3.
-Rosa, I.L., Defavari, G.R., Alves, R.R.N., Oliveira, T.P.R., 2013. Seahorses in traditional 
-medicines: a global overview. In: Alves, R.R.N., Rosa, I.L. (Eds.), Animals in 
-Traditional Folk Medicine: Implications for Conservation. Springer Berlin 
-Heidelberg, Berlin, Heidelberg, pp. 207–240. https://doi.org/10.1007/978-3-642- 
-29026-8_10.
-Ryu, B., Qian, Z.-J., Kim, S.-K., 2010b. Purification of a peptide from seahorse, that 
-inhibits TPA-induced MMP, iNOS and COX-2 expression through MAPK and NF- 
-kappaB activation, and induces human osteoblastic and chondrocytic differentiation. 
-Chem. Biol. Interact. 184, 413–422. https://doi.org/10.1016/j.cbi.2009.12.003.
-Ryu, B., Qian, Z.-J., Kim, S.-K., 2010a. SHP-1, a novel peptide isolated from seahorse 
-inhibits collagen release through the suppression of collagenases 1 and 3, nitric oxide 
-products regulated by NF-kappaB/p38 kinase. Peptides 31, 79–87. https://doi.org/ 
-10.1016/j.peptides.2009.10.019.
-Sanaye, S.V., Pise, N.M., Pawar, A.P., Parab, P.P., Sreepada, R.A., Pawar, H.B., 
-Revankar, A.D., 2014. Evaluation of antioxidant activities in captive-bred cultured 
-yellow seahorse, Hippocampus kuda (Bleeker, 1852). Aquaculture 434, 100–107. 
-https://doi.org/10.1016/j.aquaculture.2014.08.007.
-Schiller, P.C., D’Ippolito, G., Balkan, W., Roos, B.A., Howard, G.A., 2001. Gap-junctional 
-communication is required for the maturation process of osteoblastic cells in culture. 
-Bone 28, 362–369. https://doi.org/10.1016/s8756-3282(00)00458-0.
-Song, Z.H., Ji, Z.N., Lo, C.K., Dong, T.T.X., Zhao, K.J., Li, O.T.W., Haines, C.J., Kung, S. 
-D., Tsim, K.W.K., 2004. Chemical and biological assessment of a traditional chinese 
-herbal decoction prepared from Radix Astragali and Radix Angelicae Sinensis: 
-orthogonal array design to optimize the extraction of chemical constituents. Planta 
-Med. 70, 1222–1227. https://doi.org/10.1055/s-2004-835855.
-Tarantino, U., Iolascon, G., Cianferotti, L., Masi, L., Marcucci, G., Giusti, F., Marini, F., 
-Parri, S., Feola, M., Rao, C., Piccirilli, E., Zanetti, E.B., Cittadini, N., Alvaro, R., 
-Moretti, A., Calafiore, D., Toro, G., Gimigliano, F., Resmini, G., Brandi, M.L., 2017. 
-Clinical guidelines for the prevention and treatment of osteoporosis: summary 
-statements and recommendations from the Italian society for orthopaedics and 
-traumatology. J. Orthop. Trauma. Off. J. Ital. Soc. Orthop. Trauma. 18, 3–36. 
-https://doi.org/10.1007/s10195-017-0474-7.
-de Vrieze, E., van Kessel, M.A.H.J., Peters, H.M., Spanings, F.A.T., Flik, G., Metz, J.R., 
-2014. Prednisolone induces osteoporosis-like phenotype in regenerating zebrafish 
-scales. Osteoporos. Int. a J. Establ. Result Coop. Eur. Found. Osteoporos. Natl. 
-Osteoporos. Found. USA 25, 567–578. https://doi.org/10.1007/s00198-013-2441-3.
-Yuan, Q., He, L., Qian, Z.-J., Zhou, C., Hong, P., Wang, Z., Wang, Y., Sun, S., Li, C., 2018. 
-Significantly accelerated osteoblast cell growth on TiO(2)/SrHA composite mediated 
-by phenolic compounds (BHM) from Hippocamp us kuda Bleeler. ACS Appl. Mater. 
-Interfaces 10, 30214–30226. https://doi.org/10.1021/acsami.8b12411.
-Zhang, N., Xu, B., Mou, C., Yang, W., Wei, J., Lu, L., Zhu, J., Du, J., Wu, X., Ye, L., Fu, Z., 
-Lu, Y., Lin, J., Sun, Z., Su, J., Dong, M., Xu, A., 2003. Molecular profile of the unique 
-species of traditional Chinese medicine, Chinese seahorse (Hippocampus kuda 
-Bleeker). FEBS Lett. 550, 124–134. https://doi.org/10.1016/s0014-5793(03)00855- 
-x.
-Zhang, Y., Ryu, B., Cui, Y., Li, C., Zhou, C., Hong, P., Lee, B., Qian, Z.-J., 2019. A peptide 
-isolated from Hippocampus abdominalis improves exercise performance and exerts 
-anti-fatigue effects via AMPK/PGC-1α pathway in mice. J. Funct. Foods 61, 103489. 
-https://doi.org/10.1016/j.jff.2019.103489.
-Zhao, Y., Wang, H.-L., Li, T.-T., Yang, F., Tzeng, C.-M., 2020. Baicalin ameliorates 
-dexamethasone-induced osteoporosis by regulation of the RANK/RANKL/OPG 
-signaling pathway. Drug Des. Dev. Ther. 14, 195–206. https://doi.org/10.2147/ 
-DDDT.S225516.
-Zhou, C., Zhang, X., Xu, L., Wu, T., Cui, L., Xu, D., 2014. Taurine promotes human 
-mesenchymal stem cells to differentiate into osteoblast through the ERK pathway. 
-Amino Acids 46, 1673–1680. https://doi.org/10.1007/s00726-014-1729-8.
-Zon, L.I., Peterson, R.T., 2005. In vivo drug discovery in the zebrafish. Nat. Rev. Drug 
-Discov. 4, 35–44. https://doi.org/10.1038/nrd1606.
-Q. Chen et al.                                                                                                                                                                                                                                    
-Aquaculture Reports 39 (2024) 102510 
-7 
+J. T. Boehm et al.
+integrated framework for ecological geoprocessing with
+ArcGIS, Python, R, MATLAB, and C++. Environmental
+Modelling and Software, 25, 1197–1207.
+Robertson, D.R., Karg, F., Leao de Moura, R., Victor, B.C. &
+Bernardi, G. (2006) Mechanisms of speciation and faunal
+enrichment in Atlantic parrotﬁshes. Molecular Phylogenetics
+and Evolution, 40, 795–807.
+Rocha, L.A. (2003) Patterns of distribution and processes of
+speciation in Brazilian reef ﬁshes. Journal of Biogeography,
+30, 1161–1171.
+Rocha, L.A. & Bowen, B.W. (2008) Speciation in coral-reef
+ﬁsh. Journal of Fish Biology, 72, 1101–1121.
+Rocha, L.A., Bass, A.L., Robertson, D.R. & Bowen, B.W.
+(2002) Adult habitat preferences, larval dispersal, and the
+comparative phylogeography of three Atlantic surgeonﬁsh-
+es (Teleostei: Acanthuridae). Molecular Ecology, 11, 243–
+252.
+Rocha, L.A., Robertson, D.R., Roman, J. & Bowen, B.W.
+(2005) Ecological speciation in tropical reef ﬁshes. Proceed-
+ings of the Royal Society B: Biological Sciences, 272, 573–
+579.
+Rocha, L.A., Rocha, C.R., Robertson, D.R. & Bowen, B.W.
+(2008) Comparative phylogeography of Atlantic reef ﬁshes
+indicates both origin and accumulation of diversity in the
+Caribbean. BMC Evolutionary Biology, 8, 157.
+Slatkin, M. (1985) Gene ﬂow in natural populations. Annual
+Review of Ecology and Systematics, 16, 393–430.
+Smith-Vaniz, W.F., Collette, B.B. & Luckhurst, B.E. (1999)
+Fishes of Bermuda: history, zoogeography, annotated check-
+list, and identiﬁcation keys. American Society of Ichthyolo-
+gists and Herpetologists, Lawrence, KS.
+Teske, P.R., Hamilton, H., Palsbøll, P.J., Choo, C.K., Gabr,
+H., Lourie, S.A., Santos, M., Sreepada, A., Cherry, M.I. &
+Matthee, C.A. (2005) Molecular evidence for long-distance
+colonization in an Indo-Paciﬁc seahorse lineage. Marine
+Ecology Progress Series, 286, 249–260.
+Teske, P.R., Hamilton, H., Matthee, C.A. & Barker, N.P.
+(2007) Signatures of seaway closures and founder dispersal
+in the phylogeny of a circumglobally distributed seahorse
+lineage. BMC Evolutionary Biology, 7, 138.
+Theil, M. & Gutow, L. (2005) The ecology of rafting in the
+marine environment. I. The ﬂoating substrata. Oceanogra-
+phy and Marine Biology: an Annual Review, 42, 181–264.
+Vangriesheim, A., Bournot-Marec, C. & Fontan, A.-C. (2003)
+Flow variability near the Cape Verde frontal zone (sub-
+tropical Atlantic Ocean). Oceanologica Acta, 26, 149–159.
+Vermeij, G.J. (1978) Biogeography and adaptation: patterns of
+marine life. Harvard University Press, Cambridge, MA.
+Vincent, A.C.J., Giles, B.G., Czembor, C.A. & Foster, S.J.
+(eds) (2011) Trade in seahorses and other syngnathids in
+countries
+outside
+Asia
+(1998–2001).
+Fisheries
+Centre
+Research Report, 19, 1–181.
+Waltari, E. & Hickerson, M.J. (2012) Late Pleistocene species
+distribution modelling of North Atlantic intertidal inverte-
+brates. Journal of Biogeography, 40, 249–260.
+Wares, J.P. & Cunningham, C.W. (2001) Phylogeography
+and historical ecology of the North Atlantic intertidal. Evo-
+lution, 55, 2455–2469.
+Woodall, L.C., Koldewey, H.J., Santos, S.V. & Shaw, P.W.
+(2009) First occurrence of the lined seahorse Hippocampus
+erectus in the eastern Atlantic Ocean. Journal of Fish
+Biology, 75, 1505–1512.
+Woodall, L.C., Koldewey, H.J. & Shaw, P.W. (2011) Histori-
+cal and contemporary population genetic connectivity of
+the European short-snouted seahorse Hippocampus hippo-
+campus and implications for management. Journal of Fish
+Biology, 78, 1738–1756.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found in the
+online version of this article:
+Appendix S1 (a) PCR and sequencing methods, (b) sam-
+ples, collection locations, collectors, and GenBank accession
+numbers.
+Appendix S2 (a) Principal components analysis, (b) model
+selection, and (c) gene trees.
+Appendix S3 (a) Intraspeciﬁc population statistics, and (b)
+observed summary statistics.
+BIOSKETCH
+J. T. Boehm is a PhD Candidate at the City University of
+New York Graduate Center and in the lab of Michael Hick-
+erson at the City College of New York. His main research
+interests focus on the evolutionary history, population genet-
+ics, ecology and conservation of marine ﬁshes.
+The main research interest of the team of authors centres
+around the evolution, community ecology, taxonomy, con-
+servation and biogeography of marine organisms.
+Author contributions: J.T.B., J.W. and M.H. conceived the
+ideas; P.T., L.W., S.L., C.B., J.T.B and M.H. collected mate-
+rial; J.T.B., S.L. and L.W. collected data; J.T.B. and M.H.
+analysed the data; J.T.B. and M.H. led the writing; all
+authors made signiﬁcant comments on and improvements to
+the manuscript.
+Editor: Luiz Rocha
+Journal of Biogeography
+ª 2013 John Wiley & Sons Ltd
+11
+Inferring the demographic history of Atlantic seahorses
 

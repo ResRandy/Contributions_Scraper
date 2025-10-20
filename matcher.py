@@ -27,8 +27,12 @@ for f in files:
 
         # Joins every line of the article into one string, adds a space in between each line, removes all trailing whitepsace from each line, replaces all - with ""
         article = " ".join(line.rstrip() for line in file).replace("-", "")
+        detected_zoos = []
         for zoo in zoo_list:
             if zoo in article:
-                print(f)
+                detected_zoos.append(zoo)
+
+        if detected_zoos:
+            print("\n" + f)
+            for zoo in detected_zoos:
                 print(f"Zoo/Aquarium detected: {zoo}")
-                

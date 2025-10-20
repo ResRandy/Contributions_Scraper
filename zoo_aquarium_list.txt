@@ -113,7 +113,6 @@ Sevilla Aquarium
 Barcelona Zoo
 Aquarium River of Zaragoza
 Cabárceno
-Aquarium
 Loro Park
 Sindibad Zoo
 Chimelong Ocean Kingdom
@@ -127,7 +126,6 @@ Sea World Prague
 Audubon Aquarium of the Americas
 Akvariet i Bergen - Det Nasjonale Akvariet
 Dortmund Zoo
-Zoo
 Indianapolis Zoo
 Maui Ocean Center, The Aquarium of Hawaii
 San Francisco Zoo
@@ -356,7 +354,6 @@ Cebu Ocean Park
 Manila Ocean Park
 Johannesburg Zoo
 National Zoological Gardens of South Africa
-Aquarium
 Crocworld
 Hoedspruit Reptile Centre
 Umgeni River Bird Park
@@ -389,6 +386,7 @@ Aquamuseu do Rio Minho
 Estação Litoral da Aguda
 Vasco da Gama Aquarium
 Oceanário de Lisboa
+Oceanario de Lisboa
 Lisbon Zoo
 Fluviário de Mora
 Zoo de Lagos

@@ -46,7 +46,7 @@ def findContributions(files):
     return ending
 
 
-def testMatcher():
+def main():
     files = [f for f in os.listdir("Articles") if os.path.isfile(os.path.join("Articles", f))]
 
     TESTING_ARTICLE = "Articles/Aquatic Conservation - 2012 - Caldwell - Revisiting two sympatric European seahorse species  apparent decline in the.pdf"

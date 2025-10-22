@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter.ttk import *
 from tkinter import filedialog, messagebox
-import pymupdf
 from matcher import findContributions
 
 
@@ -57,8 +56,9 @@ def open_file_dialog():
     except Exception as e:
         messagebox.showerror("Error", f"\nAn unexpected error occurred:\n" + str(e))
 
+
 master = tk.Tk()
-master.geometry("400x200")
+master.geometry("900x600")
 master.title("Main window")
 Label(master, text="Click the button to select a file and the results shall appear in the box below").pack(pady=7)
 findFileButton = tk.Button(master, text="open file explorer", command=open_file_dialog).pack(pady=5)
@@ -67,15 +67,15 @@ text_area.pack(pady=20,expand=True, fill='both')
 text_area.config(state='disabled')
 
 
-#create menue
-menubar = tk.Menu(master)
-filemenu = tk.Menu(menubar, tearoff=0)
-filemenu.add_command(label="Open", command=open_file_dialog)
-filemenu.add_separator()
-filemenu.add_command(label="Exit", command=master.quit)
-menubar.add_cascade(label="File", menu=filemenu)
+# #create menue
+# menubar = tk.Menu(master)
+# filemenu = tk.Menu(menubar, tearoff=0)
+# filemenu.add_command(label="Open", command=open_file_dialog())
+# filemenu.add_separator()
+# filemenu.add_command(label="Exit", command=master.quit)
+# menubar.add_cascade(label="File", menu=filemenu)
 
-master.config(menu=menubar)
+# master.config(menu=menubar)
 
 
 master.mainloop()

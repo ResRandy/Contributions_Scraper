@@ -2,7 +2,9 @@ import pymupdf
 import os
 
 def findContributions(files):
-    ending = ""
+    ending = "" # Initialize an empty string to store results
+
+
     for f in files:
         doc = pymupdf.open(f)
         out = open("output.txt", "wb") # create a text output
@@ -36,7 +38,7 @@ def findContributions(files):
 
 
             if detected_zoos:
-                ending = f"\n {ending}\n{f}\n"
+                ending = f"\n {ending}\n{os.path.basename(f)}\n"
                 for zoo in detected_zoos:
                     ending = (f"{ending} Zoo/Aquarium detected: {zoo}\n")
                 if detected_seahorse:

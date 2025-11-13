@@ -22,21 +22,13 @@ def open_file_dialog():
             filetypes=(("PDF files", "*.pdf"), ("All files", "*.*")),
             multiple=True
         )
-        # print(f"Selected file: {file_path}")
 
         if not file_path:
-            print("No file selected.")
+            print(f"{file_path}, Is not a file.")
             return
         
-        # Open and read the PDF
         text_content = findContributions(file_path)
-        # for file in file_path:
-        #     pdf_document = pymupdf.open(file)
         
-        # # Extract text from all pages
-        #     for page in pdf_document:
-        #         text_content += page.get_text()
-        #     text_context += "\n\n\n"
 
         text_area.config(state='normal')
             
@@ -46,8 +38,6 @@ def open_file_dialog():
 
         text_area.config(state='disabled')
         
-        # # Close the PDF
-        # pdf_document.close()
 
     except FileNotFoundError:
         messagebox.showerror("Error", "The selected file was not found.")

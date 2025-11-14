@@ -1,41 +1,115 @@
-Effect Of Diet On Body Composition And Growth Parameters In 
-Juvenile Seahorses {Hippocampus spp.) At The Toronto Zoo 
-M.E. Shaw1'2*, E. Valdes1'2, J.L. Atkinson2, D.P. Bureau2 and C. Lee1 
-1 Department of Animal & Poultry Science, University of Guelph, Guelph, Ontario 
-Canada 
-2Metro Toronto Zoo, Toronto, Ontario Canada 
-To date, all information on the feeding of seahorses (Hippocampus 
-spp.) is contained in fish hobbyist magazines emphasizing 
-acceptance of feed rather than its nutritive value. 
-The juvenile 
-stage is most critical in seahorse development and the most 
-problematic in terms of feeding. This study compared the effects of 
-two typical diets, Neomysis integer and Mysis relicta, on the body 
-composition, body weight, liver weight, liver fatty acid composition, 
-liver histopathology, and other growth parameters in juvenile 
-seahorses. 
-Eighty-eight juvenile seahorses were separated by 
-weight (< 1.4 g, > 1.4 g) into four tanks per diet (11 
-seahorses/tank). It was hypothesized that the freshwater M. relicta, 
-although showing adequate nutrient levels, would have lower levels 
-of docosahexanoic acid (DHA) and eiscosapentaenoic acid (EPA) 
-possibly resulting in fatty acid deficiency. Seahorses showed some 
-minor morphometric differences at the end of the study. Those fed 
-N. integer had increased liver weight as well as greater body 
-weights and the larger fish grew heavier than all other treatment 
-groups. Moderate hepatic lipidosis was exhibited in all tanks. In 
-terms of body composition, higher ash and lower lipid levels were 
-found in the N. integer treatment fish. Several fatty acids, including 
-DHA, EPA, and saturates were significantly higher in the livers of 
-seahorses fed N. integer while C14:0, unsaturated, and omega 6 
-fatty acids were higher in the M. relicta livers. Lower C22:1 was 
-found in the livers of smaller fish on either diet and C22:2n6 was 
-lower in the small fish of N. integer fed animals and higher in the 
-small of the M. relicta group. The information gathered in this study 
-will provide a basis for a wide variety of future nutrition and 
-metabolism related experimentation with these fish. 
-Key words: 
-fatty acids; docosahexanoic acid; eicosapentanoic acid; 
-nutrition; body mass 
-150 
+Nathan Wood
+Phone: +1-302-547-2377
+Email: nwood0915@gmail.com
+Address: 119 Coopers Dr, Newark, DE 19702
+GitHub: https://github.com/nathnwod 
+CONTACT
+Accept orders through the DoorDash app
+Arrive at the desired restaurant
+Ensure orders are correct before delivery
+Efficiently deliver food to customers
+Communicate with customers
+PROFESSIONAL
+EXPERIENCE
+Dasher
+DoorDash - Elkton, MD | 2021-Present
+EDUCATION
+GPA: 3.2
+Honor roll
+Biotech pathway
+High school diploma
+Newark Charter School - Newark, DE  |  2017-2021
+GPA: 3.168
+Bachelor of Science in computer science
+University of Delaware - Newark, DE  |  2021-Present
+I am a computer science major in my senior year at the University of Delaware. My
+ultimate career goal is to enter a digital design and development related field to
+combine my passion for both technology and art/creativity. 
+PROFILE
+SUMMARY
+PROJECT
+EXPERIENCE
+Collaborative Roblox Game Project  |  2021-Present
+Contributed by creating 100% of the games assets and images using the software Blender and
+Gimp. Minimal contribution to the code, only writing more simple scripts in Lua. This is a large
+scale project and the goal of the game is to catch fish underwater, while constantly upgrading
+your tools to reach deeper depths, become stronger against enemies, and discover secrets.
+Personal Game Project in Java 2D  |  2024
+I tried to take a basic fishing game and turn it into something much more by incorporating
+different abilities and items. All 2D game assets were created using AI, while I focused more on the
+programming side to practice my knowledge and have fun.
+Personal Game Project in Java Terminal  |  2024
+This was a small game project for fun using the java terminal. Inspired by a simple Tic-Tac-Toe
+program, I wanted to do something similar, so I created a large 3D array, which makes up the
+entire playable area. The goal of the game is to mine minerals underground for money and the
+player upgrades their tools to progress.
+Built a PC  |  2022
+I built a high power PC to do special tasks, such as rendering complex scenes, running large files,
+and of course for gaming. Through this I have gained experience with computer hardware and
+have a better understanding of how computers work and a better ability to fix technical issues.
+References available upon request
+Nathan Wood
+Hiring Manager
+Coriell Institute for Medical Research
+October 2nd, 2025
+Dear Hiring Manager,
+I’m excited to apply for the Web Developer position at Coriell Institute for Medical
+Research, as advertised on LinkedIn. I’m a senior Computer Science student at the
+University of Delaware looking to apply my programming skills, attention to detail,
+and problem-solving abilities in a professional setting. My goal is to gain hands-on
+software development experience while tackling new tasks. I will tackle trial and
+error, and grow through real-world projects.
+My background spans Java, C++, and HTML, and I take pride in writing clean,
+efficient, and well-structured code. I’m strongest in Java, and I’ve collaborated on
+multiple projects using GitHub, including a team build of a career-finder website
+with AI integration and account management using agile frameworks. Beyond web
+work, I developed a large-scale Java 2D graphics project, which sharpened my
+ability to plan, debug, and complete complex projects head-on.
+Coriell’s mission-driven environment and emphasis on high quality software, SQL,
+and problem solving are a great match for my interests. I’m eager to contribute to
+my programming skills, learn from experienced developers, and support your team
+with reliable, detail oriented work. All while continuing to build my web
+development skill set.
+I have attached my resume for your review. Please feel free to contact me at your
+convenience. I look forward to the opportunity to further discuss how I can
+contribute to your team.
+Yours sincerely,
+Senior Computer Science Major
+nwood0915@gmail.com
++1-302-547-2377
+119 Coopers Dr, Newark, DE
+19702
+Nathan Wood
+Nathan Wood
+TA Instruments – Recruiting Team
+Front-end Web Developer
+New Castle, DE
+October 2nd, 2025
+Dear Hiring Manager,
+I am writing to apply for the Front-end Web Developer position at TA Instruments, as
+advertised on MilwaukeeJobs. I’m a senior Computer Science student at the University of
+Delaware with hands-on experience building responsive web interfaces, collaborating in
+GitHub-based workflows, and delivering clean, maintainable code for real users.
+Your posting highlights building responsive features, troubleshooting to resolution, and
+collaborating across teams. Through coursework and projects, I’ve written clean, well-
+structured code in Java, C++, and HTML, practiced debugging with self discipline, and
+worked toward maintainable solutions that meet defined requirements and timelines.
+You also ask for a collaborator who can ensure quality and consistency across browsers.
+With a team of four, I helped build a career-finder website with AI integration and account
+management using an agile workflow on GitHub. This gave me experience opening pull
+requests, reviewing code, tracking issues, and testing fixes. Separately, I completed a large-
+scale Java 2D graphics project that strengthened my planning, and problem-solving.
+When I saw this role, the fit was clear. I’m energized by designing and shipping features that
+improve user experience, learning from a high-performing marketing team, and supporting
+global websites with consistent branding, localization, and measurable impact. I’m eager to
+contribute immediately while continuing to grow in skill.
+Please feel free to contact me through one of the methods listed. I look forward to the
+opportunity to discuss how I can contribute to the TA Instrument team.
+Kindest regards,
+Senior Computer Science Major
+nwood0915@gmail.com
++1-302-547-2377
+119 Coopers Dr, Newark, DE
+19702
+Nathan Wood
 

@@ -1,41 +1,525 @@
-Effect Of Diet On Body Composition And Growth Parameters In 
-Juvenile Seahorses {Hippocampus spp.) At The Toronto Zoo 
-M.E. Shaw1'2*, E. Valdes1'2, J.L. Atkinson2, D.P. Bureau2 and C. Lee1 
-1 Department of Animal & Poultry Science, University of Guelph, Guelph, Ontario 
-Canada 
-2Metro Toronto Zoo, Toronto, Ontario Canada 
-To date, all information on the feeding of seahorses (Hippocampus 
-spp.) is contained in fish hobbyist magazines emphasizing 
-acceptance of feed rather than its nutritive value. 
-The juvenile 
-stage is most critical in seahorse development and the most 
-problematic in terms of feeding. This study compared the effects of 
-two typical diets, Neomysis integer and Mysis relicta, on the body 
-composition, body weight, liver weight, liver fatty acid composition, 
-liver histopathology, and other growth parameters in juvenile 
-seahorses. 
-Eighty-eight juvenile seahorses were separated by 
-weight (< 1.4 g, > 1.4 g) into four tanks per diet (11 
-seahorses/tank). It was hypothesized that the freshwater M. relicta, 
-although showing adequate nutrient levels, would have lower levels 
-of docosahexanoic acid (DHA) and eiscosapentaenoic acid (EPA) 
-possibly resulting in fatty acid deficiency. Seahorses showed some 
-minor morphometric differences at the end of the study. Those fed 
-N. integer had increased liver weight as well as greater body 
-weights and the larger fish grew heavier than all other treatment 
-groups. Moderate hepatic lipidosis was exhibited in all tanks. In 
-terms of body composition, higher ash and lower lipid levels were 
-found in the N. integer treatment fish. Several fatty acids, including 
-DHA, EPA, and saturates were significantly higher in the livers of 
-seahorses fed N. integer while C14:0, unsaturated, and omega 6 
-fatty acids were higher in the M. relicta livers. Lower C22:1 was 
-found in the livers of smaller fish on either diet and C22:2n6 was 
-lower in the small fish of N. integer fed animals and higher in the 
-small of the M. relicta group. The information gathered in this study 
-will provide a basis for a wide variety of future nutrition and 
-metabolism related experimentation with these fish. 
-Key words: 
-fatty acids; docosahexanoic acid; eicosapentanoic acid; 
-nutrition; body mass 
-150 
+https://doi.org/10.11646/zootaxa.5550.1.12
+http://zoobank.org/urn:lsid:zoobank.org:pub:21252D35-A93F-4910-ACA8-906721A75142
+118   Accepted by I-S. Chen: 8 Nov. 2024; published: 10 Dec. 2024
+Article
+ZOOTAXA 
+ISSN 1175-5326 (print edition)
+ISSN 1175-5334 (online edition)
+Zootaxa 5550 (1): 118–126
+https://www.mapress.com/zt/
+Copyright © 2024 Magnolia Press
+Licensed under Creative Commons Attribution-N.C. 4.0 International https://creativecommons.org/licenses/by-nc/4.0/
+Bargibant’s pygmy seahorse Hippocampus bargibanti in Taiwan Bank: hidden 
+biodiversity of Taiwan Strait
+GUO-CHEN JIANG1,2,#, KUO-SHU CHEN1,#, YI-HSUAN CHEN1, JINN-SHING WENG3, HSIN-MING YEH4, 
+KANG-NING SHEN1,* & CHIH-WEI CHANG1,5,6,*
+1Marine Ecology and Conservation Research Center, National Academy of Marine Research, Kaohsiung 806614, Taiwan, R.O.C.
+gcjiang331@gmail.com; 
+https://orcid.org/0000-0002-1515-9298
+kschen.2011@gmail.com; 
+https://orcid.org/0000-0001-7574-415X
+t0099tw@gmail.com; 
+https://orcid.org/0009-0008-9007-5060
+knshen@namr.gov.tw; 
+https://orcid.org/0000-0002-6338-6049
+2Department of Aquaculture, National Penghu University of Science and Technology, Penghu 880011, Taiwan, R.O.C.
+3Coastal and Offshore Fishery Research Center, Fisheries Research Institute, Ministry of Agriculture, Kaohsiung 80672, Taiwan, R.O.C.
+j-s.ueng@mail.tfrin.gov.tw; 
+https://orcid.org/0000-0002-9815-6788
+4Fisheries Research Institute, Ministry of Agriculture, Keelung 202008, Taiwan, R.O.C.
+hmyeh@mail.tfrin.gov.tw; 
+https://orcid.org/0009-0008-6651-2814
+5Department of Oceanography, and Institute of Marine Ecology and Conservation, National Sun Yat-sen University, Kaohsiung 804201, 
+Taiwan, R.O.C.
+changcw@namr.gov.tw; 
+https://orcid.org/0000-0002-0659-9582
+6Institute of Marine Biology, National Dong Hwa University, and National Museum of Marine Biology and Aquarium, Pingtung 
+944401, Taiwan, R.O.C.
+#GC Jiang and KS Chen contribute equally to this work
+*Corresponding authors
+Abstract
+During a scientific expedition in the Taiwan Bank in the southern Taiwan Strait in 2021, five pygmy seahorses, 
+measuring between 18.1 mm and 28.3 mm in standard length, were inadvertently collected along with Muricella sea fans. 
+Morphometric measurements of these pygmy seahorse specimens coincided with the previous data on H. bargibanti, but 
+they had a proportionally greater head depth and snout length. Genetically, DNA marker analysis of partial mitochondrial 
+COI sequences confirmed that our specimens belonged to the same lineage as H. bargibanti, with a p-distance of 0.54% 
+among populations. This discovery enhances our knowledge of the limited biodiversity in the Taiwan Bank, which 
+includes a complex geomorphology of both reef banks and sandy substrates, and highlights the importance of strict laws 
+prohibiting fishing with inadequate gear, invasive or illegal fishing, and sand dredging to protect unexplored coral reef 
+biodiversity in the area.
+Key words: biogeography, conservation, coral reef, new record, sand dredging
+Introduction
+The pygmy seahorses belong to the genus Hippocampus of the family Syngnathidae. Molecular evidence from 32 
+Hippocampus species suggests that the genus originated in the Indo-Pacific biome, with the pygmy seahorse being 
+an ancient divergence of this group from the main clade of seahorses (Teske et al. 2004). A global revision on the 
+taxonomy and biogeography of the genus, along with some new discoveries, revealed that seven species of pygmy 
+seahorses, H. bargibanti, H. colemani, H. denise, H. japapigu, H. nalu, H. pontohi, and H. satomiae, have been 
+confirmed as valid based on morphological and genetic data (Whitley 1970; Kuiter 2003; Lourie & Randall 2003; 
+Lourie & Kuiter 2008; Gomon & Kuiter 2009; Lourie et al. 2016; Short et al. 2018, 2020). Most pygmy seahorse 
+species are widely distributed in the Coral Triangle region in the western Pacific Ocean, except for H. nalu, which 
+is endemic to South Africa in the Indian Ocean (Short et al. 2020). With five reported species, Taiwan is a global 
+hotspot for pygmy seahorse biodiversity (Heard et al. 2019).
+New record of Bargibant’s pygmy seahorse in Taiwan
+Zootaxa 5550 (1) © 2024 Magnolia Press  ·  119
+All species of pygmy seahorses are small, with sizes ranging from 11 mm (H. satomiae) to 27 mm (H. colemani) 
+in maximum recorded height/length (Lourie et al. 2016; Koning & Hoeksema 2021). They are known for their 
+complex homochromy, or ability to mimic the colors of their hosts such as sea fans, colonial hydrozoans, bryozoans, 
+seagrasses, and algae, providing an effective camouflage and making it difficult for observers to spot them in their 
+habitats (Lourie & Kuiter 2008; Reijnen et al. 2011; Lourie et al. 2016). Therefore, apart from studies of new 
+discoveries and taxonomic examinations, information on their biology and ecology in the wild is relatively scarce. 
+Smith et al. (2012) studied the extreme habitat specialization and population structure of two gorgonian-associated 
+pygmy seahorses, H. bargibanti and H. denise, in southeast Sulawesi, Indonesia. Shepherd et al. (2017) described 
+the mating, birth, larval development, and settlement of a pair of H. bargibanti collected from the Philippines and 
+reared at the Steinhart Aquarium of the California Academy of Sciences. A review of the diversity of seahorse 
+species in the international aquarium trade revealed that information on most pygmy seahorses was either not 
+evaluated or data deficient in the IUCN Red List categories (Koning & Hoeksema 2021). This indicates that data 
+obtained from any individual collected in the wild will be beneficial to the understanding of the natural history and 
+biogeography of pygmy seahorses.
+On August 13, 2021, five pygmy seahorses were inadvertently collected along with Muricella sea fans (FIGURE 
+1) by beam trawling during a scientific expedition onboard R/V Fishery Researcher II in the Taiwan Bank. This area 
+is a shoal in the southern Taiwan Strait that measures <40 m in depth. To our knowledge, this is the first time pygmy 
+seahorse specimens have been recorded and officially archived from the waters around Taiwan. Previous reports 
+have only included images from citizen science projects shared on social media (after Heard et al. 2019). In this 
+study, we identify the pygmy seahorses found in the Taiwan Bank both morphologically and genetically, provide 
+preliminary insights into the population genetics and the basic biology of the species in the western Pacific Ocean, 
+and indicate the immediate threats to the coral reef biodiversity in the Taiwan Bank.
+FIGURE 1. Muricella sea fans and pygmy seahorse Hippocampus bargibanti collected from Taiwan Bank in the southern 
+Taiwan Strait. (A) samples of the collected sea fans; (B) branches and polyps of the sea fan; and (C) morphology and fresh color 
+of the pygmy seahorse on board.
+Materials and Methods
+A combined scientific expedition aboard R/V Fishery Researcher II from August 11 to 17 in 2021, conducted a 
+demersal fauna survey and carried out marine environmental and ecological research in the Taiwan Bank area 
+(22°48’N; 118°50’E) of the Taiwan Strait. Pygmy seahorses and inhabiting sea fans were inadvertently collected by 
+a French-type beam trawl (2.5-m span with a wooden beam and forerun tickler chain [length 4.5 m, weight 10 kg] 
+and a pair of iron side-skis; Tsai et al. 2009) at a depth of approximately 25 m. Trawling was disrupted due to the 
+wooden beam breaking, which was caused by the complex topography of the reef banks.
+The morphometric measurement and sex determination of the pygmy seahorse were conducted according to 
+Jiang ET AL.
+120  ·  Zootaxa 5550 (1) © 2024 Magnolia Press
+Lourie et al. (1999) and Lourie and Randall (2003). The standard length (SL) of a seahorse is defined as the sum 
+of the head length, trunk length, and tail length, with measurement of the trunk and tail lengths following the curve 
+of the body. The number of rings on the trunk and tail were determined from radiographs captured with exposure 
+settings of 40 kV and 120 μA using a Thermo Kevex X-ray Source Control Interface 5.5.9 and SCap 1.1.5 for 
+capturing X-ray images (Thermo Scientific, USA). 
+TABLE 1. Hippocampus species, origin, NCBI accession number, and archive record number of the specimen for the 
+partial cytochrome c oxidase subunit I gene used in this study.
+Species
+Origin
+NCBI accession no.
+Archive record no.
+Pygmy seahorses
+  Present study
+Taiwan: Taiwan Bank
+-
+NMMB-P035690
+PQ140446
+NMMB-P040318
+PQ140447
+NMMB-P040319
+PQ140448
+NMMB-P040320
+PQ140449
+NMMB-P040321
+  H. bargibanti 
+Philippines: Sulu Sea
+KY066105
+HH-1011
+Indonesia: West Papua, Kaimana, Selat Iris
+MH155225
+I.47832-002
+Indonesia
+MH645106
+I.47832-002
+MH645107
+I.47858-002
+  H. denise 
+Papua New Guinea: Arafura Sea
+KY066106
+HH-1014
+Indonesia: Raja Ampat, Wayilbatan
+MH155224
+I.47855-001
+Indonesia
+MH645108
+I.47851-001
+MH645109
+I.47851-001
+MH645110
+I.47855-002
+MH645111
+I.47855-003
+MH645112
+I.47855-003
+MH645113
+I.47855-003
+MH645114
+I.47857-001
+MH645115
+HH-1111
+MH645116
+I.48031-001
+  H. japapigu 
+Japan: Hachijo-jima
+MH142380
+KAUM:I:111770
+  H. pontohi 
+Indonesia
+MH645129
+I.47960-003
+MH645134
+I.47834-006
+MH645136
+I.47834-005
+Seahorses
+  H. abdominalis 
+New Zealand
+HQ322642
+-
+  H. comes 
+China
+MK287967
+MR1818
+  H. fuscus 
+Chinese herbal markets
+MT558617
+-
+  H. histrix 
+China
+KP140007
+SCSMBC001727
+  H. patagonicus 
+Brazil
+KF725695
+-
+  H. trimaculatus 
+Philippines: Bohol, Nasingin Island
+GQ502173
+RM2023
+Genomic DNA of the pygmy seahorses and also the sea fan coral they inhabit were extracted from muscle 
+tissue and coral branches, respectively. Due to the deficiency of muscle tissue from pygmy seahorses, the Illumina 
+Novaseq X Plus platform was used for next-generation sequencing to obtain cytochrome c oxidase subunit I (COI) 
+sequences for both pygmy seahorses and sea fan coral. The 150bp paired-end short reads were mapped to the 
+mitogenome of Hippocampus bargibanti (NCBI accession no. NC065492) by Geneious V11 software (Auckland, 
+New record of Bargibant’s pygmy seahorse in Taiwan
+Zootaxa 5550 (1) © 2024 Magnolia Press  ·  121
+New Zealand) to produce complete COI sequences. In addition, the partial COI gene sequence of six congeneric 
+species of seahorses (H. abdominalis, H. comes, H. fuscus, H. histrix, H. patagonicus, and H. trimaculatus) and 
+pygmy seahorses (four H. bargibanti, 11 H. denise, one H. japapigu, and three H. pontohi) available from the 
+National Center for Biotechnical Information (NCBI) GenBank were also included for the phylogenetic analyses 
+(TABLE 1). 
+Phylogenetic trees were reconstructed using both Bayesian and maximum likelihood (ML) methods. The 
+Bayesian method was applied using the program MrBayes 3.2.7 (Huelsenbeck & Ronquist 2001) with 1 million 
+steps in a Monte Carlo Markov Chain (MCMC) simulation. The effective sample sizes (ESS) of parameters sampled 
+from the MCMC were 1,517 (acceptable ESS is >200). Trees were sampled every 200 generations, with the initial 
+25% being discarded as burn-in to ensure that the Average Standard Deviation of Split Frequencies (ASDSF) is 
+<0.01. Additionally, the convergence diagnostic PSRF (Potential Scale Reduction Factor) should approach 1 as 
+runs converge (Gelman & Rubin 1992). The ML method was applied using the program MEGA11 (Tamura et al. 
+2021) with 1,000 bootstraps. Models with the lowest BIC scores (Bayesian Information Criterion) were considered 
+to describe the substitution pattern. The best substitution model evaluated from MEGA11 with invariable sites 
+(TN93+G+I, I=0.56, G=0.70, Ts/Tv ratio=6.93) was selected for constructing ML tree, while GTR+G+I was selected 
+for constructing a Bayesian tree with both phylogenetic trees using Hippocampus patagonicus (GenBank accession 
+numbers: KF725695), H. fuscus (MT558617), H. histrix (KP140007), H. comes (MK287967), H. trimaculatus 
+(GQ502173), and H. abdominalis (HQ322642) as the outgroups. The p-distance of 654 bp of the COI gene between 
+species and among the population was also determined using MEGA 11 (Kumar et al. 2018).
+The pygmy seahorse specimens were archived as NMMB-P035690 and P040318–P040321 in the Pisces 
+collection of the National Museum of Marine Biology and Aquarium. The DNA sequences that were obtained have 
+been registered in GenBank (under the accession numbers PQ140446–PQ140449). The COI sequence of the sea fan 
+coral in this study was also blast to the GenBank for species identification.
+Results
+In this study, five pygmy seahorses and the sea fan they inhabited were collected. The pygmy seahorses were yellow 
+to orange in color, which matched the similar color morph of the collected sea fan, demonstrating their excellent 
+camouflage (FIGURE 1). The sea fan was subjected to DNA barcoding (Accession no. PQ150045) and blasted to 
+NCBI, suggesting a 99% identity to Muricella sp. ANT77 (OL616247).
+Two male (22.6–24.5 mm in SL) and three female (18.1–28.3 mm in SL) pygmy seahorse specimens were 
+morphologically examined. The snout was short with a bulbous tip. The body was fleshy with a rounded knob-like 
+coronet and irregular bulbous tubercles (FIGURE 2). The pygmy seahorses had 12 trunk rings, 30–32 tail rings, 9–
+11 pectoral fin rays, 13–14 dorsal fin rays, and no anal fin rays. The number of rings and proportional measurements 
+of the specimen in our study were similar to the data on H. bargibanti provided by Lourie and Randall (2003), 
+although the head shape slightly differed, with our specimen having a proportionally greater head depth and snout 
+length (TABLE 2).
+TABLE 2. Counts and morphometric measurements (expressed as percentages of standard length, head length, or snout 
+length as indicated) of Hippocampus bargibanti discovered by the present study and Lourie and Randall (2003). Values 
+are ranges or means ± standard deviations.
+Present study
+Lourie and Randall
+(2003)
+Male
+Female
+Total
+Number of fish
+2
+3
+5
+8
+Standard length (SL, mm)
+23.53±1.34
+23.20±5.08
+23.3±3.66
+24.4±1.7
+Count
+  Trunk ring (TrR)
+12
+12
+12
+12
+  Tail rings (TaR)
+31
+30–32
+30–32
+31–32
+  Pectoral fin ray (PF)
+9
+10–11
+9–10
+10
+  Dorsal fin ray (DF)
+13–14
+13–14
+13–14
+14
+  Anal fin ray (AF)
+0
+0
+0
+0
+......continued on the next page
+Jiang ET AL.
+122  ·  Zootaxa 5550 (1) © 2024 Magnolia Press
+TABLE 2. (Continued)
+Present study
+Lourie and Randall
+(2003)
+Male
+Female
+Total
+Proportional measurement
+  Trunk length (TrL):SL
+26.95±2.33
+25.00±4.69
+25.78±3.67
+28±1.61
+  Tail length (TaL):SL
+57.25±1.77
+59.07±4.17
+58.34±3.23
+56±1.29
+  Head length (HL):SL
+15.80±0.57
+15.93±0.86
+15.88±0.68
+17±1.44
+  Head depth (HD):HL
+75.85±2.62
+79.70±1.01
+78.16±2.58
+66±3.28
+  Snout length (SnL):HL
+30.35±0.49
+28.23±0.38
+29.08±1.22
+22±1.83
+  Snout depth (SnD):SnL
+104.85±6.86
+106.67±4.89
+105.94±4.97
+100±20.23
+  Orbital diameter (OD):HL
+20.75±1.06
+21.87±2.08
+21.42±1.68
+18±3.10
+  Post-orbital length (PO):HL
+53.25±0.49
+53.93±3.79
+53.66±2.72
+57±4.06
+  Coronet height (CH):HL
+65.05±6.43
+70.90±12.18
+68.56±9.74
+57±6.26
+  Trunk depth anterior to the dorsal 
+     fin base, between the 9th and 
+     10th trunk rings (TD9):SL
+12.95±0.78
+11.37±0.38
+12.00±0.99
+13±1.61
+  Length of dorsal fin base (DL):SL
+9.40±1.84
+9.20±0.66
+9.28±1.04
+8±0.74
+  Length of pectoral fin base (PL):SL
+3.05±0.07
+3.20±0.95
+3.14±0.68
+3±0.52
+FIGURE 2. The five pygmy seahorse Hippocampus bargibanti collected from Taiwan Bank in the southern Taiwan Strait. (A) 
+preserved and (B) X-ray photos.
+New record of Bargibant’s pygmy seahorse in Taiwan
+Zootaxa 5550 (1) © 2024 Magnolia Press  ·  123
+FIGURE 3. (A) Bayesian and (B) maximum-likelihood (ML) phylogenetic tree of the 654-bp cytochrome c oxidase subunit I 
+gene for Hippocampus pygmy seahorse species, with their relatives as outgroup species. Values above the branches of the ML 
+tree are bootstrapping values.
+In addition, morphological identification was genetically supported through the available DNA marker analysis 
+of the partial mitochondrial COI sequences of congeners from NCBI GenBank. According to the constructed 
+maximum-likelihood and Bayesian phylogenetic trees, the lineage of the pygmy seahorse was different from that 
+of its relatives (FIGURE 3). The genetic relationship suggested that our specimens were in the same lineage with a 
+Jiang ET AL.
+124  ·  Zootaxa 5550 (1) © 2024 Magnolia Press
+p-distance of 0.54% among populations of H. bargibanti. The p-distance between species and among populations of 
+pygmy seahorses was 9.37%–13.77% and 0.31%–0.54%, respectively (TABLE 3), indicating our specimens belong 
+to H. bargibanti.
+TABLE 3. p-Distances of the partial cytochrome c oxidase subunit I gene sequences between and within (in parentheses) 
+known Hippocampus pygmy seahorse species, including the sequence obtained in this study.
+H. bargibanti
+H. denise
+H. japapigu
+H. pontohi
+H. bargibanti
+(0.0054)
+H. denise
+0.1050
+(0.0042)
+H. japapigu
+0.1377
+0.1053
+(-)
+H. pontohi
+0.1129
+0.0937
+0.1162
+(0.0031)
+Discussion
+Identification of pygmy seahorse species is not always an easy task. For instance, due to color variations and lack 
+of distinct differences from a single specimen, H. severnsi Lourie & Kuiter 2008 and H. waleananus Gomon & 
+Kuiter 2009 were considered as synonyms of H. pontohi Lourie & Kuiter 2008 and H. satomiae Lourie & Kuiter 
+2008, respectively (Lourie et al. 2016). However, in the case of H. bargibanti, its unique characteristics such as 
+irregular bulbous tubercles scattered over its body and tail made it immediately identifiable, despite slight variations 
+in head shape. Further analysis based on the construction of phylogenetic trees indicated a distinct phylogenetic split 
+between the lineage of the four pygmy seahorses and other six seahorses. This coincided with the result from one 
+species of pygmy seahorse (H. bargibanti) and other 31 congenerics (Teske et al. 2004). These findings also support 
+the speculation on the designation of pygmy seahorses as a separate genus (Lourie et al. 2016).
+Based on keyword searches and underwater photographs from social media and citizen scientists, H. bargibanti 
+has been the most frequently recorded pygmy seahorse species since its first sighting in southern Taiwan in 2004 
+(Heard et al. 2019). It is widely distributed among main diving locations, including sightings in 2011 and 2016 off 
+the northeastern coast of Chaojing Park, Keelung in northern Taiwan (FIGURE 4). The first Taiwanese specimen 
+described herein was discovered in the Taiwan Bank area of the southern Taiwan Strait. This offshore continental 
+location is distinct from other coastal coral reef sites around Taiwan. The Taiwan Bank area is around 13,000 km2 with 
+a water depth of less than 40 m, averaging 20–25 m and the shallowest point is 8.6 m. The hydrology of the Taiwan 
+Bank is significantly influenced by the South China Sea Warm Current and Kuroshio Branch Current. It is one of the 
+major upwelling areas in the Taiwan Strait (Lan et al. 2009) and the traditional fishing ground for the residents of the 
+Penghu Islands in Taiwan (Lu et al. 1986; Weng et al. 2021). The seabed in this region comprises hard reef banks 
+and soft sandy substrates, which have been adversely affected by the destructive rockhopper trawling and sand 
+extraction, respectively, carried out by China (Jeng 2019; Lee 2021). Hippocampus bargibanti is an extreme habitat 
+specialist exclusively found on gorgonian Muricella spp. (Gomon 1997; Baine et al. 2008; Reijnen et al. 2011; Smith 
+et al. 2012; this study). Habitat loss and degradation could directly impact the distribution of the host gorgonians 
+and subsequently reduce the population size of the associated pygmy seahorses. Our finding highlights the habitat 
+complexity of the Taiwan Bank and the importance of enforcing strict laws to protect unexplored biodiversity of 
+coral reef in this area through the prohibition of fishing with inadequate fishing gear as well as invasive and illegal 
+fishing and sand dredging.
+Conclusions
+A combined morphological and genetic identification has confirmed the occurrence of the pygmy seahorse H. 
+bargibanti, in the Taiwan Bank in the southern Taiwan Strait. Immediate threats to the unexplored coral reef 
+biodiversity in the Taiwan Bank need to be urgently addressed and prohibited.
+New record of Bargibant’s pygmy seahorse in Taiwan
+Zootaxa 5550 (1) © 2024 Magnolia Press  ·  125
+FIGURE 4. Reported discoveries of Hippocampus bargibanti near Taiwan: Open circles indicate previously reported locations, 
+and the solid circle indicates the new discovery. Topography and water depth were given in meters.
+Acknowledgments
+We thank all the crew members who participated in the field expedition aboard the R/V Fishery Researcher II 
+(Taiwan) from August 11 to 17, 2021. We greatly appreciate the radiography and curatorial assistance provided by 
+H-C Ho and P-N Lee from the National Museum of Marine Biology and Aquarium. This study was supported by 
+the National Academy of Marine Research and Taiwan Fisheries Research Institute. All of the necessary permits for 
+accessing the study site and conducting observational field studies were obtained by the authors from the competent 
+authorities.
+References
+Baine, M.S.P, Barrows, A.P.W, Ganiga, G. & Martin-Smith, K.M. (2008) Residence and movement of pygmy seahorses, 
+Hippocampus bargibanti, on sea fans (Muricella spp.). Coral Reefs, 27, 421.
+	
+https://doi.org/10.1007/s00338-007-0352-5
+Gomon, M.F. (1997) A remarkable new pygmy seahorse (Syngnathidae: Hippocampus) from south-eastern Australia, with re-
+description of H. bargibanti Whitley from New Caledonia. Memoirs of Museum Victoria. 56, 245−253.
+	
+https://doi.org/10.24199/j.mmv.1997.56.10
+Gomon, M.F. & Kuiter, R.H. (2009) Two new pygmy seahorses (Teleostei: Syngnathidae: Hippocampus) from the Indo-West 
+Pacific. Cybium, 15, 37–44.
+Jiang ET AL.
+126  ·  Zootaxa 5550 (1) © 2024 Magnolia Press
+Heard, J., Chen, J.P. & Wen, C.K.C. (2019) Citizen science yields first records of Hippocampus japapigu and Hippocampus 
+denise (Syngnathidae) from Taiwan: A hotspot for pygmy seahorse diversity. ZooKeys, 883, 83–90.
+	
+https://doi.org/10.3897/zookeys.883.39662
+Jeng, M.S. (2019) Ecological catastrophe of massive sand extraction in the Taiwan Bank. The Nature, 42, 36–45. [in Chinese]
+Koning, S. & Hoeksema, B.W. (2021) Diversity of seahorse species (Hippocampus spp.) in the international aquarium 
+trade. Diversity, 13 (5), 187.
+	
+https://doi.org/10.3390/d13050187
+Kuiter, R.H. (2003) A new pygmy seahorse (Pisces: Syngnathidae: Hippocampus) from Lord Howe Island. Records of the 
+Australian Museum, 55, 113–116.
+	
+https://doi.org/10.3853/j.0067-1975.55.2003.1382
+Kumar, S., Stecher, G., Li, M., Knyaz, C. & Tamura, K. (2018) MEGA X: Molecular Evolutionary Genetics Analysis across 
+computing platforms. Molecular Biology and Evolution, 35, 1547–1549.
+	
+https://doi.org/10.1093/molbev/msy096
+Lan, K.W., Kawamura, H., Lee, M.A., Chang, Y., Chan, J.W. & Liao, C.H. (2009) Summertime sea surface temperature fronts 
+associated with upwelling around the Taiwan Bank. Continental Shelf Research, 29, 903–910.
+	
+https://doi.org/10.1016/j.csr.2009.01.015
+Lee, C.H. (2021) Coping strategy to transgressive activity of sand pump dredgers of Mainland China. Navy Professional Journal, 
+55 (5), 72–86. [in Chinese]
+Lourie, S.A. & Kuiter, R.H. (2008) Three new pygmy seahorse species from Indonesia (Teleostei: Syngnathidae: Hippocampus). 
+Zootaxa, 1963, 54–68.
+	
+https://doi.org/10.11646/zootaxa.1963.1.4
+Lourie, S.A., Pollom, R.A. & Foster, S.J. (2016) A global revision of the seahorses Hippocampus Rafinesque 1810 (Actinopterygii: 
+Syngnathiformes): Taxonomy and biogeography with recommendations for further research. Zootaxa, 4146, 1–66.
+	
+https://doi.org/10.11646/zootaxa.4146.1.1
+Lourie, S.A., Pritchard, J.C., Casey, S.P., Ky, T.S. & Vincent, A.C.J. (1999) The taxonomy of Vietnam’s exploited seahorses. 
+Biological Journal of the Linnean Society, 66 (2), 231–256. 
+	
+https://doi.org/10.1111/j.1095-8312.1999.tb01886.x
+Lourie, S.A. & Randall, J.E. (2003) A new pygmy seahorse, Hippocampus denise (Teleostei Syngnathidae) from the Indo-
+Pacific. Zoological Studies, 42, 284–291.
+Lu, T.H., Lin, C.C., Chen, F.S. & Chung, C.S. (1986) Investigations of round herring and squids fishing-grounds from Pescadores 
+to Formosa Bank in 1984. Bulletin of Taiwan Fisheries Research Institute, 40, 35–51. [in Chinese]
+Reijnen, B.T., van der Meij, S.E.T. & van Ofwegen, L.P. (2011) Fish, fans and hydroids: host species of pygmy seahorses. 
+ZooKeys, 103, 1–26.
+	
+https://doi.org/10.3897/zookeys.103.953
+Shepherd, B., Wandell, M. & Ross, R. (2017) Mating, birth, larval development and settlement of Bargibant's pygmy seahorse, 
+Hippocampus bargibanti (Syngnathidae), in aquaria. Aquaculture, Aquarium, Conservation & Legislation, 10 (5), 1049–
+1063.
+Short, G., Claassens, L., Smith, R., De Brauwer, M., Hamilton, H., Stat, M. & Harasti, D. (2020) Hippocampus nalu, a new 
+species of pygmy seahorse from South Africa, and the first record of a pygmy seahorse from the Indian Ocean (Teleostei, 
+Syngnathidae). ZooKeys, 934, 141–156.
+	
+https://doi.org/10.3897/zookeys.934.50924
+Short, G., Smith, R., Motomura, H., Harasti, D., Hamilton, H. (2018) Hippocampus japapigu, a new species of pygmy seahorse 
+from Japan, with a redescription of H. pontohi (Teleostei, Syngnathidae). ZooKeys, 779, 27–49.
+	
+https://doi.org/10.3897/zookeys.779.24799
+Smith, R.E., Grutter, A.S. & Tibbetts, I.R. (2012) Extreme habitat specialisation and population structure of two gorgonian-
+associated pygmy seahorses. Marine Ecology Progress Series, 444, 195–206.
+	
+https://doi.org/10.3354/meps09471
+Teske, P.R., Cherry, M.I. & Matthee, C.A. (2004) The evolutionary history of seahorses (Syngnathidae: Hippocampus): molecular 
+data suggest a West Pacific origin and two invasions of the Atlantic Ocean. Molecular Phylogenetics and Evolution, 30, 
+273–286.
+	
+https://doi.org/10.1016/S1055-7903(03)00214-8
+Tsai, P.C., Yeh, H.M., Chan, B.K.K. & Chan, T.Y. (2009) Comparison between the catch composition of the French and ORE type 
+beam trawls on deep-sea decapod crustaceans: implications for quantitative sampling of the deep-sea decapod biodiversity. 
+Crustaceana, 82 (5), 565–591.
+	
+https://doi.org/10.1163/156854008X390326
+Weng, J.S., Cheng, L.C., Lo, Y.S., Shiao, J.C., He, J.S., Lee, M.A. & Liu, K.M. (2021) Demographics of Scomberomorus 
+commerson in the central Taiwan Strait. Journal of Marine Science and Engineering, 9, 1346.
+	
+https://doi.org/10.3390/jmse9121346
+Whitley, G.P. (1970) Bargibant’s sea-horse from New Caledonia. Proceedings of the Linnean Society of New South Wales, 94 
+(3), 294.
 

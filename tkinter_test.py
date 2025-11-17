@@ -3,8 +3,6 @@ from tkinter.ttk import *
 from tkinter import filedialog, messagebox
 from matcher import findContributions
 
-
-
 def select_open_selection():
     new_window = tk.Toplevel(master)
     new_window.geometry("900x600")

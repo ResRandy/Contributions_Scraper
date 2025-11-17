@@ -3,8 +3,6 @@ import os
 
 def findContributions(files):
     ending = "" # Initialize an empty string to store results
-
-
     for f in files:
         doc = pymupdf.open(f)
         out = open("output.txt", "wb") # create a text output
@@ -35,7 +33,6 @@ def findContributions(files):
             detected_seahorse = False
             if "Seahorse" or "seahorse" in article:
                 detected_seahorse = True
-
 
             if detected_zoos:
                 ending = f"\n {ending}\n{os.path.basename(f)}\n"
@@ -91,3 +88,6 @@ def main():
                     print(f"Zoo/Aquarium detected: {zoo}")
                 if detected_seahorse:
                     print("The word seahorse is mentioned in article")
+
+if __name__ == "main":
+    main()

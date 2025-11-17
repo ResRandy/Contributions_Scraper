@@ -57,7 +57,7 @@ top.pack(fill="x")
 tk.Label(
     top,
     text="Please select the PDFs you want to scrape for scientific Contributions",
-    font=("Lucida Handwriting", 10, "bold"),
+    font=("", 10, "bold"),
     bg="#2F2F42",
     fg="white"
 ).pack(pady=5)
@@ -66,7 +66,7 @@ findFileButton = tk.Button(
     top,
     text="open file explorer",
     command=open_file_dialog,
-    font=("Lucida Handwriting", 14, "bold"),
+    font=("", 14, "bold"),
     bg="#242431",
     fg="white",
     bd=5,
@@ -79,7 +79,7 @@ text_area = tk.Text(
     wrap='word',
     height=10,
     bg = "#242424",
-    font=("Lucida Handwriting", 12),
+    font=("", 12),
     fg="white"
 )
 text_area.pack(pady=20, expand=True, fill='both')

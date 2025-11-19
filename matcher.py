@@ -3,7 +3,8 @@ import os
 import re
 
 def findContributions(files):
-    ending = "" # Initialize an empty string to store results
+    #ending = "" # Initialize an empty string to store results
+    results = []
 
 
     for f in files:
@@ -58,21 +59,26 @@ def findContributions(files):
             #else:
             #    print("The word seahorse is not mentioned in article")               
                 
-        ending += "File Name: " + os.path.basename(f) + "\n"
+        text_block = []
+        #results.append("File Name: " + os.path.basename(f) + "\n")
         if detected_zoos:
             for zoo in detected_zoos:
-                ending += f"Zoo/Aquarium detected: {zoo}\n"
+                text_block.append(f"Zoo/Aquarium detected: {zoo}\n")
         else:
-            ending += "No Zoo/Aquarium detected\n"
+            text_block.append("No Zoo/Aquarium detected\n")
 
         if detected_seahorse:
-            ending += f"Seahorses mentioned {seahorse_mentions} times\n"
+            text_block.append(f"Seahorses mentioned {seahorse_mentions} times\n")
         else:
-            ending += "Seahorses not mentioned\n"
+            text_block.append("Seahorses not mentioned\n")
 
-        ending += "\n"
+        block = "".join(text_block) + "\n"
 
-    return ending
+        results.append(block)
+
+        
+
+    return results
 
 
 

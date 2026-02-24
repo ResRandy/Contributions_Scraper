@@ -6,8 +6,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import os
 
-
-
 def open_file_dialog():
     try:
         file_path = filedialog.askopenfilenames(

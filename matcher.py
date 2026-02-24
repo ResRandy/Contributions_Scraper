@@ -1,11 +1,58 @@
 import pymupdf
 import os
+import platform
 import re
+import pandas as pd
+from pdfrw import PdfReader
 
+def get_downloads_folder():
+    """
+    Returns the path to the user's Downloads folder.
+    """
+    if platform.system() == "Windows":
+        # Uses the well-known folder ID for Downloads in Windows Registry
+        import winreg
+        try:
+            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders") as key:
+                return winreg.QueryValueEx(key, "{374DE290-123F-4565-9164-39C4925E467B}")[0]
+        except Exception:
+            # Fallback for general cases, often "C:\\Users\\YourUser\\Downloads"
+            return os.path.join(os.path.expanduser('~'), 'Downloads')
+    elif platform.system() == "Darwin": # macOS
+        return os.path.join(os.path.expanduser('~'), 'Downloads')
+    elif platform.system() == "Linux":
+        # XDG user directories standard for Linux
+        try:
+            import subprocess
+            return subprocess.check_output(['xdg-user-dir', 'DOWNLOAD']).strip().decode('utf-8')
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            # Fallback for general cases, often "~/Downloads"
+            return os.path.join(os.path.expanduser('~'), 'Downloads')
+    else:
+        # Generic fallback
+        return os.path.join(os.path.expanduser('~'), 'Downloads')
+    
 def findContributions(files):
     #ending = "" # Initialize an empty string to store results
     results = []
+    dataframeDict = {'Article Name': [], 'DOI': [], 'Detected Zoos/Aquariums': [], 'Seahorse Mentions': []}
 
+    def renameFileToPDFTitle(fileName):
+        fullName = fileName
+        # Extract pdf title from pdf file
+
+        try:
+            newName = PdfReader(fullName).Info.Title
+            newNameSplit = newName.split()
+        except:
+            print("No metadata available :(")
+        else:
+            # Remove surrounding brackets that some pdf titles have, only take first four words
+            newName = " ".join(newNameSplit[:4])
+            newName = re.sub(r'[^a-zA-Z0-9\' ]', '', newName)
+            newName = newName.strip('()') + '.pdf'
+
+        return newName
 
     for f in files:
         doc = pymupdf.open(f)
@@ -15,6 +62,8 @@ def findContributions(files):
             out.write(text) # write text of page
             out.write(bytes((12,))) # write page delimiter (form feed 0x0C)
         out.close()
+        print(f)
+        name = renameFileToPDFTitle(f)
 
         #zoo_list = []
 
@@ -34,6 +83,17 @@ def findContributions(files):
             # replace remaining hyphens with spaces so names like 'Sea-Life' -> 'sea life'
             article = article.replace("-", " ")
             article = re.sub(r"\s+", " ", article).lower()
+            
+            # Extract DOI from the PDF text
+            text = article
+            # Regular expression to find a DOI
+            # This pattern is a common way to identify DOIs
+            doi_pattern = r'\b(10\.\d{4,}\/[^\s]+)\b'
+            match = re.search(doi_pattern, text, re.IGNORECASE)
+            if match:
+                dataframeDict['DOI'].append(match.group(1))
+            else:
+                dataframeDict['DOI'].append("DOI not found")
             
             detected_zoos = []
             for zoo in zoo_list:
@@ -76,81 +136,82 @@ def findContributions(files):
 
         results.append(block)
 
-        
+        #n = renameFileToPDFTitle(f)
+        dataframeDict['Article Name'].append(name)
+        dataframeDict['Detected Zoos/Aquariums'].append(", ".join(detected_zoos) if detected_zoos else "None")
+        dataframeDict['Seahorse Mentions'].append(seahorse_mentions)
+    df = pd.DataFrame(dataframeDict)
+    df.to_excel(get_downloads_folder() + "\\contribution_results.xlsx", index=False)
 
     return results
 
+# def main():
+#     files = [f for f in os.listdir("Articles") if os.path.isfile(os.path.join("Articles", f))]
 
+#     #TESTING_ARTICLE = "C:\Users\jacob\Coding\Contributions_Scraper\Articles\k822_pp717-721.pdf"
+#     for f in files:
+#         doc = pymupdf.open("Articles/" + f)
+#         out = open("output.txt", "wb") # create a text output
+#         for page in doc: # iterate the document pages
+#             text = page.get_text().encode("utf8") # get plain text (is in UTF-8)
+#             out.write(text) # write text of page
+#             out.write(bytes((12,))) # write page delimiter (form feed 0x0C)
+#         out.close()
 
+#         zoo_list = []
 
-def main():
-    files = [f for f in os.listdir("Articles") if os.path.isfile(os.path.join("Articles", f))]
+#         # Transform the zoo list from leon's world to an array of names
+#         with open("zoo_aquarium_list.txt", 'r', encoding='utf8') as zoos:
+#             zoo_list = [re.sub(r"\s+", " ", z.strip().lower().replace("-", " ")).strip() for z in zoos]
 
-    TESTING_ARTICLE = "Articles/Aquatic Conservation - 2012 - Caldwell - Revisiting two sympatric European seahorse species  apparent decline in the.pdf"
-
-    for f in files:
-        doc = pymupdf.open("Articles/" + f)
-        out = open("output.txt", "wb") # create a text output
-        for page in doc: # iterate the document pages
-            text = page.get_text().encode("utf8") # get plain text (is in UTF-8)
-            out.write(text) # write text of page
-            out.write(bytes((12,))) # write page delimiter (form feed 0x0C)
-        out.close()
-
-        zoo_list = []
-
-        # Transform the zoo list from leon's world to an array of names
-        with open("zoo_aquarium_list.txt", 'r', encoding='utf8') as zoos:
-            zoo_list = [re.sub(r"\s+", " ", z.strip().lower().replace("-", " ")).strip() for z in zoos]
-
-        # Parse the article txt and search for matches with every zoo name from leon
-        file_name = "output.txt"
-        with open(file_name, 'r', encoding='utf8') as file:
-            article = " ".join(line.rstrip() for line in file)
-            article = article.replace("-\n", "")
-            article = article.replace("-", " ")
-            article = re.sub(r"\s+", " ", article)
+#         # Parse the article txt and search for matches with every zoo name from leon
+#         file_name = "output.txt"
+#         with open(file_name, 'r', encoding='utf8') as file:
+#             article = " ".join(line.rstrip() for line in file)
+#             article = article.replace("-\n", "")
+#             article = article.replace("-", " ")
+#             article = re.sub(r"\s+", " ", article)
             
-            detected_zoos = []
-            for zoo in zoo_list:
-                if zoo in article:
-                    detected_zoos.append(zoo)
+#             detected_zoos = []
+#             for zoo in zoo_list:
+#                 if zoo in article:
+#                     detected_zoos.append(zoo)
             
 
-            pruned = []
-            for z in detected_zoos:
-                if not any(z != other and z in other for other in detected_zoos):
-                    if z not in pruned:
-                        pruned.append(z)
-            detected_zoos = pruned
+#             pruned = []
+#             for z in detected_zoos:
+#                 if not any(z != other and z in other for other in detected_zoos):
+#                     if z not in pruned:
+#                         pruned.append(z)
+#             detected_zoos = pruned
 
          
-            matches = re.findall(r"\bseahorses?\b", article)
-            seahorse_mentions = len(matches)
-            detected_seahorse = seahorse_mentions > 0
+#             matches = re.findall(r"\bseahorses?\b", article)
+#             seahorse_mentions = len(matches)
+#             detected_seahorse = seahorse_mentions > 0
             
             
             
-            #if "seahorse" in article or "seahorses" in article:
-            #    detected_seahorse = True
-            #    seahorse_mentions = article.count("seahorse") + article.count("seahorses")
-                #if detected_seahorse:
-                #    print("The word seahorse is mentioned in article", seahorse_mentions, " times")
-                #else: 
-                #    print("The word seahorse is not mentioned in article")                
+#             #if "seahorse" in article or "seahorses" in article:
+#             #    detected_seahorse = True
+#             #    seahorse_mentions = article.count("seahorse") + article.count("seahorses")
+#                 #if detected_seahorse:
+#                 #    print("The word seahorse is mentioned in article", seahorse_mentions, " times")
+#                 #else: 
+#                 #    print("The word seahorse is not mentioned in article")                
 
 
-        print("\n" + f)
+#         print("\n" + f)
 
-        if detected_zoos:
-            for zoo in detected_zoos:
-                print(f"Zoo/Aquarium detected: {zoo}")
-        else:
-            print("No Zoo/Aquarium detected in", f)
+#         if detected_zoos:
+#             for zoo in detected_zoos:
+#                 print(f"Zoo/Aquarium detected: {zoo}")
+#         else:
+#             print("No Zoo/Aquarium detected in", f)
 
-        if detected_seahorse:
-            print(f"Seahorses mentioned {seahorse_mentions} times")
-        else:
-            print("Seahorses not mentioned")
+#         if detected_seahorse:
+#             print(f"Seahorses mentioned {seahorse_mentions} times")
+#         else:
+#             print("Seahorses not mentioned")
 
-                
+# main()

@@ -39,18 +39,28 @@ def findContributions(files):
 
     def renameFileToPDFTitle(fileName):
         fullName = fileName
+        fallback_name = os.path.basename(fileName)
         # Extract pdf title from pdf file
 
         try:
-            newName = PdfReader(fullName).Info.Title
-            newNameSplit = newName.split()
-        except:
-            print("No metadata available :(")
+            info = PdfReader(fullName).Info
+            newName = info.Title if info else None
+            if not newName:
+                return fallback_name
+
+            newNameSplit = str(newName).split()
+        except Exception:
+            return fallback_name
+
         else:
             # Remove surrounding brackets that some pdf titles have, only take first four words
             newName = " ".join(newNameSplit[:4])
             newName = re.sub(r'[^a-zA-Z0-9\' ]', '', newName)
-            newName = newName.strip('()') + '.pdf'
+            newName = newName.strip('()')
+            if not newName:
+                return fallback_name
+
+            newName = newName + '.pdf'
 
         return newName
 

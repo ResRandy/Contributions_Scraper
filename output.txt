@@ -1,57 +1,1245 @@
-(302) 563-1038
-cammy19709@gmail.com
-1207 Pimpernell Path,
-Middletown, DE 19709
-PROFILE
-SKILLS
-Motivated individual with a strong
-passion for helping others and creating
-positive experiences. I thrive in fast-
-paced environments and I enjoy working
-closely with a team to provide excellent
-service. I am currently looking for a part-
-time opportunity to continue to build my
-skillset. 
-CPR Certified
-Customer Service
-Teamwork
-Time Management
-Leadership
-Effective Communication
-Critical Thinking
-AWARDS
-Starbucks, 2023
-MUG Award (Moves of
-Uncommon Greatness)
-For consistently supporting
-the team, providing coverage
-Cameron
-Nguyen
-EDUCATIONAL HISTORY
-Esthetician Program
-Paul Mitchell The School Delaware
-Starting Fall 2025
-GPA: 4.1
-Allied Health Pathway
-Involved in several clubs including HOSA, BPA,
-NHS, Science Olympiad, and Best Buddies
-Participated in Unified Cheerleading
-Middletown High School
-2020-2024
-WORK EXPERIENCE
-Crafted quality drinks
-Cleaned the cafe
-Prepared food quickly
-Efficiently took drive-thru calls
-Checked customers out at the
-front register/drive-thru
-Barista
-Starbucks  | 2023-2024
-Cared for children ages 3-7
-Maintained cleanliness of the house
-Planned activities for the children
-Provided children with snacks
-Babysitter
-3 Children | 2022-2023
-References available upon request
+Use of isotopic and elemental
+ﬁngerprints for seahorse species
+discrimination and traceability of
+geographic origin
+Ana Elisa Cabral 1, Ricardo Calado 1*, Jorge Palma 2,
+Fernando Ricardo 1, Eduardo Ferreira da Silva 3,
+Carla Patinha 3 and Miquel Planas 4*
+1ECOMARE - Laboratory for Innovation and Sustainability of Marine Biological Resources, CESAM -
+Centre for Environmental and Marine Studies, Department of Biology, University of Aveiro,
+Aveiro, Portugal, 2CCMAR - Centro de Cieˆ ncias do Mar, University of Algarve, Faro, Portugal,
+3GEOBIOTEC - Department of Geosciences, University of Aveiro, Aveiro, Portugal, 4INMARE - Department
+of Marine Ecology and Resources, Instituto de Investigaciones Marinas (IIM-CSIC), Vigo, Spain
+Seahorses (Hippocampus spp.; Family Syngnathidae) are mainly targeted by
+Traditional Chinese Medicine, curio and ornamental trade, as dried or live
+specimens. Traceability tools may help ﬁll the gaps on supply chains, securing
+information on geographic origin and identiﬁcation of traded specimens. Fin-
+clipping, a non-lethal and well-established method in seahorse research, offers a
+potential approach to trace the geographic origin and certify the aquaculture of
+these ﬂagship species. As such, this study aimed to investigate the existence of
+differences in isotopic proﬁles of four seahorse species cultured at research
+centers located in southern Portugal and northern Spain, as well as between
+cultured Hippocampus guttulatus sourced from two research centers, and
+between wild and cultured specimens of this species. This research also
+evaluated the potential of combining isotopic and elemental ﬁngerprints for
+seahorse species discrimination, through inductively continuous-ﬂow isotope
+ratio mass spectrometry (IR-MS) and plasma mass spectrometry (ICP-MS).
+Species cultured at the same research centers exhibited similar stable isotope
+composition (d13C and d15N), except in the case of temperate H. guttulatus from
+northern Spain, which differed signiﬁcantly from tropical species H. kuda and H.
+reidi. These differences could be due to phylogenetic dissimilarities and differences
+in seawater temperature. The d15N composition allowed to discriminate between
+cultured H. guttulatus from the two research centers and between cultured and
+wild specimens. While dorsal ﬁn isotopes alone did not prove to be a reliable tool
+for the discrimination of different cultured species, combining them with elemental
+proﬁles from seahorses’ whole-body allowed to successfully discriminate between
+Frontiers in Marine Science
+frontiersin.org
+01
+OPEN ACCESS
+EDITED BY
+Ana M. Faria,
+University of Porto, Portugal
+REVIEWED BY
+Dilian Noemi Anguas Cabrera,
+The South Border College (ECOSUR), Mexico
+Sule Gurkan,
+Ege University, Türkiye
+*CORRESPONDENCE
+Miquel Planas
+mplanas@iim.csic.es
+Ricardo Calado
+rjcalado@ua.pt
+RECEIVED 11 September 2024
+ACCEPTED 04 November 2024
+PUBLISHED 20 November 2024
+CITATION
+Cabral AE, Calado R, Palma J, Ricardo F,
+Ferreira da Silva E, Patinha C and Planas M
+(2024) Use of isotopic and elemental
+ﬁngerprints for seahorse species
+discrimination and traceability of
+geographic origin.
+Front. Mar. Sci. 11:1494320.
+doi: 10.3389/fmars.2024.1494320
+COPYRIGHT
+© 2024 Cabral, Calado, Palma, Ricardo, Ferreira
+da Silva, Patinha and Planas. This is an open-
+access article distributed under the terms of
+the Creative Commons Attribution License
+(CC BY). The use, distribution or reproduction
+in other forums is permitted, provided the
+original author(s) and the copyright owner(s)
+are credited and that the original publication
+in this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+TYPE Original Research
+PUBLISHED 20 November 2024
+DOI 10.3389/fmars.2024.1494320
+H. kuda and H. reidi. This preliminary research demonstrates the potential of
+stable isotope and elemental analyses for tracing seahorses’ geographic origin
+and species identiﬁcation. However, further research should be performed to
+validate these ﬁndings for wild specimens, particularly those from illegal,
+unreported and unregulated (IUU) ﬁsheries and trade.
+KEYWORDS
+syngnathids, Hippocampus spp., trophic niche, stable isotopes, ﬁn clipping, ICP-MS,
+geochemical tools
+1 Introduction
+Seahorses (Hippocampus spp.) are marine teleosts that belong to
+family Syngnathidae, alongside pipeﬁshes, pipehorses and
+seadragons (Foster and Vincent, 2004). These ﬂagship species,
+whose appealing looks may contribute to their conservation,
+along with that of habitats they occupy (Cohen et al., 2017), are
+particularly vulnerable to anthropogenic pressures (Correia et al.,
+2015), such as habitat degradation (Vivas et al., 2023; Watchorn
+et al., 2022), overﬁshing (Cohen et al., 2017) and bycatch
+(Vaidyanathan and Vincent, 2021). Features such as reduced
+mobility, patchy distribution, habitat ﬁdelity, monogamy and low
+fecundity exacerbate their vulnerability (Foster and Vincent, 2004).
+Hippocampus spp. were included, in 1996, in the Red List of
+Threatened Species from International Union for Conservation of
+Nature (IUCN) (Vincent et al., 2011).Two seahorse species, from
+the forty-two already described, are listed as endangered (EN),
+twelve listed as vulnerable (VU) and seventeen species, for which
+available information is scarce, are classiﬁed as Data Deﬁcient (DD)
+(IUCN, 2023). Seahorses were also formally added in 2004, to
+Appendix II of the Convention on International Trade in
+Endangered Species of Wild Fauna and Flora (CITES), due to
+high pressure exerted on wild populations. Species included in
+Appendix II of CITES may be traded, with national government’s
+approval, as long as these practices do not add pressure to wild
+populations (Kuo et al., 2018). Seahorses are extensively traded,
+supplying demand in the form of dried specimens, targeted by
+Traditional Chinese Medicine (TCM) and curio trade (Boehm et al.,
+2023), as well as live specimens destined to the marine aquarium
+trade (Kuo and Vincent, 2018).
+Traceability tools may contribute to ﬁll gaps, along supply
+chains, and potentially provide origin certiﬁcation, allowing
+consumers to make informed and sustainable choices (Cohen
+et al., 2013; Duarte et al., 2022; Leal et al., 2015). Initial studies
+explored the use of bacterial communities from live seahorse skin
+mucus to trace their geographic origin (Cohen et al., 2018).
+Additionally, elemental analysis of bony structures (vertebrae and
+bony plates) showed promise for tracing the geographic origin of
+dried cultured H. guttulatus specimens (Cabral et al., 2021).
+Species identiﬁcation in syngnathids can be challenging (Curtis
+et al., 2017), as some species lack distinctive characteristics, and
+intraspeciﬁc variability, such as in color or number of cirri, may
+hamper species discrimination (Curtis, 2006; Woodall et al., 2018).
+Genetic studies have already been performed for seahorse species
+differentiation, which is of major importance for understanding
+seahorse life-history and ecology, and the application of effective
+conservation measures (Luo et al., 2015; Woodall et al., 2018). Metal
+and element contents have also revealed species-speciﬁc differences
+in two closely related ﬁsh species, Sardina pilchardus and Engraulis
+encrasicolus, sampled at the same geographic locations, indicating
+that elemental ﬁngerprints could be strongly inﬂuenced by species
+factor (Sofoulaki et al., 2018).
+Geochemical tools offer a relatively fast and cost-effective
+approach compared to other molecular and biochemical tools
+(Leal et al., 2015), being potentially valuable for the traceability of
+geographic origin and discrimination of seahorse species
+apprehended from illegal, unreported, and unregulated (IUU)
+ﬁsheries and trade. Stable isotope analysis (SIA) is a helpful tool
+for studying food-webs (Fredriksen, 2003; Fry, 1988; Post, 2002),
+including seahorse trophic niches and ecological features (Piñeiro-
+Corbeira et al., 2021; Valladares and Planas, 2020; Valladares et al.,
+2016). Carbon and nitrogen stable isotope ratios (13C/12C and
+15N/14N, respectively) are frequently employed in ecological
+studies, with carbon indicating food sources and nitrogen
+reﬂecting trophic position (Valladares and Planas, 2012).
+However, consumers typically exhibit higher d13C and d15N
+values than their prey due to the fractionation of lighter isotopes
+(DeNiro and Epstein (1978, 1981). Given the conservation status of
+many Hippocampus species (IUCN, 2023), non-lethal techniques
+such as partial ﬁn-clipping (Piñeiro-Corbeira et al., 2021; Planas,
+2021; Planas et al., 2020a; Valladares et al., 2016; Woodall et al.,
+2012), have been employed for SIA in seahorses, providing a
+suitable matrix with similar isotopic composition to muscle
+tissues (Valladares and Planas, 2012).
+Stable isotope analysis of dorsal ﬁns could be considered an
+interesting non-lethal technique to trace and certify the origin of
+seahorse specimens. As such, to assess the reliability of this tool, this
+study aimed to: i) describe the dorsal ﬁns’ isotopic ﬁngerprints
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+02
+(d13C and d15N) in wild and cultured Hippocampus spp.
+(H. guttulatus, H. hippocampus, H. reidi and H. kuda); ii) assess
+the existence of isotopic differences among seahorse species
+cultured at the same research centers (Instituto de Investigaciones
+Marinas - IIM, Vigo, Spain or Centro de Ciências do Mar -
+CCMAR, Faro, Portugal), in cultured H. guttulatus originating
+from two different research centers (IIM or CCMAR), and
+between wild H. guttulatus (Ria Formosa coastal lagoon,
+Portugal) and cultured H. guttulatus; and iii) evaluate the
+potential of combining dorsal ﬁn isotopes and whole-body
+elemental ﬁngerprints for species discrimination when isotopic
+ﬁngerprints alone may not be sufﬁcient.
+2 Materials and methods
+2.1 Bioethics
+Animal capture, handling and sampling followed all bioethical
+standards of the Spanish Government (Real Decreto 1201/2005,
+10th October 2005) and the Regional Government Xunta de Galicia
+(REGA ES360570202001/15/FUN/BIOL.AN/MPO01).
+Additionally, the captive breeding program for H. hippocampus
+and H. guttulatus (Project HIPPONUTRE, reference 16-02-01-
+FMP-54) was approved by the ethics committee from the
+Portuguese Veterinary Medicines Directorate for the Ministry of
+Agriculture, Rural Development and Fisheries. Under this approval,
+the program was performed in compliance with the Guidelines of
+the European Union Council (86/609/EU) and Portuguese
+legislation for the use of laboratory animals. Frozen samples of
+wild H. guttulatus, were donated by CCMAR. The protocol for ﬁsh
+sacriﬁce allowed to immediately and rapidly euthanize H. guttulatus
+specimens with an excess of anesthetic (2-phenoxyethanol solution,
+0.40 mg/L). Individuals were placed in the anesthetic solution for at
+least 20 minutes and removed not less than 10 minutes after
+ventilation stopped.
+2.2 Seahorse samples
+Seven wild H. guttulatus were sampled from Ria Formosa
+coastal lagoon (36°59’ N; 7°51’ W; southern Atlantic coast;
+Portugal), in 2001. Seven H. hippocampus and six H. guttulatus
+were cultured at CCMAR (University of Algarve, Faro, Portugal)
+and died, from natural causes, in the year 2020. These seahorses
+were maintained in seawater from Ria Formosa coastal lagoon and
+physicochemical parameters, temperature and salinity, followed
+seasonal patterns with annual mean values of 20°C and 35.7,
+respectively. In the present study, the Practical Salinity Scale
+(PSS) was adopted to report salinity (IAPSO, 1985). Therefore,
+salinity is expressed as a conductivity ratio and has no units.
+Hippocampus guttulatus and H. hippocampus were fed on wild
+mysids Mesopodopsis slabberi and/or Diamysis lagunaris.,
+depending on natural availability. Eight H. guttulatus and nine H.
+reidi and H. kuda (ﬁve replicates of H. reidi and four replicates of H.
+kuda), were cultured at IIM (CSIC, Vigo, Spain), presenting death
+dates between 2013 and 2019. These seahorses were cultured in
+seawater from Rı́a de Vigo (42°21 N; 8°36’ and 8°54’ W;
+southwestern Atlantic coast; Galicia, Spain), being maintained at
+seasonal temperatures of 15°C (winter) and 19°C (summer), in the
+case of H. guttulatus and at a constant temperature of 26 ± 0.5°C, in
+the case of H. reidi and H. kuda. The salinity mean value (37 ± 1)
+was the same for the three species. Specimens cultured at IIM were
+fed on mixtures of adult enriched Artemia (Iberfrost, Spain),
+commercially frozen mysids Neomysis sp. (Ocean Nutrition,
+Spain) and mysids collected from the wild (Siriella armata and
+Leptomysis sp.).
+In the laboratory, seahorse samples frozen at -20°C, were
+rapidly rinsed with distilled water and freeze-dried (CoolSafe 55-
+9L Pro, Labogene, Lillerød, Denmark). The dorsal ﬁns were
+separated from the rest of the body (Figure 1) with the help of
+stainless-steel tweezers and cut into smaller portions with ceramic
+blades, before performing isotopic analysis. Tweezers and ceramic
+blades were cleaned with 99% (w/v) ethanol, between replicates of
+each species, to avoid cross contamination.
+The whole-body replicates from species H. kuda and H. reidi
+(n = 9) (Figure 1), were cut into smaller portions and manually
+macerated with liquid nitrogen, using a ceramic mortar and pestle.
+Samples were then placed in a mortar grinder (RM 200, Retsch,
+Hann, Germany) and homogenized. The mortar grinder and the
+ceramic mortar and pestle were cleaned with quartz powder and
+alcohol (70%), between samples, to avoid cross contamination
+(Ricardo et al., 2020). For acidic digestion, a subsample from the
+whole-body, of approximately 0.5 g was employed.
+2.3 Stable isotope analysis
+Fin samples, used for determining d13C and d15N, were
+transferred to tin capsules and weighed (2.22 ± 0.66 mg). Sample
+analysis was performed at Servizos de Apoio á Investigación (SAI)
+from University of A Coruña, by a continuous-ﬂow isotope ratio
+mass spectrometry equipment (FlashEA1112 elemental analyzer,
+Thermo Finnigan, Italy) coupled to a Delta Plus mass spectrometer
+(FinniganMat, Germany) through a Conﬂo II interface. Carbon and
+nitrogen isotopic values were expressed as permil (‰), relative to
+Vienna Pee Dee Belemnite (VPDB) and atmospheric air, as
+described in the following equation:
+dX   = (( R   sample
+R   standard ) −1)    103
+X corresponds to 13C or 15N and R to ratios 13C/12C or 15N/14N.
+International reference materials for 13C (NBS 22, IAEA-CH-6 and
+USGS24) and 15N (IAEA-N-1, IAEA-N-2 and USGS25) were
+employed in analytical sample batch runs. To evaluate the
+precision in the analysis of d13C and d15N, acetanilide was used,
+resulting in a standard deviation of ± 0.15‰ (1-sigma, n = 10).
+Standards were run in every 10 samples. The isotopic analysis
+procedure fulﬁls the requirements of the ISO 9001 standard. The
+laboratory is submitted to annual intercalibration exercises (e.g.,
+Forensic isotope ratio mass spectrometry scheme - FIRMS, LGC
+Standards, UK).
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+03
+2.4 Elemental extraction and ICP-
+MS analysis
+The acidic digestion of the samples consisted in the addition of
+3 mL of concentrated nitric acid (HNO3) and 1 mL of hydrochloric
+acid. After overnight digestion (14 - 16 h), the solutions were placed
+in a digestion block (DigiPrep, SCP Science; Montreal, QC, Canada)
+and three heating cycles were performed. These consisted in the
+increase, for 10 minutes, from room temperature to 50°C, which
+was kept stable during a period of 15 minutes. Temperature was
+then increased, in 15 minutes, from 50°C to 85°C and stabilized for
+another period of 15 minutes. The three heating cycles were
+interspersed with the addition of 2 mL of hydrogen peroxide. The
+drying process was performed in the digestion block at a
+temperature of 50°C. After evaporation, samples were diluted
+with Millipore water (Milli–Q) to a ﬁnal concentration of 1-2%
+HNO3, to reduce acid concentration and avoid damaging the
+inductively coupled plasma mass spectrometry (ICP-
+MS) equipment.
+Total concentrations of 21 elements, aluminum (Al), arsenic
+(As), boron (B), barium (Ba), calcium (Ca), cobalt (Co), chromium
+(Cr), copper (Cu), iron (Fe), potassium (K), lithium (Li),
+magnesium (Mg), manganese (Mn), sodium (Na), nickel (Ni),
+phosphorus (P), rubidium (Rb), selenium (Se), strontium (Sr),
+vanadium (V) and zinc (Zn), were determined in an Agilent 7700
+ICP-MS (Agilent Technologies, Santa Clara, CA, USA) equipped
+with an octopole collision cell and autosampler. Calibrations with
+standard solutions of each analyte were performed for element
+quantiﬁcation. A quality program, with reagent blanks, replicate
+samples and two certiﬁed reference materials, Febs-1 (NRC
+Canada) and ERM-BB422 (JRC - European Commission), was
+employed in order to evaluate the accuracy of the ICP-MS
+method. Precision was estimated by the relative standard
+deviation (RSD) of replicate samples, being ≤10%. The elements’
+concentrations were expressed as ratios of Ca (mmol/mol Ca) for
+posterior statistical analyses (Ricardo et al., 2017).
+2.5 Data analysis
+Statistical analyses were performed using the software R v.4.3.2
+(R Core Team, 2019) and PRIMER v6 (Primer-e, Auckland, New
+Zealand) with the add-on PERMANOVA+. Niche regions and
+niche overlap of seahorses cultured in the same research centers
+(IIM or CCMAR), cultured H. guttulatus from different origins and
+wild and cultured H. guttulatus, were analyzed through a
+multidimensional d13C and d15N bi-plot. The region of the niche
+was considered the probability of the density function, of both
+isotopes, at a conﬁdence interval of 95%. The bi-plot accounts for
+species-speciﬁc distribution and bivariate projections of the niche
+regions (Swanson et al., 2015). The package Siber v.2.1.4, from R
+software, was used to obtain total convex hull areas (TA), which
+consist in a polygon that is drawn around the outermost points in
+the data, as well as trophic niche areas, corrected for small sample
+sizes (SEAc) (Jackson, 2023).The probability of trophic overlap, at a
+conﬁdence interval of 95%, was estimated through NicheRover
+v.1.1.0 package, which uses Bayesian corrections (Swanson
+et al., 2015).
+To assess the existence of signiﬁcant differences (p-value ≤0.05)
+in the isotopic proﬁles (d13C and d15N) of ﬁn samples from the four
+cultured seahorse species (H. reidi, H. kuda, H. guttulatus, and H.
+hippocampus), the groups originating from the same center (IIM or
+FIGURE 1
+General scheme of the experimental design and matrices (dorsal ﬁn and whole-body) applications. Number 1 denotes for stable isotopic analysis and
+number 2 for elemental analysis. IIM - Instituto de Investigaciones Marinas (CSIC, Vigo, Spain), CCMAR - Centro de Ciências do Mar (Faro, Portugal)
+and RF - Ria Formosa coastal lagoon (Portugal). Seahorse ﬁgure adapted from the graphical design platform Canva (https://www.canva.com/).
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+04
+CCMAR), were compared through non-parametric analysis of
+similarities (ANOSIM). This analysis was performed on a
+resemblance matrix, which used normalized Euclidean distances.
+Additionally, isotopic ﬁngerprints of wild and cultured H.
+guttulatus, cultured H. guttulatus specimens from CCMAR and
+IIM, as well as combined isotopic and elemental proﬁles of two
+cultured seahorse species (H. kuda and H. reidi), were analyzed
+using ANOSIM. The R statistic of this test can range from 0 to 1,
+which allows to measure differences between groups (Anderson
+et al., 2008).The ANOSIM tests were run with 9999 permutations.
+Due to the low number of replicates and after performing a Shapiro-
+Wilk test, for normality assessment, a non-parametric version of the
+t-test for unpaired samples (Mann -Whitney U) was performed in
+the raw data. This statistical analysis allowed to compare pairs of
+sample groups, in terms of stable isotopes of cultured seahorse
+species and cultured and wild H. guttulatus, as well as in terms of
+element composition of two cultured species. The Benjamini -
+Hochberg correction was applied whenever multiple comparisons
+were performed.
+To evaluate the potential of using combined elemental and
+isotopic proﬁles for species discrimination, Principal Component
+Analysis (PCA) was performed on normalized data. Both stable
+isotopes (d13C and d15N), as well as elements that differed
+signiﬁcantly (p-value ≤0.05, Mann-Whitney U) between two
+cultured seahorse species (H. kuda and H. reidi) were selected for
+PCA. The packages factoMineR (Husson et al., 2020), factoextra
+v1.0.7 (Kassambara, 2020) and corrplot v0.8.4 (Wei et al., 2017),
+from R software, were used for PCA.
+All graphical representations were constructed with ggplot2
+v3.3.0 (Wickham, 2016) package for R.
+3 Results
+3.1 Isotopic proﬁle and trophic niche
+The d13C mean values of dorsal ﬁn samples from four seahorse
+species ranged between -20.38 ± 0.71‰ (H. kuda from IIM) and
+-14.37 ± 0.34‰ (H. hippocampus from CCMAR) (Table 1). In the
+case of d15N, the mean values ranged from 8.81 ± 0.31‰
+(H. hippocampus from CCMAR) to 16.34 ± 0.82‰ (H. kuda
+from IIM) (Table 1).
+Hippocampus guttulatus from CCMAR presented the largest
+standard ellipse, corrected for small sample sizes, SEAc (2.98),
+while H. hippocampus from CCMAR occupied the smallest SEAc
+(0.39) (Table 1; Figure 2). The centroids of the ellipses corresponding
+to species cultured at the same research center were positioned closer
+to each other, except in the case of H. guttulatus from IIM (Figure 2).
+Niche overlap estimates of seahorse species from IIM showed
+the highest value (55.65%) for the probability of H. kuda being
+found within the niche of H. reidi, while the lowest probability
+(0.12%) was registered for H. kuda being found within the niche of
+H. guttulatus (Table 2). In the case of seahorse species from
+CCMAR, H. hippocampus’ niche almost fully overlapped
+(95.49%) with the one of H. gutttulatus. When comparing
+H. guttulatus, cultured at different research centers (IIM and
+CCMAR), the highest probability value, even if low (2.05%), was
+registered for niche overlap of specimens from IIM and specimens
+from CCMAR. Probability of wild H. guttulatus niche overlaying
+the one from H. guttulatus, cultured at CCMAR, was higher than
+the other way around, with a value of 59.18% (Table 2).
+3.2 Potential of isotopic proﬁles for species
+and geographic origin discrimination
+The stable isotopic proﬁles (d13C and d15N) of seahorse’s
+(H. kuda, H. reidi and H. guttulatus) dorsal ﬁns from IIM were
+signiﬁcantly different (ANOSIM, p-value< 0.001). However,
+H. kuda and H. reidi did not differ signiﬁcantly in terms of
+isotopic composition (ANOSIM, p-value = 0.095), while
+H. guttulatus and H. reidi, as well as H. guttulatus and H. kuda
+were signiﬁcantly different (ANOSIM, p-value = 0.002 and 0.003,
+respectively) (Table 3). Moreover, H. guttulatus and H. reidi differed
+signiﬁcantly in d13C and d15N compositions (Mann- Whitney U,
+p-value = 0.003 for both isotopes), as was the case of H. guttulatus
+and H. kuda (Mann- Whitney U, p-value = 0.007 for both isotopes)
+(Table 3). The two species cultured at CCMAR (H. hippocampus
+and H. guttulatus) were signiﬁcantly different in terms of the
+isotopic proﬁle (ANOSIM, p-value = 0.011), even though there
+were no signiﬁcant differences for d13C and d15N (Mann- Whitney
+U, p-value = 0.317 and 0.306, respectively) (Table 3). Cultured
+H. guttulatus sourced from CCMAR and IIM differed signiﬁcantly
+in the isotopic proﬁle (ANOSIM, p-value< 0.001), with d15N as the
+variable contributing for signiﬁcant differences (Mann- Whitney U,
+p-value = 0.004). Wild H. guttulatus from Ria Formosa and cultured
+H. guttulatus from CCMAR, revealed signiﬁcant differences in the
+isotopic proﬁles (ANOSIM, p-value = 0.006), with d15N as the
+TABLE 1
+Isotopic values (d13C and d15N, mean ± standard deviation)
+from dorsal ﬁn samples of four seahorse species (Hippocampus
+guttulatus, H. kuda, H. reidi and H. hippocampus) cultured at Instituto de
+Investigaciones Marinas (IIM - CSIC, Vigo, Spain) and Centro de Ciências
+do Mar (CCMAR, Faro, Portugal), as well as wild H. guttulatus from Ria
+Formosa coastal lagoon (Portugal).
+Seahorse
+species
+d13C (‰)
+d15N (‰)
+TA
+SEA
+SEAc
+IIM
+H. guttulatus
+-15.67 ± 1.20
+11.90 ± 0.52
+2.84
+1.92
+2.23
+H. kuda
+-20.38 ± 0.71
+16.34 ± 0.82
+1.00
+1.30
+1.95
+H. reidi
+-19.52 ± 0.68
+14.89 ± 1.00
+1.48
+1.36
+1.81
+CCMAR
+H. guttulatus
+-14.73 ± 1.39
+9.17 ± 0.55
+2.67
+2.38
+2.98
+H. hippocampus
+-14.37 ± 0.34
+8.81 ± 0.31
+0.52
+0.32
+0.39
+Ria Formosa
+H. guttulatus
+-15.62 ± 1.07
+9.99 ± 0.40
+1.54
+1.00
+1.20
+Estimated niche areas for cultured species and wild H. guttulatus. TA, total convex hull area;
+SEA, standard ellipse area and SEAc, standard ellipse area with a correction for small
+sample sizes.
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+05
+variable signiﬁcantly different (Mann- Whitney U, p-value = 0.008)
+between the two groups (Table 3).
+3.3 Combined elemental and isotopic
+ﬁngerprints for species discrimination
+Hippocampus reidi and H. kuda were not signiﬁcantly different
+concerning their stable isotope proﬁle of dorsal ﬁn samples
+(ANOSIM, p-value = 0.095). Thus, the potential of combining
+elemental ﬁngerprints from the whole-body and isotopes from
+dorsal ﬁns, was assessed. Phosphorous (P) was the element that
+revealed higher mean ratio values (mmol/mol Ca) in the whole-
+body of both species (771.782 ± 54.188 and 657.125 ± 17.534 mmol/
+mol Ca for H. kuda and H. reidi, respectively) (Table 4). Arsenic
+and V were the elements with lower mean Ca ratios in both H. kuda
+(0.002 ± 0.004 e-1 and 0.001 ± 0.009 e-2 mmol/mol Ca, respectively)
+and H. reidi (0.001 ± 0.004 e-1 and 0.001 ± 0.968 e-4 mmol/mol Ca,
+respectively) (Table 4). The combined isotopic and elemental
+proﬁles of H. kuda and H. reidi were signiﬁcantly different
+(ANOSIM, p-value = 0.008). The elements that most contributed
+to the signiﬁcant differences recorded between the two species were
+P, K, Na, Mg, Rb, Co, Sr and Ba (p-value = 0.035, Mann-Whitney U
+for all elements) (Table 4).
+The elements that revealed signiﬁcant differences in the whole-
+body of H. kuda and H. reidi, as well as the stable isotopes from
+TABLE 2 Niche overlap estimates, expressing the probability (%) at a a = 0.95 of species in the rows being found within the niche of species in
+the columns.
+Species - origin
+Hg - IIM
+Hk - IIM
+Hr - IIM
+Hg - CCMAR
+Hg - IIM
+–
+0.18
+1.58
+2.05
+Hk - IIM
+0.12
+–
+55.65
+–
+Hr - IIM
+1.69
+46.61
+–
+–
+Species - origin
+Hg - CCMAR
+Hh - CCMAR
+Hg - RF
+Hg - IIM
+Hg - CCMAR
+–
+23.3
+20.95
+1.26
+Hh - CCMAR
+95.49
+–
+–
+–
+Hg - RF
+59.18
+–
+–
+–
+IIM, Instituto de Investigaciones Marinas (CSIC, Vigo, Spain); CCMAR, Centro de Ciências do Mar (Faro, Portugal); RF, Ria Formosa coastal lagoon (Portugal).
+Hg, Hippocampus guttulatus; Hk, H. kuda; Hr, H. reidi; Hh, H. hippocampus.
+FIGURE 2
+Isotopic bi-plot relative to average d13C and d15N signatures of dorsal ﬁn samples from four Hippocampus species (H. guttulatus, H. kuda, H. reidi
+and H. hippocampus), cultured at Instituto de Investigaciones Marinas (IIM - CSIC, Vigo, Spain) and Centro de Ciências do Mar (CCMAR, Faro,
+Portugal), as well as wild H. guttulatus from Ria Formosa coastal lagoon (RF, Portugal). Standard ellipses with 95% credible intervals for the means.
+Hg, H. guttulatus; Hk, H. kuda; Hr, H. reidi and Hh, H. hippocampus.
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+06
+dorsal ﬁns, were included in the PCA. The ﬁrst two components
+explained 90.2% of group variability (Figure 3). The centroids for
+species were distanced from each other and groups were well
+discriminated. The variables Mg and Na were strongly correlated
+since the corresponding lines were overlapped (Figure 3). These two
+variables also revealed a strong relationship with K, Rb, P and Ba
+appearing, however, less correlated to the remaining variables. The
+two elements Sr and Co were also positively correlated, while the
+stable isotopes revealed a negative correlation (Figure 3).
+Hippocampus kuda replicates presented higher values for K, Rb,
+Mg, P, Na and Ba than those of H. reidi, with the opposite being true
+for Co and Sr, which revealed higher values for H. reidi
+replicates (Figure 3).
+4 Discussion
+4.1 Potential of isotopic proﬁles for species
+and geographic origin discrimination
+Isotopic proﬁles in animals’ whole bodies reﬂect dietary intake
+and composition (DeNiro and Epstein, 1978, 1981; Hobson and
+Clark, 1992; Fry, 2006; Martı́nez del Rio et al., 2009). However,
+isotopic proﬁles (d13C and d15N) can vary depending on tissue type
+and diet (DeNiro and Epstein, 1978, 1981). Valladares and Planas
+(2012) reported similar d13C and d15N values in dorsal ﬁns and
+muscle tissues of H. guttulatus, validating both matrices for SIA.
+This analysis has already been applied to ﬁsh migration studies,
+using matrices such as otoliths (Huijbers et al., 2013) and muscle
+tissues (Davidsen et al., 2017). However, to the authors best
+knowledge, there are no studies addressing the use of dorsal ﬁns’
+isotopic ﬁngerprints for tracing Hippocampus spp. geographic
+origin or for species discrimination.
+The dorsal ﬁns of H. kuda and H. reidi from IIM exhibited
+similar mean d13C and d15N values, as was the case for H. guttulatus
+and H. hippocampus from CCMAR (Tables 1, 3), expressing the
+dietary sources of both sites. Nevertheless, H. guttulatus from IIM
+displayed signiﬁcantly different d13C and d15N values to the other
+two cultured species, H. kuda and H. reidi (Tables 1, 3). The results
+of a study performed with freshwater ﬁsh species, revealed that
+phylogeny, as well as morphology, could be associated with d13C
+and d15N, even though the correlation between isotopic data and
+phylogeny was not considered very strong (Keppeler and
+Winemiller, 2020). Hippocamus kuda and H. reidi are
+phylogenetically closer than H. guttulatus (Teske et al., 2004),
+which may partially explain the similarities in isotopic
+ﬁngerprints recorded in H. kuda and H. reidi. Additionally, it has
+been described that temperature may affect d13C values in
+H. guttulatus juveniles (Valladares and Planas, 2020), which could
+also be related with the differences reported, as H. kuda and H. reidi
+TABLE 4
+Elemental ratios (mmol/mol Ca) from the whole-body of
+Hippocampus kuda (n = 4) and H. reidi (n = 5), cultured at Instituto de
+Investigaciones Marinas (IIM - CSIC, Vigo, Spain).
+Elements
+Elements ratios (mmol/mol Ca)
+p-value
+Seahorse species
+H. kuda
+H. reidi
+P
+771.782 ± 54.188
+657.125 ± 17.534
+0.035
+K
+59.276 ± 15.151
+28.695 ± 3.193
+0.035
+Na
+597.422 ± 29.438
+248.744 ± 63.736
+0.035
+Mg
+115.765 ± 8.005
+77.085 ± 8.094
+0.035
+Mn
+0.293 ± 0.089
+0.353 ± 0.058
+0.203
+Cu
+0.004 ± 0.001
+0.002 ± 0.009 e-1
+0.132
+Zn
+0.845 ± 0.128
+0.621 ± 0.111
+0.091
+As
+0.002 ± 0.004 e-1
+0.001 ± 0.004 e-1
+0.260
+Se
+0.009 ± 0.002
+0.007 ± 0.001
+0.132
+Rb
+0.007 ± 0.001
+0.003 ± 0.003 e-1
+0.035
+Sr
+4.323 ± 0.506
+5.953 ± 0.423
+0.035
+Li
+0.075 ± 0.007
+0.072 ± 0.009
+0.624
+B
+1.016 ± 0.073
+0.641 ± 0.242
+0.091
+Al
+3.777 ± 3.350
+1.012 ± 1.215
+0.091
+V
+0.001 ± 0.009 e-2
+0.001 ± 0.968 e-4
+0.624
+Cr
+0.040 ± 0.069
+0.007 ± 0.008
+0.624
+Fe
+0.511 ± 0.489
+0.445 ± 0.070
+0.260
+Co
+0.002 ± 0.001 e-1
+0.003 ± 0.001 e-1
+0.035
+Ni
+0.014 ± 0.016
+0.007 ± 0.004 e-1
+0.260
+Ba
+0.093 ± 0.036
+0.035 ± 0.008
+0.035
+P-values (signiﬁcant differences when p-value ≤0.05) from Mann-Whitney U, with Benjamini
+- Hochberg corrections for multiple comparisons.
+Values are expressed as mean ± standard deviation.
+TABLE 3 Pair-wise comparisons between seahorse species cultured at
+different research centers, Instituto de Investigaciones Marinas (IIM -
+CSIC, Vigo, Spain) or Centro de Ciências do Mar (CCMAR, Faro, Portugal),
+between cultured Hippocampus guttulatus from different locations (IIM
+or CCMAR) and between wild H. guttulatus from Ria Formosa coastal
+lagoon (RF, Portugal) and cultured H. guttulatus from CCMAR.
+Pair - wise comparisons
+ANOSIM
+(p-value)
+Mann -
+Whitney U
+(p-value)
+d13C
+(‰)
+d15N
+(‰)
+H. kuda - IIM vs H. guttulatus
+- IIM
+0.003
+0.007
+0.007
+H. reidi - IIM vs H. guttulatus - IIM
+0.002
+0.003
+0.003
+H. guttulatus - CCMAR vs
+H. hippocampus - CCMAR
+0.011
+0.317
+0.306
+H. guttulatus - CCMAR vs
+H. guttulatus - IIM
+< 0.001
+0.519
+0.004
+H. guttulatus - CCMAR vs
+H. guttulatus - RF
+0.006
+0.153
+0.008
+Analysis of similarities (ANOSIM) for assessing signiﬁcant differences (p-value ≤0.05)
+between the isotopic proﬁles (d13C and d15N) of seahorses’ dorsal ﬁns. Mann - Whitney U
+resulting p-values denote signiﬁcant differences, in individual isotopes (d13C or d15N) from
+seahorse’s dorsal ﬁns, when p-value ≤0.05. Benjamini - Hochberg correction was applied for
+multiple comparisons.
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+07
+are both tropical species and, thus, were cultured at higher water
+temperatures than temperate seahorse species H. guttulatus. The
+ellipses referring to d13C and d15N showed a trend for species from
+the same research center being placed closer to each other, except
+for H. guttulatus from IIM (Figure 2). Trophic overlap evidenced
+dietary similarities between H. reidi and H. kuda from IIM and
+between H. hippocampus and H. guttulatus from CCMAR (Table 2).
+Nevertheless, H. guttulatus from CCMAR displayed a low
+probability of niche overlap with H. hippocampus, potentially due
+to intra-speciﬁc variability, increasing niche area (Table 1). Factors,
+such as specimens’ size, may contribute to variability in d13C and
+d15N values (Davidsen et al., 2017). In seahorses, size can inﬂuence
+d13C and d15N values due to changes in prey preferences with
+growth (Valladares et al., 2016).
+Hippocampus guttulatus cultured at IIM exhibited signiﬁcantly
+higher d15N values than those of conspeciﬁcs cultured at CCMAR
+(Tables 1, 3). These differences likely originated from dissimilarities
+in the diet provided at each site. A study on the pipeﬁsh Syngnathus
+acus revealed that juveniles, with a higher habitat dispersion than
+adults, exhibited isotopic heterogeneity, mainly at d15N level, due to
+high dietary variability (Planas, 2022). Moreover, in the study
+developed by Planas et al. (2020b), dorsal ﬁns from H. guttulatus
+fed on different diets (Artemia and/or a mixture of frozen and
+captured mysidaceans) displayed differences in the stable isotopic
+proﬁles. Nonetheless, it is noteworthy that the similarities in d13C of
+H. guttulatus from IIM and CCMAR may be due to a similar
+assimilation of dietary items in both groups, while differences in
+d15N likely reﬂect variations in trophic levels of consumed prey
+(Planas et al., 2020b).
+Wild H. guttulatus from Ria Formosa coastal lagoon exhibited
+signiﬁcantly higher mean d15N values than those of cultured
+specimens from CCMAR (Tables 1, 3). This pattern aligns with
+ﬁndings for wild Sparus aurata, which also displayed higher d15N
+values than cultured conspeciﬁcs (Guerra-Garcı́a et al., 2023). These
+differences could be due to a higher trophic level occupied by ﬁshes
+that feed in the marine environment (Arechavala-Lopez et al.,
+2013). Additionally, the relationship between d15N values in
+estuarine ﬁsh and urbanization levels has been documented
+(Morris et al., 2015). In fact, between 2001 and 2002, when
+studied H. guttulatus were sourced from the wild, Ria Formosa
+coastal lagoon experienced changes in seagrass meadows due to
+abnormal wastewater discharges (Cabaço et al., 2008).
+4.2 Combined elemental and isotopic
+ﬁngerprints for species discrimination
+Previous studies have resorted to the combination of different
+analyses to improve geographic origin discrimination (Ricardo
+et al., 2024). Dorsal ﬁn isotopic proﬁles, more speciﬁcally d15N,
+effectively differentiated cultured H. guttulatus from different
+origins, and distinguished between wild and cultured specimens.
+However, this approach proved insufﬁcient for discriminating
+between phylogenetically close species (Table 3). As such, the
+potential of combining both isotopic proﬁles from dorsal ﬁns, as
+well as elemental ﬁngerprints from the whole body, was assessed.
+The elements that signiﬁcantly differed between H. kuda and
+H. reidi from IIM were P, K, Na, Mg, Rb, Co, Sr and Ba
+FIGURE 3
+Principal Component Analysis (PCA) for Hippocampus kuda (Hk) (n = 4) and H. reidi (Hr) (n = 5) cultured at Instituto de Investigaciones Marinas (IIM -
+CSIC, Vigo, Spain). Variables: potassium (K), rubidium (Rb), magnesium (Mg), phosphorus (P), sodium (Na), strontium (Sr), cobalt (Co), barium (Ba),
+d13C (d13C) and d15N (d15N). Elemental proﬁle was obtained from seahorses’ whole bodies, while stable isotopes were obtained from dorsal ﬁns.
+Ellipses correspond to 95% conﬁdence.
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+08
+(Table 4). Seahorses are known to be rich in Na, K, P (Lin et al.,
+2008) and Mg (Lall and Lewis-McCrea, 2007), a ﬁnding in line with
+the results recorded for cultured H. kuda and H. reidi (Table 4).
+There are several factors that inﬂuence elemental composition
+of ﬁsh calciﬁed structures, such as temperature, diet, water
+chemistry, physiology and genetics (Clarke et al., 2011; Kerr and
+Campana, 2014; Sturrock et al., 2015). In some cases, environmental
+factors are assumed to outweigh physiological aspects, when it
+comes to elemental composition, as is the case of Sr (Sturrock
+et al., 2014). This element has been pointed out as a marker of
+calciﬁed structures, inﬂuenced by environmental conditions, such
+as water chemistry (Bath et al., 2000; Campana, 2005), even though
+physiological aspects can also exert a strong inﬂuence on its
+regulation (Sturrock et al., 2014).
+Elements under rigorous physiological control, such as P, Na
+and K, could be interesting for species discrimination, since they are
+less easily shaped by environmental factors (Campana, 2005; Kerr
+and Campana, 2014). Magnesium present in calciﬁed structures was
+previously used as a ﬁsh stock marker (Avigliano et al., 2019), even
+though the effects of environmental factors on Mg/Ca from calciﬁed
+structures remains unclear (Nishimoto et al., 2010). It has also been
+described that Ba/Ca in estuarine ﬁsh otoliths may be negatively
+related with salinity, being the opposite true for temperature
+(Nelson et al., 2018). According to Barnes and Gillanders (2013),
+stock genetics also affected Ba/Ca incorporation in marine species
+Argyrosomus japonicus ﬁngerlings. The differences recorded in Mg,
+Sr and Ba composition in H. reidi and H. kuda might be attributed
+to physiological regulation, as seawater parameters, such as salinity
+and temperature, were kept identical and stable for both species. In
+the case of Co, a study on the marine ﬂatﬁsh Scophthalmus
+maximus has shown that abiotic factors such as pH and
+temperature, do not have a signiﬁcant effect on its assimilation
+(Pouil et al., 2018). Additionally, a study by Sturrock et al. (2014)
+found that the concentration of Rb in blood plasma of the marine
+ﬂatﬁsh Pleuronectes platessa was not largely inﬂuenced by
+physiological aspects. It has been suggested that this element’s
+uptake by ﬁsh is inﬂuenced not only by its environmental
+abundance, but also by concentrations of other metallic and alkali
+elements in the marine environment (Campbell et al., 2005).
+It is important to highlight that the analysis of different
+biological matrices may result in different elemental proﬁles, due
+to aspects related with metabolic pathways (Sadeghi et al., 2020).
+Indeed, a study led by Uncumusaoğlu et al. (2012), revealed that
+cadmium (Cd), Cu, lead (Pb) and Zn compositions in the muscle
+and liver tissues of wild H. hippocampus differed signiﬁcantly. The
+cultured adults of H. kuda and H. reidi surveyed in the present
+study were maintained under the same physicochemical conditions,
+with whole-body elemental analyses suggesting that inter-speciﬁc
+variability was the primary driver of elemental ﬁngerprint
+differences. Thus, combining signiﬁcantly different elements from
+the whole body and stable isotopes from dorsal ﬁns could enhance
+seahorse species identiﬁcation in apprehensions from illegal,
+unreported and unregulated (IUU) ﬁsheries and trade. As seafood
+samples may undergo different processing methods, which
+sometimes may damage DNA quality (Marı́n et al., 2018),
+geochemical tools could offer an alternative for discriminating dry
+specimens from different seahorse species.
+5 Conclusions
+The results of this preliminary study suggest that stable isotopes,
+mainly d15N, determined from cultured seahorse dorsal ﬁns, can be
+successfully used to trace their geographic origin, as well as
+discriminate between wild and cultured conspeciﬁcs. Fin-clipping
+is already a well stablished, non-lethal practice, employed on live
+seahorses (Valladares and Planas, 2012). Thus, resulting stable
+isotopic proﬁles may be useful for reconstructing the life history
+of specimens destined to the marine aquarium trade and originating
+from the wild or from culture facilities. The analysis of stable
+isotopes from dorsal ﬁns could therefore be paramount to certify
+cultured specimens and aquaculture facilities. It is, however, worth
+further investigating the potential effects of phylogeny on isotopic
+ﬁngerprints, as the temperate species seahorse H. guttulatus
+signiﬁcantly differed from tropical species cultured at IIM.
+Stable isotopic analysis alone might not be sufﬁcient to
+discriminate between cultured seahorse species, as H. kuda and
+H. reidi from IIM, as well as H. guttulatus and H. hippocampus from
+CCMAR, did not differ signiﬁcantly in d13C and d15N compositions.
+However, combining isotopic and elemental ﬁngerprints, from
+seahorse dorsal ﬁns and whole-body, may prove useful for species
+discrimination, namely for apprehended dry specimens originating
+from IUU ﬁsheries and trade. Further research on these topics is
+still required to evaluate the accuracy of the ﬁndings here reported,
+with an emphasis on specimens sourced from the wild.
+Data availability statement
+The original contributions presented in the study are included
+in the article/supplementary material. Further inquiries can be
+directed to the corresponding authors.
+Ethics statement
+The animal study was approved by the ethics committee
+from the Portuguese Veterinary Medicines Directorate for the
+Ministry of Agriculture, Rural Development and Fisheries. Under
+this approval, the captive breeding program for Hippocampus
+hippocampus and H. guttulatus (Project HIPPONUTRE,
+reference 16-02-01-FMP-54) was performed in compliance with
+the Guidelines of the European Union Council (86/609/EU) and
+Portuguese legislation for the use of laboratory animals. Animal
+capture, handling and sampling also followed all bioethical
+standards of the Spanish Government (Real Decreto 1201/2005,
+10th October 2005) and the Regional Government Xunta de Galicia
+(REGA ES360570202001/15/FUN/BIOL.AN/MPO01). The study
+was conducted in accordance with the local legislation and
+institutional requirements.
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+09
+Author contributions
+AC: Conceptualization, Data curation, Formal analysis,
+Investigation, Software, Visualization, Writing – original draft,
+Writing – review & editing. RC: Conceptualization, Funding
+acquisition, Investigation, Project administration, Resources,
+Supervision, Writing – review & editing. JP: Resources, Writing –
+review & editing. FR: Resources, Writing – review & editing. EF:
+Resources, Writing – review & editing. CP: Conceptualization,
+Investigation, Methodology, Resources, Supervision, Validation,
+Writing – review & editing. MP: Conceptualization, Data
+curation, Formal analysis, Funding acquisition, Investigation,
+Methodology, Project administration, Resources, Software,
+Supervision, Validation, Writing – review & editing.
+Funding
+The author(s) declare ﬁnancial support was received for the
+research, authorship, and/or publication of this article. This study
+was ﬁnancially supported by project CITAQUA, “Desenvolvimento
+do Projeto de Reforço do Polo de Aveiro (H4)”, framed within
+Measure 10 of Investment TC-C10-i01 -Hub Azul -Rede de
+Infraestruturas para a Economia Azul, ﬁnanced by the Recovery
+and Resilience Plan (RRP) and supported by Fundo Azul of the
+Portuguese Government. This work was also supported by national
+funds through Fundação para a Ciência e Tecnologia (FCT) under a
+PhD grant to AC (UI/BD/153063/2022). This study received
+Portuguese national funds from FCT through projects UIDB/
+04326/2020, UIDP/04326/2020 and LA/P/0101/2020 and was
+ﬁnanced by the scientiﬁc project HIPPONUTRE -”Cultivo do
+cavalo marinho de focinho comprido, Hippocampus guttulatus:
+Optimização zootécnica e avaliação de requisitos nutricionais”
+(Ref. proj. 16-02-01-FMP-54), ﬁnanced by the Programa
+Operacional MAR2020. Seahorses from IIM-CSIC were cultured
+under project Hippoeco through Spanish national funds (Ref
+CGL2015-68110-R, Ministerio de Ciencia, Innovación y
+Universidades) and co-funding by FEDER. Funding for isotopic
+analysis was provided by project Hippo-DEC: Diagnóstico del
+estado de conservación de caballitos de mar en el litoral español,
+áreas crı́ticas y medidas de conservación”, ﬁnanced by Ministerio
+para la Transición Ecológica y el Reto Demográﬁco. We
+acknowledge FCT/MEC for the ﬁnancial support to CESAM
+(UIDP/50017/2020+UIDB/50017/2020) and to GEOBIOTEC
+(UIDP/04035/2020) through national funds and co-funding by
+FEDER, within the PT2020 Partnership Agreement and Compete
+2020. We also acknowledge the project “Impacto e Consolidação em
+I&DT da Unidade de Investigação Quı́mica Orgânica, Produtos
+Naturais e Agroalimentares em áreas Agroalimentares e aﬁns
+ICT_2009_02_005_2034” for ﬁnancing the ICP-MS.
+Acknowledgments
+We acknowledge Miguel Cabral for statistical advisement and
+Pedro Pato Martins for technical support.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+The author(s) declared that they were an editorial board
+member of Frontiers, at the time of submission. This had no
+impact on the peer review process and the ﬁnal decision.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their afﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Anderson, M. J., Gorley, R. N., and Clarke, K. R. (2008). PERMANOVA+ for
+PRIMER: Guide to Software and Statistical Methods. Available online at: http://www.
+primer-e.com. (Accessed July 18, 2024).
+Arechavala-Lopez, P., Fernandez-Jover, D., Black, K. D., Ladoukakis, E., Bayle-
+Sempere, J. T., Sanchez-Jerez, P., et al. (2013). Differentiating the wild or farmed origin
+of Mediterranean ﬁsh: A review of tools for sea bream and sea bass. Rev. Aquac 5, 137–
+157. doi: 10.1111/raq.12006
+Avigliano, E., Carvalho, B. M., Miller, N., Gironde, S. C., Tombari, A., Limburg, K.,
+et al. (2019). Fin spine chemistry as a non-lethal alternative to otoliths for stock
+discrimination in an endangered catﬁsh. Mar. Ecol. Prog. Ser. 614, 147–157.
+doi: 10.3354/meps12895
+Barnes, T. C., and Gillanders, B. M. (2013). Combined effects of extrinsic and
+intrinsic factors on otolith chemistry: implications for environmental reconstructions.
+Can. J. Fish. Aquat. Sci. 70, 1159–1166. doi: 10.1139/cjfas-2012-0442
+Bath, G. E., Thorrold, S. R., Jones, C. M., Campana, S. E., Mclaren, J. W., and Lam, J.
+W. H. (2000). Strontium and barium uptake in aragonitic otoliths of marine ﬁsh.
+Geochim. Cosmochim. Acta 64, 1705–1714. doi: 10.1016/S0016-7037(99)00419-6
+Boehm, J. T., Bovee., E., Harris, S. E., Eddins, K., Akahoho, I., Foster, M., et al. (2023).
+The United States dried seahorse trade: A comparison of traditional Chinese medicine
+and ecommerce-curio markets using molecular identiﬁcation. PloS One 18, e0291874.
+doi: 10.1371/journal.pone.0291874
+Cabaço, S., Machás, R., Vieira, V., and Santos, R. (2008). Impacts of urban
+wastewater discharge on seagrass meadows (Zostera noltii). Estuar. Coast. Shelf Sci.
+78, 1–13. doi: 10.1016/j.ecss.2007.11.005
+Cabral, A. E., Ricardo, F., Patinha, C., da Silva, E. F., Correia, M., Palma, J., et al. (2021).
+Successful use of geochemical tools to trace the geographic origin of long-snouted seahorse
+Hippocampus guttulatus raised in captivity. Animals 11. doi: 10.3390/ani11061534
+Campana, S. E. (2005). “Otolith Elemental Composition as a Natural Marker of Fish
+Stocks,” in Stock Identiﬁcation Methods: Applications in Fishery Science. Eds. S. X.
+Cadrin, K. D. Friedland and J. R. Waldman (Amsterdam: Academic Press), 227–245.
+doi: 10.1016/B978-0-12-154351-8.X5000-X
+Campbell, L. M., Fisk, A. T., Wang, X., Köck, G., and Muir, D. C. (2005). Evidence for
+biomagniﬁcation of rubidium in freshwater and marine food webs. Can. J. Fish. Aquat.
+Sci. 62, 1161–1167. doi: 10.1139/f05-027
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+10
+Clarke, L. M., Conover, D. O., and Thorrold, S. R. (2011). Population differences in
+otolith chemistry have a genetic basis in Menidia menidia. Can. J. Fish. Aquat. Sci. 68,
+105–114. doi: 10.1139/F10-147
+Cohen, F. P. A., Pimentel, T., Valenti, W. C., and Calado, R. (2018). First insights on
+the bacterial ﬁngerprints of live seahorse skin mucus and its relevance for traceability.
+Aquaculture 492, 259–264. doi: 10.1016/j.aquaculture.2018.04.020
+Cohen, F. P. A., Valenti, W. C., and Calado, R. (2013). Traceability issues in the trade
+of marine ornamental species. Rev. Fish. Sci. 21, 98–111. doi: 10.1080/
+10641262.2012.760522
+Cohen, F. P. A., Valenti, W. C., Planas, M., and Calado, R. (2017). Seahorse
+aquaculture, biology and conservation: knowledge gaps and research opportunities.
+Rev. Fish. Sci. Aquac 25, 100–111. doi: 10.1080/23308249.2016.1237469
+Correia, M., Caldwell, I. R., Koldewey, H. J., Andrade, J. P., and Palma, J. (2015).
+Seahorse (Hippocampinae) population ﬂuctuations in the Ria Formosa Lagoon, south
+Portugal. J. Fish Biol. 87, 679–690. doi: 10.1111/jfb.12748
+Curtis, J. M. R. (2006). A case of mistaken identity: skin ﬁlaments are unreliable for
+identifying Hippocampus guttulatus and Hippocampus hippocampus. J. Fish Biol. 69,
+1855–1859. doi: 10.1111/j.1095-8649.2006.01228.x
+Curtis, J. M. R., Santos, S. V., Nadeau, J. L., Gunn, B., Bigney Wilner, K.,
+Balasubramanian, H., et al. (2017). Life history and ecology of the elusive European
+short-snouted seahorse Hippocampus hippocampus. J. Fish Biol. 91, 1603–1622.
+doi: 10.1111/jfb.13473
+Davidsen, J. G., Knudsen, R., Power, M., Sjursen, A. D., Rønning, L., Hårsaker, K.,
+et al. (2017). Trophic niche similarity among sea trout Salmo trutta in central Norway
+investigated using different time-integrated trophic tracers. Aquat. Biol. 26, 217–227.
+doi: 10.3354/ab00689
+DeNiro, M. J., and Epstein, S. (1978). Inﬂuence of diet on the distribution of carbon
+isotopes in animals. Geochim. Cosmochim. Acta 42, 495–506. doi: 10.1016/0016-7037
+(78)90199-0
+DeNiro, M. J., and Epstein, S. (1981). Inﬂuence of diet on the distribution of nitrogen
+isotopes in animals. Geochim. Cosmochim. Acta 45, 341–351. doi: 10.1016/0016-7037
+(81)90244-1
+Duarte, B., Carreiras, J., Mamede, R., Duarte, I. A., Caçador, I., Reis-Santos, P., et al.
+(2022). Written in ink: Elemental signatures in octopus ink successfully trace
+geographical origin. J. Food Compos. Anal. 109, 104479. doi: 10.1016/j.jfca.2022.104479
+Foster, S. J., and Vincent, A. C. J. (2004). Life history and ecology of seahorses:
+implications for conservation and management. J. Fish Biol. 65, 1–61. doi: 10.1111/
+j.1095-8649.2004.00429.x
+Fredriksen, S. (2003). Food web studies in a Norwegian kelp forest based on stable
+isotope (d13C and d15N) analysis. Mar. Ecol. Prog. Ser. 260, 71–81. doi: 10.3354/
+MEPS260071
+Fry, B. (1988). Food web structure on Georges Bank from stable C, N and S isotopic
+compositions. Limnol. Oceanogr. 33, 1182–1190. doi: 10.4319/LO.1988.33.5.1182
+Fry, B. (2006). “Scanning the future,” in Stable isotope ecology, vol. 277–284.
+(Springer, New York, NY).
+Guerra-Garcı́a, J. M., Calero-Cano, S., Donázar-Aramendı́a, I., Giráldez, I., Morales,
+E., Arechavala-Lopez, P., et al. (2023). Farming Sparus aurata (Teleostei: Sparidae) in
+marsh ponds: trophic characterization and trace metal accumulation. Mar. Environ.
+Res. 188, 106007. doi: 10.1016/j.marenvres.2023.106007
+Hobson, K. A., and Clark, R. G. (1992). Assessing avian diets using stable isotopes I:
+Turnover of 13C in tissues. Condor 94, 181–188. doi: 10.2307/1368807
+Huijbers, C. M., Nagelkerken, I., Debrot, A. O., and Jongejans, E. (2013). Geographic
+coupling of juvenile and adult habitat shapes spatial population dynamics of a coral reef
+ﬁsh. Ecology 94, 1859–1870. doi: 10.1890/11-1759.1
+Husson, F., Josse, J., Le, S., and Mazet, J. (2020). FactoMineR: multivariate
+exploratory data analysis and data mining. R Package version 1.
+IAPSO Working Group on Symbols, Units and Nomenclature in Physical
+Oceanography (1985). “The International System of Units (SI) in Oceanography,” in
+Unesco Technical Papers in Marine Science 45. (Paris (France): United Nations
+Educational, Scientiﬁc, and Cultural Organization) doi: 10.25607/OBP-666IUCN
+Jackson, A. L. (2023). Comparing populations. Available online at: https://cran.r-
+project.org/web/packages/SIBER/vignettes/siber-comparing-populations.html
+(Accessed February 20, 2024).
+Kassambara, A. (2020). Factoextra: Extract and Visualize the Results of Multivariate
+Data Analyses. Available online at: https://CRAN.R-project.org/package=factoextra
+(Accessed February 20, 2024).
+Keppeler, F. W., and Winemiller, K. O. (2020). Can ancestry and morphology be
+used as surrogates for species niche relationships? Ecol. Evol. 10, 6562–6578.
+doi: 10.1002/ece3.6390
+Kerr, L. A., and Campana, S. E. (2014). “Chemical Composition of Fish Hard Parts as
+a Natural Marker of Fish Stocks,” in In Stock Identiﬁcation Methods: Applications in
+Fishery Science, 2nd Edition. Eds. S. X. Cadrin, L. A. Kerr and S. Mariani (Amsterdam:
+Academic Press), 205–234. doi: 10.1016/B978-0-12-397003-9.00011-4
+Kuo, T. C., Laksanawimol, P., Aylesworth, L., Foster, S. J., and Vincent, A. C. J.
+(2018). Changes in the trade of bycatch species corresponding to CITES regulations: the
+case of dried seahorse trade in Thailand. Biodivers. Conserv. 27, 3447–3468.
+doi: 10.1007/s10531-018-1610-2
+Kuo, T. C., and Vincent, A. (2018). Assessing the changes in international trade of
+marine ﬁshes under CITES regulations – A case study of seahorses. Mar. Policy 88, 48–
+57. doi: 10.1016/j.marpol.2017.10.031
+Lall, S. P., and Lewis-McCrea, L. M. (2007). Role of nutrients in skeletal metabolism
+and pathology in ﬁsh - An overview. Aquaculture 267, 3–19. doi: 10.1016/
+j.aquaculture.2007.02.053
+Leal, M. C., Pimentel, T., Ricardo, F., Rosa, R., and Calado, R. (2015). Seafood
+traceability: current needs, available tools, and biotechnological challenges for origin
+certiﬁcation. Trends Biotechnol. 33, 331–336. doi: 10.1016/j.tibtech.2015.03.003
+Lin, Q., Lin, J., Lu, J., and Li, B. (2008). Biochemical composition of six seahorse
+species, Hippocampus sp., from the Chinese coast. J. World Aquac Soc. 39, 225–234.
+doi: 10.1111/j.1749-7345.2008.00159.x
+Luo, W., Qu, H., Li, J., Wang, X., and Lin, Q. (2015). A novel method for the
+identiﬁcation of seahorses (genus Hippocampus) using cross-species ampliﬁable
+microsatellites. Fish. Res. 172, 318–324. doi: 10.1016/j.ﬁshres.2015.07.017
+Marı́n, A., Serna, J., Robles, C., Ramı́rez, B., Reyes-Flores, L. E., Zelada-Mázmela, E.,
+et al. (2018). A glimpse into the genetic diversity of the Peruvian seafood sector:
+Unveiling species substitution, mislabeling and trade of threatened species. PloS One
+13, e0206596. doi: 10.1371/journal.pone.0206596
+Martı́nez del Rio, C., Wolf, N., Carleton, S. A., and Gannes, L. Z. (2009). Isotopic
+ecology ten years after a call for more laboratory experiments. Biol. Rev. Camb. Philos.
+84, 91–111. doi: 10.1111/j.1469-185X.2008.00064.x
+Morris, C., Lee, S. Y., and Van De Merwe, J. (2015). [amp]]delta;15N of estuarine
+ﬁshes as a quantitative indicator of urbanization. Ecol. Indic 56, 41–49. doi: 10.1016/
+j.ecolind.2015.03.028
+Nelson, T. R., DeVries, D. R., and Wright, R. A. (2018). Salinity and temperature
+effects on element incorporation of Gulf Killiﬁsh Fundulus grandis otoliths. Estuaries
+Coast. 41, 1164–1177. doi: 10.1007/s12237-017-0341-z
+Nishimoto, M. M., Washburn, L., Warner, R. R., Love, M. S., and Paradis, G. L.
+(2010). Otolith elemental signatures reﬂect residency in coastal water masses. Environ.
+Biol. Fishes 89, 341–356. doi: 10.1007/s10641-010-9698-6
+Piñeiro-Corbeira, C., Iglesias, L., Nogueira, R., Campos, S., Jiménez, A., Regueira, M.,
+et al. (2021). Structure and trophic niches in mobile epifauna assemblages associated
+with seaweeds and habitats of syngnathid ﬁshes in cı́es archipelago (Atlantic islands
+marine national park, North West Iberia). Front. Mar. Sci. 8. doi: 10.3389/
+fmars.2021.773367
+Planas, M. (2021). Carry-over effects of pre-breeding diets on seahorse
+(Hippocampus reidi) reproductive success. Aquaculture 533, 736148. doi: 10.1016/
+j.aquaculture.2020.736148
+Planas, M. (2022). Ecological traits and trophic plasticity in the greater pipeﬁsh
+syngnathus acus in the NW Iberian peninsula. Biology 11, 712. doi: 10.3390/
+biology11050712
+Planas, M., Chamorro, A., Paltrinieri, A., Campos, S., Jiménez, A., Nedelec, K., et al.
+(2020b). Effect of diet on breeders and inheritance in syngnathids: application of
+isotopic experimentally derived data to ﬁeld studies. Mar. Ecol. Prog. Ser. 650, 107–123.
+doi: 10.3354/meps13315
+Planas, M., Paltrinieri, A., Carneiro, M. D. D., and Hernández-Urcera, J. (2020a).
+Effects of tissue preservation on carbon and nitrogen stable isotope signatures in
+syngnathid ﬁshes and prey. Animals 10, 1–16. doi: 10.3390/ani10122301
+Post, D. M. (2002). Using stable isotopes to estimate trophic position: models,
+methods, and assumptions. Ecology 83, 703–718. doi: 10.1890/0012-9658(2002)083
+[0703:USITET]2.0.CO;2
+Pouil, S., Oberhänsli, F., Bustamante, P., and Metian, M. (2018). Investigations of
+temperature and pH variations on metal trophic transfer in turbot (Scophthalmus
+maximus). Environ. Sci. pollut. Res. 25, 11219–11225. doi: 10.1007/s11356-017-8691-4
+R Core Team (2019). A Language and Environment for Statistical Computing.
+Available online at: https://cran.r-project.org/faqs.html (Accessed February 20, 2024).
+Ricardo, F., Lopes, M. L., Mamede, R., Domingues, M. R., Ferreira da Silva, E.,
+Patinha, C., et al. (2024). Combined use of fatty acid proﬁles and elemental ﬁngerprints
+to trace the geographic origin of live baits for sports ﬁshing: the solitary tube worm
+(Diopatra neapolitana, annelida, onuphidae) as a case study. Animals 14, 1361.
+doi: 10.3390/ani14091361
+Ricardo, F., Mamede, R., Bispo, R., Santos, A., Ferreira da Silva, E., Patinha, C., et al.
+(2020). Cost-efﬁciency improvement of bivalves shells preparation when tracing their
+geographic origin through ICP-MS analysis of elemental ﬁngerprints. Food Control
+118, 107383. doi: 10.1016/j.foodcont.2020.107383
+Ricardo, F., Pimentel, T., Génio, L., and Calado, R. (2017). Spatio-Temporal
+variability of trace elements ﬁngerprints in cockle (Cerastoderma edule) shells and its
+relevance for tracing geographic origin. Sci. Rep. 7, 3475. doi: 10.1038/s41598-017-
+03381-w
+Sadeghi, P., Loghmani, M., and Frokhzad, S. (2020). Human health risk assessment
+of heavy metals via consumption of commercial marine ﬁsh (Thunnus albacares,
+Euthynnus afﬁnis, and Katsuwonus pelamis) in Oman Sea. Environ. Sci. pollut. Res. 27,
+14944–14952. doi: 10.1007/s11356-020-07907-0
+Sofoulaki, K., Kalantzi, I., Machias, A., Mastoraki, M., Chatzifotis, S., Mylona, K.,
+et al. (2018). Metals and elements in sardine and anchovy: species speciﬁc differences
+and correlations with proximate composition and size. Sci. Total Environ. 645, 329–
+338. doi: 10.1016/j.scitotenv.2018.07.133
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+11
+Sturrock, A. M., Hunter, E., Milton, J. A., Johnson, R. C., Waring, C. P., Trueman, C.
+N., et al. (2015). Quantifying physiological inﬂuences on otolith microchemistry.
+Methods Ecol. Evol. 6, 806–816. doi: 10.1111/2041-210X.12381
+Sturrock, A. M., Trueman, C. N., Milton, J. A., Waring, C. P., Cooper, M. J., and Hunter,
+E. (2014). Physiological inﬂuences can outweigh environmental signals in otolith
+microchemistry research. Mar. Ecol. Prog. Ser. 500, 245–264. doi: 10.3354/meps10699
+Swanson, H. K., Lysy, M., Power, M., Stasko, A. D., Johnson, J. D., and Reist, J. D.
+(2015). A new probabilistic method for quantifying n-dimensional ecological niches
+and niche overlap. Ecology 96, 318–324. doi: 10.1890/14-0235.1
+Teske, P. R., Cherry, M. I., and Matthee, C. A. (2004). The evolutionary history of
+seahorses (Syngnathidae: Hippocampus): Molecular data suggest a West Paciﬁc origin
+and two invasions of the Atlantic Ocean. Mol. Phylogenet. Evol. 30, 273–286.
+doi: 10.1016/S1055-7903(03)00214-8
+The IUCN Red List of Threatened Species (2023). Available online at: https://www.
+iucnredlist.org (Accessed April 26, 2024). Version 2023-1.2023.
+Uncumusaoğlu, A. A., Gürkan, Ş., Özkan, E. Y., and Büyükışık, H. B. (2012). A
+preliminary research on heavy metals accumulated in liver and muscle tissue of
+Seahorse (Hippocampus hippocampus) catched from Tirebolu coasts (Giresun,
+Eastern Black Sea). Fresenius Environ. Bull. 21, 3418–3420.
+Vaidyanathan, T., and Vincent, A. C. J. (2021). State of seahorse ﬁsheries in India,
+nearly two decades after they were banned. Biodivers Conserv. 30, 2223–2253.
+doi: 10.1007/s10531-021-02188-6
+Valladares, S., and Planas, M. (2012). Non-lethal dorsal ﬁn sampling for stable isotope
+analysis in seahorses. Aquat. Ecol. 46, 363–370. doi: 10.1007/s10452-012-9407-y
+Valladares, S., and Planas, M. (2020). Application of effective day degrees in the
+assessment of stable isotope patterns in developing seahorses under different
+temperatures. Animals 10, 1–14. doi: 10.3390/ani10091571
+Valladares, S., Soto, D. X., and Planas, M. (2016). Dietary composition of endangered
+seahorses determined by stable isotope analysis. Mar. Freshw. Res. 68, 831–839.
+doi: 10.1086/303250
+Vincent, A. C. J., Foster, S. J., and Koldewey, H. J. (2011). Conservation and
+management of seahorses and other Syngnathidae. J. Fish Biol. 78, 1681–1724.
+doi: 10.1111/j.1095-8649.2011.03003.x
+Vivas, M., Peñalver, J., Oliver, J. A., López Giraldo, J. D., and Mena, C. (2023).
+Population dynamics of the long-snouted seahorse (Hippocampus guttulatus Cuvier
+1829) in the Mar Menor coastal lagoon. J. Fish Biol. 104, 163–170. doi: 10.1111/
+jfb.15564
+Watchorn, D. J., Cowan, M. A., Driscoll, D. A., Nimmo, D. G., Ashman, K. R.,
+Garkaklis, M. J., et al. (2022). Artiﬁcial habitat structures for animal conservation:
+design and implementation, risks and opportunities. Front. Ecol. Environ. 20, 301–309.
+doi: 10.1002/fee.2470
+Wei, T., Simko, V., Levy, M., Xie, Y., Jin, Y., and Zemla, J. (2017). corrplot:
+Visualization of a Correlation Matrix. Available online at: https://cran.r-project.org/
+package=corrplot (Accessed February 20, 2024).
+Wickham, H. (2016). Ggplot2: elegant graphics for data analysis. 2nd ed (New York,
+USA: Springer International Publishing). doi: 10.1007/978-3-319-24277-4
+Woodall, L. C., Jones, R., Zimmerman, B., Guillaume, S., Stubbington, T., Shaw, P.,
+et al. (2012). Partial ﬁn-clipping as an effective tool for tissue sampling seahorses,
+Hippocampus spp. J. Mar. Biolog. Assoc. U.K. 92, 1427–1432. doi: 10.1017/
+S0025315411001810
+Woodall, L. C., Otero-Ferrer, F., Correia, M., Curtis, J. M. R., Garrick-Maidment, N.,
+Shaw, P. W., et al. (2018). A synthesis of European seahorse taxonomy, population
+structure, and habitat use as a basis for assessment, monitoring and conservation. Mar.
+Biol. 165, 19. doi: 10.1007/s00227-017-3274-y
+Cabral et al.
+10.3389/fmars.2024.1494320
+Frontiers in Marine Science
+frontiersin.org
+12
 
